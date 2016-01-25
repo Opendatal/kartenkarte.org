@@ -1,0 +1,7 @@
+## Default .htaccess file
+RewriteEngine On
+RewriteRule ^data/index.php - [NC,L]
+RewriteRule ^/?data/(.*)$ data/index.php?file=$1 
+
+RewriteRule ^js/project.js js/project.php 
+

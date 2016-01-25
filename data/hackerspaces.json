@@ -1,0 +1,5817 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-01-29T10:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 260050809,
+  "lat": 52.5129735,
+  "lon": 13.4201313,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housename": "c-base",
+    "addr:housenumber": "20",
+    "addr:postcode": "10179",
+    "addr:street": "Rungestraße",
+    "addr:suburb": "Mitte",
+    "amenity": "pub",
+    "contact:phone": "+493028599300",
+    "contact:website": "https://www.c-base.org/",
+    "drink:club-mate": "served",
+    "internet_access": "wlan",
+    "leisure": "hackerspace",
+    "name": "c-base",
+    "smoking": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "public areas are accessible, member areas in the basement are not.",
+    "wikipedia": "de:C-base"
+  }
+},
+{
+  "type": "node",
+  "id": 277906430,
+  "lat": 48.4006236,
+  "lon": 9.9913029,
+  "tags": {
+    "amenity": "studio",
+    "description": "Freies Radio",
+    "description:en": "Community Radio",
+    "leisure": "hackerspace",
+    "name": "Radio free FM",
+    "type": "audio",
+    "website": "http://www.freefm.de/",
+    "wheelchair": "no",
+    "workshop": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 325725839,
+  "lat": 45.8097676,
+  "lon": 15.9733038,
+  "tags": {
+    "building": "yes",
+    "leisure": "hackerspace",
+    "name": "HackLab klub Mama"
+  }
+},
+{
+  "type": "node",
+  "id": 426993011,
+  "lat": 38.9336155,
+  "lon": -77.0359882,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "HacDC",
+    "url": "http://www.hacdc.org"
+  }
+},
+{
+  "type": "node",
+  "id": 475369672,
+  "lat": 49.7614564,
+  "lon": 9.9602596,
+  "tags": {
+    "addr:city": "Würzburg",
+    "addr:housenumber": "23R",
+    "addr:postcode": "97084",
+    "addr:street": "Winterhäuser Straße",
+    "contact:website": "www.labor23.org",
+    "leisure": "hackerspace",
+    "name": "Labor23",
+    "note": "position ungenau"
+  }
+},
+{
+  "type": "node",
+  "id": 495428912,
+  "lat": 51.3303640,
+  "lon": 12.3308390,
+  "tags": {
+    "addr:city": "Leipzig",
+    "addr:country": "DE",
+    "addr:housenumber": "93",
+    "addr:postcode": "04229",
+    "addr:street": "Karl-Heine-Straße",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "sublab",
+    "phone": "+49 341 39 29 92 56",
+    "website": "https://sublab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 504315018,
+  "lat": 48.6949702,
+  "lon": 6.1935880,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "GSILab",
+    "network": "FabLab",
+    "opening_hours": "Mo-Fr 09:30-11:30, 13:30-17:30",
+    "website": "http://www.facebook.com/GSILab",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 540653800,
+  "lat": 43.6189015,
+  "lon": 1.4202637,
+  "tags": {
+    "addr:city": "Toulouse",
+    "addr:full": "12 rue Ferdinand Lasalle, Toulouse. Dans les locaux de Mix'Art Myrys.",
+    "addr:housenumber": "12",
+    "addr:street": "rue Ferdinand Lasalle",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Tetalab",
+    "opening_hours": "We 21:00+",
+    "shop": "doityourself",
+    "website": "http://tetalab.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 546876934,
+  "lat": 49.8792123,
+  "lon": 8.6452228,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Chaos Darmstadt  Trollhöhle",
+    "website": "http://www.chaos-darmstadt.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 582281835,
+  "lat": 55.6763141,
+  "lon": 12.5455447,
+  "tags": {
+    "addr:country": "DK",
+    "drink:beer": "yes",
+    "drink:club-mate": "bottled",
+    "leisure": "hackerspace",
+    "name": "Labitat",
+    "website": "https://labitat.dk"
+  }
+},
+{
+  "type": "node",
+  "id": 602389127,
+  "lat": 51.9433754,
+  "lon": 7.6382367,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:postcode": "48155",
+    "addr:street": "Am Hawerkamp",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Warpzone e.V.",
+    "website": "http://www.warpzone.ms"
+  }
+},
+{
+  "type": "node",
+  "id": 638569869,
+  "lat": 48.7708295,
+  "lon": 11.3818220,
+  "tags": {
+    "amenity": "library",
+    "description": "Hackerspace",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "bytewerk",
+    "opening_hours": "We 19:00-23:23",
+    "website": "http://www.bytewerk.org"
+  }
+},
+{
+  "type": "node",
+  "id": 651273068,
+  "lat": 43.1614760,
+  "lon": -77.5836012,
+  "tags": {
+    "addr:city": "Rochester",
+    "addr:country": "US",
+    "addr:housenumber": "1115",
+    "addr:postcode": "14609",
+    "addr:state": "NY",
+    "addr:street": "Main Street East",
+    "leisure": "hackerspace",
+    "name": "Interlock Rochester",
+    "note": "Enter via Door #7 and go to Suite 200 on the second floor",
+    "website": "http://www.interlockroc.org/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 668061696,
+  "lat": 47.0655785,
+  "lon": 15.4505767,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "8010",
+    "addr:street": "Brockmanngasse",
+    "commons": "hackerspace",
+    "contact:email": "realraum@realraum.at",
+    "contact:google_plus": "https://plus.google.com/+RealraumAt/",
+    "contact:phone": "+43 780 700 888 524",
+    "description": "realraum - hackerspace in Graz. Labor für Elektronik, Computer und Technik Geeks",
+    "drink:club-mate": "yes",
+    "identity": "commons",
+    "interaction": "diy_and_dit",
+    "internet_access": "yes",
+    "leisure": "hackerspace",
+    "mode_of_organisation:ownership_structure": "Verein",
+    "mode_of_organisation:self_managed": "yes",
+    "name": "realraum",
+    "operator": "Verein für Technik in Kultur und Gesellschaft",
+    "payment:bitcoin": "yes",
+    "production_input:knowledge:free_licence": "yes",
+    "production_input:knowledge:public_domain": "yes",
+    "provides": "learning_opportunities",
+    "source": "survey",
+    "website": "http://www.realraum.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 670365007,
+  "lat": 49.5079668,
+  "lon": 8.4994166,
+  "tags": {
+    "addr:city": "Mannheim",
+    "addr:housenumber": "22-24",
+    "addr:postcode": "68309",
+    "addr:street": "Boveristraße",
+    "contact:facebook": "https://facebook.com/RaumZeitLabor",
+    "contact:twitter": "@RaumZeitLabor",
+    "drink:club-mate": "yes",
+    "email": "info@raumzeitlabor.de",
+    "image": "File:RaumZeitLabor_Stairs.jpg",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "leisure": "hackerspace",
+    "name": "RaumZeitLabor",
+    "opening_hours": "Tu 18:00+ \"Offene RaumZeitLaborierung\" || \"Falls Mitglied anwesend. Mehr unter http://s.rzl.so\"",
+    "operator": "RaumZeitLabor e.V.",
+    "phone": "+49 621 76231370",
+    "short_name": "RZL",
+    "website": "https://raumzeitlabor.de/",
+    "wheelchair": "no",
+    "wikipedia": "en:RaumZeitLabor"
+  }
+},
+{
+  "type": "node",
+  "id": 671024080,
+  "lat": 49.0067692,
+  "lon": 8.4073718,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "76133",
+    "addr:street": "Steinstraße",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Entropia e.V.",
+    "website": "https://entropia.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 717702812,
+  "lat": 45.4793479,
+  "lon": -73.5897879,
+  "tags": {
+    "addr:door": "33B",
+    "addr:housenumber": "999",
+    "addr:postcode": "H4C 2S3",
+    "addr:street": "du Collège",
+    "email": "info@foulab.org",
+    "leisure": "hackerspace",
+    "name": "Le Laboratoire Foulab",
+    "name:en": "Foulab Laboratory",
+    "opening_hours": "24/7",
+    "phone": "514-545-1525",
+    "shop": "doityourself",
+    "website": "http://foulab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 724393599,
+  "lat": 42.3501438,
+  "lon": -71.0483990,
+  "tags": {
+    "addr:city": "Boston",
+    "addr:full": "355 Congress St, Boston, MA 02210",
+    "addr:housenumber": "355",
+    "addr:postcode": "02210",
+    "addr:street": "Congress St",
+    "leisure": "hackerspace",
+    "name": "Bocoup Loft",
+    "website": "http://loft.bocoup.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 788550155,
+  "lat": 60.2219925,
+  "lon": 24.8519448,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:full": "Takkatie 18, 00370, Pitäjänmäki, Helsinki, Finland",
+    "addr:housenumber": "18",
+    "addr:postcode": "00370",
+    "addr:street": "Takkatie",
+    "ele": "-1",
+    "leisure": "hackerspace",
+    "name": "Helsinki Hacklab",
+    "note": "Entrance behind the building. Open evenings on Tuesdays starting from 17:00.",
+    "opening_hours": "Tu 17:00-24:00 for visitors",
+    "phone": "+358 45 209 2929",
+    "source": "member",
+    "website": "http://www.helsinki.hacklab.fi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 825341680,
+  "lat": -27.4516116,
+  "lon": 153.0385138,
+  "tags": {
+    "addr:city": "Fortitude Valley",
+    "addr:country": "AU",
+    "addr:full": "10 Light Street, Fortitude Valley, Queensland 4006, AU",
+    "addr:housenumber": "10",
+    "addr:postcode": "4006",
+    "addr:street": "Light St",
+    "alt_name": "HSBNE",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Brisbane",
+    "website": "http://hsbne.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 858466333,
+  "lat": 49.4393396,
+  "lon": 11.0803669,
+  "tags": {
+    "addr:city": "Nürnberg",
+    "addr:country": "DE",
+    "addr:postcode": "90459",
+    "addr:street": "Kopernikusplatz",
+    "amenity": "studio",
+    "description": "Freies Radio",
+    "description:en": "community radio",
+    "leisure": "hackerspace",
+    "name": "Radio Z",
+    "type": "audio",
+    "website": "http://www.radio-z.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 965894474,
+  "lat": 49.4636517,
+  "lon": 8.4886818,
+  "tags": {
+    "addr:city": "Mannheim",
+    "addr:housenumber": "106-116",
+    "addr:postcode": "68163",
+    "addr:street": "Neckarauer Straße",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Mannheim e.V.",
+    "phone": "+49 (621) 122 853 23",
+    "website": "http://www.ccc-mannheim.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 979119481,
+  "lat": 52.2729430,
+  "lon": 10.5349595,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "ags",
+    "opening_hours": "Tu 19:00-22:00; Th 19:00-22:00",
+    "url": "http://www.ags.tu-bs.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 980590754,
+  "lat": 45.7130721,
+  "lon": 11.3564967,
+  "tags": {
+    "amenity": "school",
+    "leisure": "hackerspace",
+    "name": "Spazio \"Promozione Software Libero e assistenza\"",
+    "website": "http://www.avilug.it"
+  }
+},
+{
+  "type": "node",
+  "id": 992854270,
+  "lat": 43.5415808,
+  "lon": -80.2423499,
+  "tags": {
+    "addr:city": "Guelph",
+    "addr:country": "CA",
+    "addr:housenumber": "71 B",
+    "addr:postcode": "N1E 5R3",
+    "addr:state": "ON",
+    "addr:street": "Wyndham Street South",
+    "leisure": "hackerspace",
+    "name": "DIYode Makers Club",
+    "website": "www.diyode.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1015099280,
+  "lat": -36.8600778,
+  "lon": 174.7552309,
+  "tags": {
+    "addr:full": "27 Edinburgh Street, Newton, Auckland",
+    "alt_name": "Tangle Ball",
+    "leisure": "hackerspace",
+    "name": "Tangleball",
+    "website": "http://www.tangleball.org.nz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1029845599,
+  "lat": 49.4958314,
+  "lon": 8.4743160,
+  "tags": {
+    "addr:city": "Mannheim",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "68167",
+    "addr:street": "Brückenstraße",
+    "amenity": "studio",
+    "building": "yes",
+    "description": "Freies Radio",
+    "description:en": "Community Radio",
+    "leisure": "hackerspace",
+    "name": "bermuda.funk",
+    "type": "audio",
+    "website": "http://www.bermudafunk.org/",
+    "wikipedia": "de:Bermudafunk"
+  }
+},
+{
+  "type": "node",
+  "id": 1040816938,
+  "lat": 49.1122486,
+  "lon": 9.7339974,
+  "tags": {
+    "addr:city": "Schwäbisch Hall",
+    "addr:housenumber": "9",
+    "addr:postcode": "74523",
+    "addr:street": "Haalstraße",
+    "amenity": "studio",
+    "building": "yes",
+    "description": "Freies Radio",
+    "description:en": "Community Radio",
+    "leisure": "hackerspace",
+    "name": "StHoerfunk",
+    "type": "audio"
+  }
+},
+{
+  "type": "node",
+  "id": 1040825408,
+  "lat": 48.4994504,
+  "lon": 9.0644129,
+  "tags": {
+    "addr:city": "Tübingen",
+    "addr:country": "DE",
+    "addr:housenumber": "203",
+    "addr:postcode": "72072",
+    "addr:street": "Hechinger Straße",
+    "amenity": "studio",
+    "description": "Freies Radio",
+    "description:en": "Community Radio",
+    "leisure": "hackerspace",
+    "name": "Wüste Welle",
+    "type": "audio",
+    "website": "http://www.wueste-welle.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1040849627,
+  "lat": 48.1373987,
+  "lon": 11.5538615,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "81",
+    "addr:postcode": "80336",
+    "addr:street": "Schwanthalerstraße",
+    "amenity": "studio",
+    "description": "Freies Radio",
+    "description:en": "Community Radio",
+    "leisure": "hackerspace",
+    "name": "Radio LORA München",
+    "note": "Erdgeschoss",
+    "note:en": "basement",
+    "on_air:frequency": "92.4 FM",
+    "on_air:frequency:digital": "DAB+ 11C",
+    "on_air:hours": "Mo-Fr 17:00-24:00",
+    "on_air:hours:digital": "Mo-Fr 00:00-16:00,17:00-24:00; Sa 00:00-06:00; Su 00:00-07:00,10:00-13:00,14:00-21:00",
+    "type": "audio",
+    "website": "http://lora924.de/",
+    "workshop": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 1041638656,
+  "lat": 50.0831943,
+  "lon": 8.2294528,
+  "tags": {
+    "addr:city": "Wiesbaden",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "65183",
+    "addr:street": "Sedanplatz",
+    "drink:club-mate": "yes",
+    "drink:club-mate_cola": "yes",
+    "leisure": "hackerspace",
+    "name": "cccmz",
+    "opening_hours": "Tu 19:00+",
+    "website": "http://wiesbaden.ccc.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1049539115,
+  "lat": 52.4560765,
+  "lon": 13.2974781,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "spline",
+    "website": "http://spline.de"
+  }
+},
+{
+  "type": "node",
+  "id": 1075812463,
+  "lat": 48.1067505,
+  "lon": -1.6510436,
+  "tags": {
+    "addr:city": "Rennes",
+    "addr:full": "48 Boulevard Villebois-Mareuil, Rennes.",
+    "addr:housenumber": "48",
+    "addr:street": "boulevard Villebois-Mareuil",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Breizh-Entropy",
+    "network": "FabLab",
+    "website": "http://breizh-entropy.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 1079584678,
+  "lat": 52.5308366,
+  "lon": 13.4073832,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "10119",
+    "addr:street": "Lottumstraße",
+    "addr:suburb": "Prenzlauer Berg",
+    "amenity": "studio",
+    "description": "Freies Radio",
+    "description:en": "community radio",
+    "leisure": "hackerspace",
+    "name": "PiRadio",
+    "studio": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 1096120193,
+  "lat": 48.1442725,
+  "lon": 17.1065474,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "3",
+    "addr:level": "2",
+    "addr:postcode": "811 03",
+    "addr:ring": "L2",
+    "addr:street": "Michalská",
+    "addr:streetnumber": "3",
+    "addr:suburb": "Staré Mesto",
+    "amenity": "community_centre",
+    "brewery": "Pilsner Urquell",
+    "drink:club-mate": "yes",
+    "facebook": "https://www.facebook.com/progressbar",
+    "leisure": "hackerspace",
+    "link:ical": "https://www.progressbar.sk/calendar.ics",
+    "name": "Progressbar",
+    "payment:bitcoin": "yes",
+    "service:bicycle:diy": "yes",
+    "source": "local knowledge",
+    "twitter": "https://twitter.com/progressbarsk",
+    "website": "http://www.progressbar.sk",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1139151015,
+  "lat": 47.6293422,
+  "lon": 8.2628398,
+  "tags": {
+    "addr:city": "Tiengen",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "79761",
+    "addr:street": "Badstraße",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Reaktor23",
+    "website": "http://reaktor23.org"
+  }
+},
+{
+  "type": "node",
+  "id": 1145847293,
+  "lat": 55.6066452,
+  "lon": 13.0258658,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Recompile",
+    "website": "http://www.recompile.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 1168301133,
+  "lat": 50.8550385,
+  "lon": 4.3418278,
+  "tags": {
+    "addr:housenumber": "34",
+    "addr:street": "Quai des Charbonnages - Koolmijnkaai",
+    "leisure": "hackerspace",
+    "name": "OKNO",
+    "website": "http://www.okno.be"
+  }
+},
+{
+  "type": "node",
+  "id": 1191242601,
+  "lat": 47.5323068,
+  "lon": 7.6342977,
+  "tags": {
+    "addr:city": "Muttenz",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "4132",
+    "addr:street": "Birsfelderstrasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "The RAIF HQ",
+    "website": "http://kabelsalat.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1194648788,
+  "lat": 39.3456648,
+  "lon": -76.5298273,
+  "tags": {
+    "addr:city": "Baltimore",
+    "addr:country": "US",
+    "addr:housenumber": "4600",
+    "addr:postcode": "21206",
+    "addr:street": "Powell Ave",
+    "leisure": "hackerspace",
+    "name": "Harford Hackerspace",
+    "website": "http://harfordhackerspace.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1194690188,
+  "lat": 51.3205932,
+  "lon": 9.4952437,
+  "tags": {
+    "addr:city": "Kassel",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "34117",
+    "addr:street": "Sickingenstraße",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "flipdot",
+    "website": "http://flipdot.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1210686061,
+  "lat": 52.7534825,
+  "lon": 13.3868791,
+  "tags": {
+    "addr:city": "Wensickendorf",
+    "addr:housenumber": "35a",
+    "addr:postcode": "16515",
+    "addr:street": "Hauptstraße",
+    "leisure": "hackerspace",
+    "name": "\"Garten zur schönen Kybernetik\"",
+    "url": "http://www.keimform.de/2009/neuer-hackerspace-noerdlich-von-berlin/"
+  }
+},
+{
+  "type": "node",
+  "id": 1213625556,
+  "lat": 51.2166032,
+  "lon": 6.7835209,
+  "tags": {
+    "addr:city": "Düsseldorf",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "40215",
+    "addr:street": "Hüttenstraße",
+    "drink:club-mate": "yes",
+    "drink:leet-mate": "yes",
+    "internet_access": "wlan",
+    "leisure": "hackerspace",
+    "name": "Chaosdorf",
+    "official_name": "Chaos Computer Club Düsseldorf / Chaosdorf e.V.",
+    "old_name": "Chaplin Bistro",
+    "short_name": "Chaosdorf",
+    "website": "https://chaosdorf.de/",
+    "wikipedia": "en:Chaosdorf"
+  }
+},
+{
+  "type": "node",
+  "id": 1240532187,
+  "lat": 50.8306552,
+  "lon": 12.9396711,
+  "tags": {
+    "addr:city": "Chemnitz",
+    "addr:country": "DE",
+    "addr:housename": "A102",
+    "addr:housenumber": "102",
+    "addr:postcode": "09126",
+    "addr:street": "Augustusburger Straße",
+    "contact:email": "kontakt@chaoschemnitz.de",
+    "contact:phone": "+4937133718088",
+    "contact:website": "https://www.chaoschemnitz.de",
+    "drink:club-mate": "retail",
+    "leisure": "hackerspace",
+    "name": "Chaostreff Chemnitz",
+    "opening_hours": "Mo,Sa 19:00+",
+    "smoking": "outside",
+    "toilets": "yes",
+    "website": "http://chaoschemnitz.de",
+    "wheelchair": "no",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 1245556962,
+  "lat": 50.0984671,
+  "lon": 14.4359065,
+  "tags": {
+    "addr:city": "Prague",
+    "addr:country": "CZ",
+    "addr:housenumber": "1",
+    "addr:postcode": "17000",
+    "addr:street": "Bubenská",
+    "contact:email": "rada@brmlab.cz",
+    "contact:phone": "+420608801582",
+    "contact:website": "http://brmlab.cz/",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "brmlab",
+    "payment:bitcoin": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1253416826,
+  "lat": 46.5321346,
+  "lon": 6.5917380,
+  "tags": {
+    "addr:city": "Renens",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "1020",
+    "addr:street": "Chemin du Closel",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "FIXME",
+    "note": "FIXME IS the name",
+    "website": "https://fixme.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1321938121,
+  "lat": 52.6642798,
+  "lon": -8.6289220,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "miLKlabs",
+    "website": "http://www.milklabs.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 1361601971,
+  "lat": 48.4008136,
+  "lon": 10.0031366,
+  "tags": {
+    "addr:city": "Ulm",
+    "addr:country": "DE",
+    "addr:housenumber": "37",
+    "addr:postcode": "89073",
+    "addr:street": "Basteistraße",
+    "amenity": "studio",
+    "email": "redaktion@donau3fm.de",
+    "leisure": "hackerspace",
+    "name": "Donau3FM",
+    "operator": "M.O.R.E. LokalfunkBaden-WürttembergGmbH & Co. KG",
+    "type": "audio",
+    "website": "http://www.donau3fm.de/",
+    "wikipedia": "de:Donau 3 FM",
+    "workshop": "radio"
+  }
+},
+{
+  "type": "node",
+  "id": 1409008722,
+  "lat": 63.8232367,
+  "lon": 20.2820399,
+  "tags": {
+    "email": "info@umeahackerspace.se",
+    "leisure": "hackerspace",
+    "level": "-1",
+    "name": "Umeå Hackerspace",
+    "website": "http://umeahackerspace.se/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1429311512,
+  "lat": 59.3371200,
+  "lon": 18.0571598,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Stockholm Makerspace",
+    "website": "http://www.makerspace.se"
+  }
+},
+{
+  "type": "node",
+  "id": 1446603282,
+  "lat": 50.9504142,
+  "lon": 6.9129647,
+  "tags": {
+    "addr:housenumber": "6a",
+    "addr:postcode": "50825",
+    "addr:street": "Heliosstraße",
+    "drink:club-mate": "yes",
+    "internet_access": "public",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Cologne",
+    "website": "http://koeln.ccc.de"
+  }
+},
+{
+  "type": "node",
+  "id": 1497543573,
+  "lat": 51.2667212,
+  "lon": 7.1450337,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "48",
+    "addr:postcode": "42105",
+    "addr:street": "Mirker Straße",
+    "drink:club-mate": "yes",
+    "drink:leet-mate": "yes",
+    "drink:volt-cola": "yes",
+    "leisure": "hackerspace",
+    "name": "/dev/tal e.V.",
+    "note": "Hackerspace & FabLab",
+    "office": "research",
+    "phone": "+ 4920269758595",
+    "website": "http://www.devtal.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1507101713,
+  "lat": -25.8408189,
+  "lon": 28.2093349,
+  "tags": {
+    "addr:city": "Centurion",
+    "addr:country": "ZA",
+    "addr:housenumber": "4",
+    "addr:state": "Gauteng",
+    "addr:street": "Burger Ave",
+    "leisure": "hackerspace",
+    "name": "House4Hack",
+    "website": "http://www.house4hack.co.za"
+  }
+},
+{
+  "type": "node",
+  "id": 1507524704,
+  "lat": 34.0403304,
+  "lon": -118.2570862,
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:country": "US",
+    "addr:housename": "1015",
+    "addr:postcode": "CA 90015",
+    "addr:state": "California",
+    "addr:street": "South Main Street",
+    "leisure": "hackerspace",
+    "name": "Null Space Labs",
+    "website": "http://032.la"
+  }
+},
+{
+  "type": "node",
+  "id": 1507713909,
+  "lat": 20.8629020,
+  "lon": -156.4480270,
+  "tags": {
+    "addr:city": "Pu’unene Maui",
+    "addr:country": "US",
+    "addr:state": "Hawaii",
+    "addr:street": "E Camp 5 Road",
+    "leisure": "hackerspace",
+    "name": "Maui Makers",
+    "source": "http://hackerspaces.org",
+    "website": "http://www.mauimakers.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1520441325,
+  "lat": 36.0014752,
+  "lon": -78.8949282,
+  "tags": {
+    "addr:city": "Durham",
+    "addr:housenumber": "800",
+    "addr:postcode": "27701",
+    "addr:state": "NC",
+    "addr:street": "North Mangum Street",
+    "leisure": "hackerspace",
+    "name": "Splat Space",
+    "phone": "+1 919 704 4225",
+    "website": "http://splatspace.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1528106414,
+  "lat": 47.2577351,
+  "lon": 11.3960814,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "6020",
+    "addr:state": "Tyrol",
+    "addr:street": "Tschamlerstraße",
+    "leisure": "hackerspace",
+    "name": "IT-Syndikat",
+    "website": "http://it-syndikat.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1528717378,
+  "lat": 51.0597214,
+  "lon": 3.7326004,
+  "tags": {
+    "addr:city": "Ghent",
+    "addr:country": "BE",
+    "addr:housenumber": "75",
+    "addr:state": "Oost-Vlaanderen",
+    "addr:street": "Blekerijstraat",
+    "leisure": "hackerspace",
+    "name": "Whitespace",
+    "payment:bitcoin": "yes",
+    "website": "http://0x20.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 1528723814,
+  "lat": 50.8594103,
+  "lon": 5.6613473,
+  "tags": {
+    "addr:city": "Maastricht",
+    "addr:country": "NL",
+    "addr:state": "Limburg",
+    "addr:street": "Grimbeertstraat",
+    "leisure": "hackerspace",
+    "name": "IkMaak Maastricht",
+    "website": "http://ikmaak.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 1536482787,
+  "lat": 50.9750165,
+  "lon": 11.3294361,
+  "tags": {
+    "addr:city": "Weimar",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "99423",
+    "addr:street": "Marienstraße",
+    "leisure": "hackerspace",
+    "name": "Maschinenraum",
+    "source": "http://hackerspaces.org",
+    "website": "http://blog.maschinenraum.tk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1550422326,
+  "lat": 52.5438812,
+  "lon": 13.3728924,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:country": "DE",
+    "addr:housenumber": "66",
+    "addr:postcode": "13347",
+    "addr:street": "Gerichtstraße",
+    "addr:suburb": "Gesundbrunnen",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "raumfahrtagentur",
+    "shop": "doityourself",
+    "website": "https://m21.hyte.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1550547662,
+  "lat": 41.9962347,
+  "lon": 21.4183671,
+  "tags": {
+    "addr:city": "Cкoпje",
+    "addr:city:en": "Skopje",
+    "addr:country": "MK",
+    "addr:door": "1",
+    "addr:full": "Vasil Stefanovski 8/1 1000 Skopje Macedonia",
+    "addr:housenumber": "8",
+    "addr:postcode": "1000",
+    "addr:street": "Васил Стефановски",
+    "leisure": "hackerspace",
+    "name": "Хаклаб Кика",
+    "name:en": "Hacklab Kika",
+    "shop": "doityourself",
+    "website": "http://blog.spodeli.org"
+  }
+},
+{
+  "type": "node",
+  "id": 1553557261,
+  "lat": 55.5838138,
+  "lon": 13.0269226,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Forskningsavdelningen",
+    "website": "http://forskningsavd.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 1557045112,
+  "lat": 47.4081419,
+  "lon": 8.5787381,
+  "tags": {
+    "addr:housenumber": "485",
+    "addr:postcode": "8051",
+    "addr:street": "Luegislandstrasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Zürich",
+    "short_name": "CCCZH",
+    "website": "http://www.ccczh.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1563511625,
+  "lat": 51.5742636,
+  "lon": 7.0255048,
+  "tags": {
+    "addr:city": "Gelsenkirchen",
+    "addr:housenumber": "43",
+    "addr:postcode": "45897",
+    "addr:street": "Neidenburger Straße",
+    "alt_name": "Studentisches Experimentierwerk",
+    "amenity": "public_building",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "eXwerk",
+    "website": "http://www.exwerk.org",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1569627699,
+  "lat": 50.8383235,
+  "lon": -0.1270645,
+  "tags": {
+    "irc": "irc://irc.freenode.net/#buildbrighton",
+    "leisure": "hackerspace",
+    "name": "Build Brighton",
+    "website": "http://www.buildbrighton.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1570897008,
+  "lat": 49.9018897,
+  "lon": 10.8926287,
+  "tags": {
+    "addr:city": "Bamberg",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "96052",
+    "addr:street": "Spiegelgraben",
+    "contact:website": "http://hackerspace-bamberg.de",
+    "leisure": "hackerspace",
+    "name": "backspace e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 1582673334,
+  "lat": 45.4264512,
+  "lon": 15.0088261,
+  "tags": {
+    "building": "yes",
+    "leisure": "hackerspace",
+    "name": "HackLab Moravice"
+  }
+},
+{
+  "type": "node",
+  "id": 1595731479,
+  "lat": 39.1355799,
+  "lon": -84.5386302,
+  "tags": {
+    "addr:city": "Cincinnati",
+    "addr:country": "US",
+    "addr:housenumber": "2929",
+    "addr:postcode": "45225",
+    "addr:state": "OH",
+    "addr:street": "Spring Grove Avenue",
+    "amenity": "hackerspace",
+    "leisure": "hackerspace",
+    "name": "Hive13",
+    "phone": "+1 513 593 9292",
+    "website": "http://www.hive13.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1597750849,
+  "lat": 52.2786151,
+  "lon": 10.5211071,
+  "tags": {
+    "addr:city": "Braunschweig",
+    "addr:country": "DE",
+    "addr:door": "A2",
+    "addr:housename": "Schimmel-Hof",
+    "addr:housenumber": "273a",
+    "addr:postcode": "38114",
+    "addr:street": "Hamburger Straße",
+    "club": "doityourself",
+    "contact:email": "kontakt@stratum0.org",
+    "contact:fax": "+49 531 28769246",
+    "contact:phone": "+49 531 28769245",
+    "contact:twitter": "@stratum0",
+    "contact:website": "https://stratum0.org/",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Stratum 0 e.V.",
+    "opening_hours:url": "http://spaceapi-stats.n39.eu/#stratum0",
+    "website": "https://stratum0.org/",
+    "wheelchair": "no",
+    "wheelchair:description:de": "Klotür ist breit genug aber sehr steile Treppe und diverse Stufen. Bitte vorher anmelden, wir schleppen jeden hoch!"
+  }
+},
+{
+  "type": "node",
+  "id": 1614453739,
+  "lat": 50.7395827,
+  "lon": 7.0965132,
+  "tags": {
+    "addr:city": "Bonn",
+    "addr:country": "DE",
+    "addr:housenumber": "74",
+    "addr:postcode": "53111",
+    "addr:street": "Breite Straße",
+    "amenity": "social_centre",
+    "contact:phone": "+49 228 9093171",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Netzladen",
+    "source": "knowledge",
+    "website": "http://netzladen.org",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1617881579,
+  "lat": 51.4385004,
+  "lon": 7.0249425,
+  "tags": {
+    "addr:city": "Essen",
+    "addr:country": "DE",
+    "addr:floor": "1",
+    "addr:housenumber": "9",
+    "addr:postcode": "45136",
+    "addr:street": "Sibyllastraße",
+    "contact:email": "info@chaospott.de",
+    "contact:phone": "+49 201 857883460",
+    "contact:twitter": "@foobarev",
+    "contact:website": "https://www.chaospott.de",
+    "drink:club-mate": "yes",
+    "drink:flora-power": "yes",
+    "drink:premium-cola": "yes",
+    "drink:water": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "Freifunk",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Essen",
+    "official_name": "foobar e.V.",
+    "opening_hours": "We 19:00+; Su 16:00+",
+    "phone": "+49 201 75915275",
+    "short_name": "Chaospott",
+    "website": "https://www.chaospott.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627064948,
+  "lat": 32.0523183,
+  "lon": 34.7678285,
+  "tags": {
+    "addr:city": "Tel Aviv",
+    "addr:country": "IL",
+    "addr:housenumber": "45",
+    "addr:street": "קיבוץ גלויות",
+    "addr:street:en": "Kibutz Galuyot",
+    "alt_name": "Tel Aviv Makers International",
+    "leisure": "hackerspace",
+    "name": "Tel Aviv Makers Intl.",
+    "operator": "Tel Aviv Makers Intl.",
+    "tourism": "attraction",
+    "url": "http://telavivmakers.org/",
+    "website": "http://telavivmakers.org"
+  }
+},
+{
+  "type": "node",
+  "id": 1645560898,
+  "lat": 51.4429925,
+  "lon": -2.5933251,
+  "tags": {
+    "irc": "irc://irc.freenode.net#bristolhackspace",
+    "leisure": "hackerspace",
+    "name": "Bristol Hackspace",
+    "website": "http://bristol.hackspace.org.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 1654251405,
+  "lat": 55.6119034,
+  "lon": 12.9857089,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housename": "Stapelbädden",
+    "addr:housenumber": "3",
+    "addr:street": "Stapelbäddsgatan",
+    "contact:website": "http://www.stpln.se/",
+    "leisure": "hackerspace",
+    "name": "Stpln",
+    "website": "http://www.stpln.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 1660715389,
+  "lat": 49.2041391,
+  "lon": 16.5943240,
+  "tags": {
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "base48",
+    "website": "http://base48.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1688005106,
+  "lat": 37.5660302,
+  "lon": 126.9935462,
+  "tags": {
+    "addr:full": "서울 중구 을지로 3가 286 4층",
+    "alt_name": "hackerspaceseoul",
+    "leisure": "hackerspace",
+    "name": "Hacker Space Seoul",
+    "website": "http://hackerspaceseoul.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1741579739,
+  "lat": 42.8419424,
+  "lon": -71.7208428,
+  "tags": {
+    "addr:city": "Milford",
+    "addr:housenumber": "37",
+    "addr:postcode": "03055",
+    "addr:state": "New Hampshire",
+    "addr:street": "Wilton Road",
+    "leisure": "hackerspace",
+    "name": "TekArts",
+    "phone": "+1 603 7326993",
+    "website": "http://TekArts.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1743655621,
+  "lat": 53.8007993,
+  "lon": -1.5327520,
+  "tags": {
+    "addr:postcode": "LS9 7DS",
+    "addr:street": "Mabgate Green",
+    "entrance": "yes",
+    "leisure": "hackerspace",
+    "name": "Leeds Hackspace",
+    "opening_hours": "Tu 19:00-23:30",
+    "website": "http://www.leedshackspace.org.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 1752290333,
+  "lat": 46.0474906,
+  "lon": 14.5006722,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Ljudmila"
+  }
+},
+{
+  "type": "node",
+  "id": 1764579570,
+  "lat": 52.9558027,
+  "lon": -1.1351002,
+  "tags": {
+    "addr:city": "Nottingham",
+    "addr:country": "GB",
+    "addr:full": "Nottingham Hackspace, Unit F6, Roden House Business Centre, Alfred Street South, Nottingham, NG3 1JH",
+    "addr:housename": "Nottinghack",
+    "addr:housename_1": "Unit F6, Roden House",
+    "addr:housenumber": "Unit F6, Roden House",
+    "addr:postcode": "NG3 1JH",
+    "addr:street": "Alfred Street South",
+    "leisure": "hackerspace",
+    "name": "Nottinghack",
+    "website": "http://nottinghack.org.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1767757029,
+  "lat": 42.8995831,
+  "lon": -78.7739438,
+  "tags": {
+    "addr:city": "Cheektowaga",
+    "addr:country": "US",
+    "addr:full": "2727 Broadway Street, Cheektowaga NY, USA",
+    "addr:housenumber": "2727",
+    "addr:state": "NY",
+    "addr:street": "Broadway Street",
+    "leisure": "hackerspace",
+    "name": "Buffalo Lab",
+    "website": "http://www.buffalolab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1768788324,
+  "lat": 37.3319457,
+  "lon": -121.8856808,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "TechShop",
+    "website": "http://www.techshop.ws/ts_sanjose.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1784868172,
+  "lat": 50.7851514,
+  "lon": 6.1077813,
+  "tags": {
+    "addr:city": "Aachen",
+    "addr:country": "DE",
+    "addr:housenumber": "191",
+    "addr:postcode": "52070",
+    "addr:street": "Jülicher Straße",
+    "contact:email": "mail@aachen.ccc.de",
+    "contact:phone": "+49 0241 53807924",
+    "contact:twitter": "cccac",
+    "contact:website": "https://aachen.ccc.de",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Aachen",
+    "operator": "Chaos Computer Club Aachen e.V.",
+    "short_name": "CCCAC",
+    "website": "http://aachen.ccc.de",
+    "wheelchair": "yes",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1795200072,
+  "lat": 53.1437996,
+  "lon": 8.2207530,
+  "tags": {
+    "addr:city": "Oldenburg",
+    "addr:country": "DE",
+    "addr:floor": "2",
+    "addr:housenumber": "10",
+    "addr:postcode": "26122",
+    "addr:street": "Bahnhofsplatz",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Mainframe",
+    "operator": "Kreativität trifft Technik e.V.",
+    "website": "http://mainframe.io/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1804604576,
+  "lat": 48.2280187,
+  "lon": 16.4000009,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1020",
+    "addr:street": "Haussteinstraße",
+    "addr:unit": "2",
+    "alt_name": "Happylab",
+    "email": "wien@happylab.at",
+    "fax": "+43 1 3084666 90",
+    "leisure": "hackerspace",
+    "name": "Happylab Wien",
+    "phone": "+43 1 3084666 0",
+    "website": "www.happylab.at"
+  }
+},
+{
+  "type": "node",
+  "id": 1827104269,
+  "lat": 44.7973109,
+  "lon": 20.4806174,
+  "tags": {
+    "addr:city": "Beograd",
+    "addr:floor": "0",
+    "addr:housenumber": "23",
+    "addr:postcode": "11000",
+    "addr:street": "Даничарева",
+    "drink:club-mate": "no",
+    "ele": "2,20 m",
+    "leisure": "hackerspace",
+    "name": "Хаклаб Београд",
+    "name:en": "Hacklab Belgrade",
+    "name:sr": "Хаклаб Београд",
+    "name:sr-Latn": "Haklab Beograd",
+    "website": "http://oosm.org/",
+    "wheelchair": "yes",
+    "wikipedia": "en:http://hackerspaces.org/wiki/Hacklab Belgrade"
+  }
+},
+{
+  "type": "node",
+  "id": 1833668694,
+  "lat": 49.5741553,
+  "lon": 11.0301174,
+  "tags": {
+    "campusbuilding": "lab",
+    "indoor": "yes",
+    "leisure": "hackerspace",
+    "name": "FAU Fablab",
+    "phone": "+49 9131/85-28013",
+    "source": "https://fablab.fau.de/anfahrt",
+    "website": "http://fablab.fau.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Ebener Eingang, kein automatischer Türöffner. Nicht alle Teile des Labors sind barrierefrei. Es wird jedoch geholfen."
+  }
+},
+{
+  "type": "node",
+  "id": 1841398103,
+  "lat": 52.1195689,
+  "lon": 11.6292422,
+  "tags": {
+    "description": "Hackerspace",
+    "leisure": "hackerspace",
+    "name": "Netz39 e.V.",
+    "phone": "+49 391 58245281",
+    "website": "http://www.netz39.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1868592227,
+  "lat": 42.0937313,
+  "lon": 12.2699754,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Sabazia Lug"
+  }
+},
+{
+  "type": "node",
+  "id": 1869241791,
+  "lat": 63.4086742,
+  "lon": 10.4053545,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Hackheim",
+    "website": "http://hackheim.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1875593753,
+  "lat": 50.9292604,
+  "lon": 11.5824008,
+  "tags": {
+    "addr:city": "Jena",
+    "addr:housenumber": "26",
+    "addr:postcode": "07743",
+    "addr:street": "Krautgasse",
+    "amenity": "community_centre",
+    "club": "it",
+    "contact:phone": "0162/6318746",
+    "contact:website": "https://www.krautspace.de",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "level": "1",
+    "name": "Krautspace",
+    "office": "club",
+    "operator": "Hackspace Jena e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 1889559886,
+  "lat": 50.8129270,
+  "lon": 4.3844493,
+  "tags": {
+    "addr:city": "Ixelles - Elsene",
+    "addr:housenumber": "131",
+    "addr:postcode": "1050",
+    "addr:street": "Avenue Adolphe Buyl - Adolphe Buyllaan",
+    "drink": "club-mate=yes",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "UrLab",
+    "old_name": "Hackulb",
+    "website": "http://urlab.be"
+  }
+},
+{
+  "type": "node",
+  "id": 1890522821,
+  "lat": 45.5381910,
+  "lon": -122.6723757,
+  "tags": {
+    "addr:housenumber": "2119",
+    "addr:street": "North Kerby Avenue",
+    "contact:website": "http://www.brainsilo.org/",
+    "leisure": "hackerspace",
+    "name": "Brainsilo (Portland Hackerspace)",
+    "note": "addr:suite C-2",
+    "source": "bing; knowledge",
+    "website": "http://www.brainsilo.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1904982504,
+  "lat": 50.1197119,
+  "lon": -5.5388279,
+  "tags": {
+    "addr:postcode": "TR18 2TA",
+    "addr:street": "Causeway Head",
+    "contact:website": "http://openshed.org",
+    "fixme": "verify position from survey?",
+    "leisure": "hackerspace",
+    "name": "Open Shed"
+  }
+},
+{
+  "type": "node",
+  "id": 1927714958,
+  "lat": 53.4840603,
+  "lon": -2.2361331,
+  "tags": {
+    "addr:housenumber": "44",
+    "addr:postcode": "M4 1HN",
+    "addr:street": "Edge Street",
+    "alt_name": "HacMan",
+    "leisure": "hackerspace",
+    "name": "Hackspace Manchester",
+    "source": "knowledge; bing",
+    "website": "https://hacman.org.uk/"
+  }
+},
+{
+  "type": "node",
+  "id": 1933430972,
+  "lat": 52.9259381,
+  "lon": -1.4758150,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Derby Makers"
+  }
+},
+{
+  "type": "node",
+  "id": 1946189753,
+  "lat": 46.1871630,
+  "lon": 6.1338396,
+  "tags": {
+    "addr:city": "Carouge",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "1227",
+    "addr:street": "Avenue de la Praille",
+    "leisure": "hackerspace",
+    "loc_name": "PostTenebrasLab Hackerspace",
+    "name": "Post Tenebras Lab",
+    "phone": "0041225660187",
+    "website": "http://www.posttenebraslab.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1957554779,
+  "lat": 52.3455700,
+  "lon": 4.8264646,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:postcode": "1066EA",
+    "addr:street": "Louwesweg",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Technologia Incognita",
+    "short_name": "TechInc",
+    "website": "https://www.techinc.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1980338267,
+  "lat": 41.8770559,
+  "lon": -88.0663123,
+  "tags": {
+    "addr:city": "Glen Ellyn",
+    "addr:country": "US",
+    "addr:housenumber": "481",
+    "addr:place": "Rear building unit B",
+    "addr:postcode": "60137",
+    "addr:state": "Il",
+    "addr:street": "North Main Street",
+    "leisure": "hackerspace"
+  }
+},
+{
+  "type": "node",
+  "id": 2012031859,
+  "lat": 48.1536876,
+  "lon": 11.5607732,
+  "tags": {
+    "addr:housename": "CCC München",
+    "addr:housenumber": "90",
+    "addr:street": "Heßstraße",
+    "alt_name": "CCC München",
+    "drink:club-mate": "bottled",
+    "leisure": "hackerspace",
+    "name": "muCCC",
+    "name:de": "Chaos Computer Club München",
+    "name:en": "Chaos Computer Club Munich",
+    "website": "https://muc.ccc.de/",
+    "wheelchair": "no",
+    "workshop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 2048270930,
+  "lat": 48.6749485,
+  "lon": 6.2002239,
+  "tags": {
+    "addr:full": "9, rue d'Alsace Jarville-la-Malgrange",
+    "fablab": "yes",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "NYBI.CC",
+    "network": "FabLab",
+    "website": "http://nybi.cc",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2059564034,
+  "lat": 45.5611538,
+  "lon": 18.6946450,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "#labOS"
+  }
+},
+{
+  "type": "node",
+  "id": 2060837779,
+  "lat": 37.8349473,
+  "lon": -122.2643079,
+  "tags": {
+    "addr:city": "Oakland",
+    "addr:housenumber": "4799",
+    "addr:postcode": "94609",
+    "addr:street": "Shattuck Ave",
+    "leisure": "hackerspace",
+    "name": "sudo room",
+    "note": "https://sudoroom.org/wiki/Getting_here",
+    "phone": "(510) 858-7155",
+    "website": "https://sudoroom.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2094685323,
+  "lat": 43.3465290,
+  "lon": 3.2225280,
+  "tags": {
+    "addr:city": "Béziers",
+    "addr:housenumber": "4",
+    "addr:postcode": "34505",
+    "addr:street": "Place du 14 juillet",
+    "addr:unit": "Pièce D215",
+    "amenity": "training",
+    "hazard": "robot",
+    "internet_access": "wired",
+    "leisure": "hackerspace",
+    "name": "FabLab Web5",
+    "operator": "Association Web-5",
+    "website": "http://web-5.org/",
+    "wheelchair": "yes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2113408743,
+  "lat": 48.9357702,
+  "lon": 2.3032022,
+  "tags": {
+    "addr:city": "Gennevilliers",
+    "addr:full": "Avenue Marcel Paul, Gennevilliers",
+    "addr:street": "Avenue Marcel Paul",
+    "craft": "fab_lab",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FacLab",
+    "network": "FabLab",
+    "opening_hours": "Mo-Fr 13:00-18:00; Tu 13:00-19:45; PH off; Aug off; Dec 24 off; Dec 31 off; Jan 2-4 off",
+    "shop": "doityourself",
+    "website": "http://www.faclab.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2126315991,
+  "lat": 41.6506578,
+  "lon": -0.8996392,
+  "tags": {
+    "addr:city": "Zaragoza",
+    "addr:housenumber": "41",
+    "addr:postcode": "50010",
+    "addr:street": "Camino de la Mosquetera",
+    "club": "doityourself",
+    "leisure": "hackerspace",
+    "name": "DLabs",
+    "source": "Ayuntamiento de Zaragoza",
+    "website": "http://www.dlabs.co/"
+  }
+},
+{
+  "type": "node",
+  "id": 2186487068,
+  "lat": 48.1919955,
+  "lon": 16.3360741,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "11A",
+    "addr:postcode": "1150",
+    "addr:street": "Pater-Schwartz-Gasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Stockwerk"
+  }
+},
+{
+  "type": "node",
+  "id": 2198906100,
+  "lat": 41.8720435,
+  "lon": 12.5822329,
+  "tags": {
+    "addr:city": "Roma",
+    "addr:country": "IT",
+    "addr:full": "Viale della Bella Villa, 94 Quartiere Alessandrino Roma, Italia",
+    "addr:housenumber": "94",
+    "addr:street": "Viale della Bella Villa",
+    "drink:beer": "yes",
+    "email": "info@fusolab.net",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "leisure": "hackerspace",
+    "name": "Fusolab 2.0",
+    "phone": "+39 06 452218802",
+    "smoking": "no",
+    "website": "http://www.fusolab.net"
+  }
+},
+{
+  "type": "node",
+  "id": 2199558639,
+  "lat": 45.8016374,
+  "lon": 8.8486464,
+  "tags": {
+    "club": "linux",
+    "leisure": "hackerspace",
+    "name": "LIFO (Laboratorio di Informatica Free e Open)"
+  }
+},
+{
+  "type": "node",
+  "id": 2208241819,
+  "lat": 45.1979259,
+  "lon": 5.7323203,
+  "tags": {
+    "addr:full": "1 place Saint-Laurent, Grenoble",
+    "addr:housenumber": "1",
+    "addr:street": "Place Saint-Laurent",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fablab",
+    "opening_hours": "We-Fr 09:00-12:00,13:30-17:30; Sa-Su 14:00-18:00",
+    "website": "http://www.ccsti-grenoble.org/02_programme.php?code_ana=FAB",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2208480189,
+  "lat": 50.6430024,
+  "lon": 3.1384711,
+  "tags": {
+    "addr:full": "2 allée Lakanal Villeneuve d'Ascq",
+    "addr:housenumber": "2",
+    "addr:street": "allée lakanal",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fablab Lille",
+    "opening_hours": "Tu-We 9:30-12:30, 14:00-17:00; Th 14:00-17:00; Fr 9:30-12:30, 14:00-17:00; Sa 14:00-17:00",
+    "website": "http://www.fablablille.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2208504269,
+  "lat": 45.0356429,
+  "lon": 3.8908710,
+  "tags": {
+    "addr:city": "Le Puy-en-Velay",
+    "addr:housenumber": "4",
+    "addr:street": "avenue du Docteur Durand",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FormaLab",
+    "source": "survey",
+    "website": "http://formalab.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2208543343,
+  "lat": 45.1846059,
+  "lon": 5.7522776,
+  "tags": {
+    "addr:city": "Saint-Martin-d'Hères",
+    "addr:country": "FR",
+    "addr:housenumber": "28",
+    "addr:postcode": "38400",
+    "addr:street": "Avenue Benoît Frachon",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Air",
+    "website": "http://air.imag.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2209978846,
+  "lat": 48.8375147,
+  "lon": 2.3384154,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fabelier",
+    "opening_hours": "We 19:00+",
+    "website": "http://fabelier.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2209992322,
+  "lat": 46.6841348,
+  "lon": -1.4311551,
+  "tags": {
+    "addr:full": "1 place Jacqurd, boulevard Sully, La Roche Sur Yon, sur le parking Sofrica.",
+    "addr:street": "boulevard Sully",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "La forge des possibles",
+    "website": "http://www.laforgedespossibles.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2210119715,
+  "lat": 49.1915441,
+  "lon": -0.3043377,
+  "tags": {
+    "addr:city": "Colomballes",
+    "addr:full": "1 rue du Bocage, Colombelles",
+    "addr:housenumber": "1",
+    "addr:street": "rue du Bocage",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Relais d'sciences",
+    "website": "http://www.relaisdsciences.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2218654057,
+  "lat": 51.5321142,
+  "lon": -0.0608219,
+  "tags": {
+    "addr:housenumber": "447-453",
+    "addr:postcode": "E2 9DY",
+    "addr:street": "Hackney Road",
+    "drink:club-mate": "yes",
+    "irc": "irc://irc.freenode.net #london-hack-space",
+    "leisure": "hackerspace",
+    "name": "London Hackspace",
+    "opening_date": "2013-04-20",
+    "payment:bitcoin": "yes",
+    "website": "http://london.hackspace.org.uk/",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2260548893,
+  "lat": 52.3541080,
+  "lon": 4.8542035,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Lag",
+    "opening_hours": "Th 17:00-23:00; Sa 14:00-23:00",
+    "website": "https://wiki.laglab.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2261656344,
+  "lat": 48.5831386,
+  "lon": 7.7539951,
+  "tags": {
+    "addr:full": "37 rue des frères, 67000 Strasbourg",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "AV Lab",
+    "network": "FabLab",
+    "opening_hours": "Tu-Fr 16:00-20:00; Sa 14:00-18:00",
+    "website": "http://av-exciters.com",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262656781,
+  "lat": 48.7319268,
+  "lon": -3.4509774,
+  "tags": {
+    "addr:city": "Lannion",
+    "addr:full": "14 rue de Beauchamp, Lannion. Dans les locaux du lycée Félix Le Dantec. Appelez le 02 96 37 84 46 pour entrer.",
+    "addr:housenumber": "14",
+    "addr:street": "rue de Beauchamp",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fablab Lannion",
+    "opening_hours": "Mo 12:30-14:00,21:00+;We 21:00+;Th 09:00-18:00",
+    "phone": "+33 2 96 37 84 46",
+    "website": "http://fablab-lannion.org/",
+    "wheelchair": "yes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262693527,
+  "lat": 49.8973557,
+  "lon": 2.3009429,
+  "tags": {
+    "addr:city": "Amiens",
+    "addr:full": "30 rue St-Leu, Amiens.",
+    "addr:housenumber": "30",
+    "addr:street": "rue St-leu",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "EtoLab",
+    "opening_hours": "Sa 10:00-13:00",
+    "website": "http://www.etolab.com/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262700900,
+  "lat": 49.4018412,
+  "lon": 2.7957598,
+  "tags": {
+    "addr:city": "Compiègne",
+    "addr:full": "rue Roger Couttolenc, Campiègne. Dans les locaux de l'UTC.",
+    "addr:street": "rue Roger Couttolenc",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fablab de l'UTC",
+    "website": "http://assos.utc.fr/fablab/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262723488,
+  "lat": 45.7422892,
+  "lon": 4.9085414,
+  "tags": {
+    "addr:city": "Bron",
+    "addr:street": "Place Gaillard Romanet",
+    "alt_name": "MJC Louis Aragon",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Fabrique d'Objets Libres",
+    "opening_hours": "We 14:00-18:00",
+    "website": "http://www.fablab-lyon.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262747686,
+  "lat": 50.6951101,
+  "lon": 3.1651376,
+  "tags": {
+    "addr:city": "Roubais",
+    "addr:full": "112, avenue Jean Lebas 59100 Roubaix. Dans les locaux de la QSP / Gallery",
+    "addr:housenumber": "112",
+    "addr:street": "avenue Jean Lebas",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "M.E.U.H lab",
+    "opening_hours": "Th-Sa 14:30-18:00",
+    "website": "http://www.meuhlab.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262748212,
+  "lat": 47.2291439,
+  "lon": -1.5848752,
+  "tags": {
+    "access": "private",
+    "addr:floor": "2",
+    "alt_name": "OPENateliers",
+    "description": "Dans les locaux de l'association PiNG.",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Association PiNG",
+    "opening_hours": "Th 14:00-21:00",
+    "website": "http://www.pingbase.net/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262751530,
+  "lat": 48.8905048,
+  "lon": 2.3686081,
+  "tags": {
+    "addr:housenumber": "104",
+    "addr:street": "Rue d'Aubervilliers",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "La nouvelle Fabrique",
+    "opening_hours": "We-Sa 14:00-19:00",
+    "website": "http://www.nouvellefabrique.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262755943,
+  "lat": 48.8767379,
+  "lon": 2.3666796,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:full": "13 rue des Écluses Saint-Martin, Paris.",
+    "addr:housenumber": "13",
+    "addr:street": "Rue des Écluses Saint-Martin",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "ArtLab",
+    "website": "http://www.digitalarti.com/blog/artlab",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2262759834,
+  "lat": 48.8666962,
+  "lon": 2.3820969,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:housenumber": "156",
+    "addr:street": "Rue Oberkampf",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Le petit Fablab",
+    "opening_hours": "Sa-Su",
+    "website": "http://lepetitfablabdeparis.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2264340095,
+  "lat": 47.3230108,
+  "lon": 5.0403766,
+  "tags": {
+    "addr:city": "Dijon",
+    "addr:full": "6 impasse Quentin, Dijon.",
+    "addr:housenumber": "6",
+    "addr:street": "impasse Quentin",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "L'abscisse",
+    "network": "FabLab",
+    "website": "http://fablab.coagul.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2264390378,
+  "lat": 48.8915013,
+  "lon": 2.3596583,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:full": "17 rue de la Chapelle, Paris. Au Théâtre de Verre.",
+    "addr:housenumber": "17",
+    "addr:street": "Rue de la Chapelle",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "BlackBoxe",
+    "website": "http://blackboxe.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2266514581,
+  "lat": 21.5305353,
+  "lon": -78.2240752,
+  "tags": {
+    "addr:city": "Florida",
+    "addr:housenumber": "110",
+    "addr:street": "Calle Presidente Gomez",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "leisure": "hackerspace",
+    "name": "Joven Club de Computación y Electrónica Florida I",
+    "short_name": "JCCE",
+    "workshop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 2276258759,
+  "lat": 55.9397460,
+  "lon": -3.1814111,
+  "tags": {
+    "addr:city": "Edinburgh",
+    "addr:housenumber": "1",
+    "addr:postcode": "EH9 1PL",
+    "addr:street": "Summerhall",
+    "leisure": "hackerspace",
+    "name": "Edinburgh Hacklab",
+    "phone": "+44 7504 627 741",
+    "website": "http://edinburghhacklab.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2278358358,
+  "lat": 51.4577555,
+  "lon": -0.9799737,
+  "tags": {
+    "addr:city": "Reading",
+    "addr:country": "GB",
+    "addr:housename": "rlab",
+    "addr:housenumber": "1C",
+    "addr:postcode": "RG1 7BX",
+    "addr:street": "Weldale Street",
+    "alt_name": "Reading HackSpace",
+    "leisure": "hackerspace",
+    "name": "rlab - Reading MakerSpace",
+    "website": "http://rlab.org.uk",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2279575685,
+  "lat": 47.6436723,
+  "lon": 6.8441652,
+  "tags": {
+    "addr:city": "Belfort",
+    "addr:full": "6 rue de l’étang, bâtiment 12, Techn’hom 1, Belfort",
+    "addr:housenumber": "6",
+    "addr:street": "rue de l’étang",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "HackGyver",
+    "opening_hours": "We 20:00+",
+    "website": "http://www.hackgyver.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2290200189,
+  "lat": 48.3577357,
+  "lon": 10.8867806,
+  "tags": {
+    "addr:city": "Augsburg",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "86159",
+    "addr:street": "Elisenstraße",
+    "leisure": "hackerspace",
+    "name": "OpenLab Augsburg",
+    "payment:bitcoin": "yes",
+    "website": "http://openlab-augsburg.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2294792948,
+  "lat": 41.3787501,
+  "lon": 2.1716947,
+  "tags": {
+    "addr:city": "Barcelona",
+    "addr:housenumber": "58",
+    "addr:postcode": "08001",
+    "addr:street": "Carrer de Sant Pau",
+    "leisure": "hackerspace",
+    "name": "Telenoika",
+    "website": "http://telenoika.net/",
+    "wikipedia": "ca:Telenoika"
+  }
+},
+{
+  "type": "node",
+  "id": 2338684003,
+  "lat": -22.9081283,
+  "lon": -47.0771032,
+  "tags": {
+    "addr:city": "Campinas",
+    "addr:housenumber": "1800",
+    "addr:street": "Rua Doutor Sales de Oliveira",
+    "leisure": "hackerspace",
+    "name": "Laboratório Hacker de Campinas",
+    "website": "http://lhc.net.br"
+  }
+},
+{
+  "type": "node",
+  "id": 2352646085,
+  "lat": 44.7824582,
+  "lon": 11.7356471,
+  "tags": {
+    "alt_name": "TRicicloPC",
+    "amenity": "community_centre",
+    "leisure": "hackerspace",
+    "name": "Ferrara Linux User Group - FELUG",
+    "website": "http://ferrara.linux.it"
+  }
+},
+{
+  "type": "node",
+  "id": 2355161454,
+  "lat": 50.8689203,
+  "lon": 8.0044503,
+  "tags": {
+    "drink:club-mate": "served",
+    "leisure": "hackerspace",
+    "level": "1",
+    "name": "Hackspace Siegen e.V.",
+    "website": "http://hasi.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 2358529740,
+  "lat": 49.4405350,
+  "lon": 7.7623263,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Chaos inKL. e.V.",
+    "note": "CCC Kaiserslautern",
+    "website": "http://chaos-inkl.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2367869984,
+  "lat": 47.3957211,
+  "lon": 0.6826611,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FunLAB (le FabLab tourangeau)",
+    "network": "FabLab",
+    "website": "http://funlab.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2384231188,
+  "lat": 47.4023132,
+  "lon": 8.0379225,
+  "tags": {
+    "amenity": "library",
+    "description": "Router regelmässig von NSA qFire zerstört, es startet alle paar stunden neu",
+    "description:en": "Edge Router Regurarly bricked by NSA qFire, it restarts every 6h",
+    "internet_access:fee": "no",
+    "internet_access:operator": "hackerspace@marclandolt.ch",
+    "internet_access:ssid": "FreifunkRombachtaeli",
+    "leisure": "hackerspace",
+    "name": "Hakerspace, IT / Tech Stuff, 3. Garage from right, excuse the chaos",
+    "opening_hours": "Ask at hackerspace@marclandolt.ch",
+    "operator": "Marc Landolt, +41 79 291 07 87"
+  }
+},
+{
+  "type": "node",
+  "id": 2384439890,
+  "lat": 53.0721083,
+  "lon": 8.8219491,
+  "tags": {
+    "alt_name": "Chaos Computer Club Bremen",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "level": "2",
+    "name": "Embassy",
+    "operator": "Chaos Computer Club Bremen e.V.",
+    "website": "http://www.ccchb.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2394792940,
+  "lat": 59.9145193,
+  "lon": 10.7504652,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "0181",
+    "addr:street": "Youngs gate",
+    "amenity": "cafe",
+    "description": "Bitraf Hackerspace, member-based, but open for all.",
+    "leisure": "hackerspace",
+    "name": "Bitraf",
+    "website": "http://bitraf.no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2427187087,
+  "lat": 51.7523973,
+  "lon": -1.2637096,
+  "tags": {
+    "alt_name": "OxHack",
+    "leisure": "hackerspace",
+    "name": "Oxford Hackspace",
+    "website": "http://oxhack.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2431381142,
+  "lat": 48.3057850,
+  "lon": 14.2838235,
+  "tags": {
+    "addr:city": "Linz",
+    "addr:country": "AT",
+    "addr:housenumber": "19",
+    "addr:postcode": "4020",
+    "addr:street": "Hofgasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "DevLoL",
+    "website": "https://devlol.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2435872998,
+  "lat": 47.2578110,
+  "lon": 11.3961480,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "6020",
+    "addr:state": "Tirol",
+    "addr:street": "Tschamlerstraße",
+    "drink:club-mate": "yes",
+    "drink:club-mate_cola": "yes",
+    "leisure": "hackerspace",
+    "name": "IT Syndikat",
+    "website": "http://it-syndikat.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2451193763,
+  "lat": 21.5250751,
+  "lon": -78.2177677,
+  "tags": {
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "leisure": "hackerspace",
+    "name": "Joven Club de Computación y Electrónica 4",
+    "workshop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 2471248232,
+  "lat": 49.2402203,
+  "lon": 6.9737293,
+  "tags": {
+    "addr:city": "Saarbrücken",
+    "addr:housenumber": "8",
+    "addr:postcode": "66115",
+    "addr:street": "Sankt-Josef-Straße",
+    "contact:website": "https://www.hacksaar.de",
+    "designation": "non-profit organisation",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Hacksaar Technik Kultur Saar e.V.",
+    "website": "http://hacksaar.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2480338498,
+  "lat": 38.9680694,
+  "lon": -95.2304103,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "LawrenceCreates Makerspace",
+    "website": "lawrencescreates.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2505838863,
+  "lat": 57.1472615,
+  "lon": -2.0956228,
+  "tags": {
+    "addr:city": "Aberdeen",
+    "addr:country": "GB",
+    "addr:housenumber": "35a",
+    "addr:postcode": "AB11 5BN",
+    "addr:street": "Union Street",
+    "alt_name": "Aberdeen Hackspace Makerspace Hackerspace 57N",
+    "contact:phone": "+447787013354",
+    "contact:website": "http://57north.co/",
+    "leisure": "hackerspace",
+    "name": "57North Hacklab",
+    "old_name": "hackerdeen",
+    "opening_hours": "Tu 19:00-22:00",
+    "source": "Website",
+    "source:addr": "http://57north.co/",
+    "source:wheelchair": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2510486680,
+  "lat": 50.9828227,
+  "lon": 11.0394270,
+  "tags": {
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Bytespeicher Erfurt",
+    "website": "http://bytespeicher.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2510955486,
+  "lat": 47.0655561,
+  "lon": 15.4505737,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:housenumber": "15",
+    "addr:postcode": "8010",
+    "addr:street": "Brockmanngasse",
+    "commons": "hackerspace",
+    "identity": "p2p_economy",
+    "interaction": "diy_and_dit",
+    "leisure": "hackerspace",
+    "mode_of_organisation:self_managed": "yes",
+    "name": "Open Biolab Graz Austria (OLGA)",
+    "provides": "learning_opportunities",
+    "website": "http://olga.realraum.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2517167923,
+  "lat": 47.9174801,
+  "lon": 13.8050377,
+  "tags": {
+    "addr:city": "Gmunden",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "4810",
+    "addr:street": "Klosterplatz",
+    "alt_name": "offenes Technologielabor Gmunden",
+    "leisure": "hackerspace",
+    "name": "Otelo Gmunden",
+    "operator": "Otelo",
+    "website": "http://www.otelo.or.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2529065772,
+  "lat": 1.3104989,
+  "lon": 103.8625320,
+  "tags": {
+    "addr:city": "Singapore",
+    "addr:housename": "King George's Building",
+    "addr:housenumber": "344B",
+    "addr:postcode": "208576",
+    "addr:street": "King George’s Avenue",
+    "leisure": "hackerspace",
+    "name": "Hackerspace.SG",
+    "type": "hackerspace",
+    "website": "http://hackerspace.sg"
+  }
+},
+{
+  "type": "node",
+  "id": 2531920504,
+  "lat": 50.6295172,
+  "lon": 3.0620309,
+  "tags": {
+    "addr:city": "Lille",
+    "addr:housename": "Mutualab",
+    "addr:housenumber": "19",
+    "addr:postcode": "59000",
+    "addr:street": "Rue Nicolas Leblanc",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Makerspace Lille",
+    "website": "http://lille-makers.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2535937922,
+  "lat": 25.0528912,
+  "lon": 121.5168491,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:postcode": "106",
+    "addr:street": "太原路133巷",
+    "leisure": "hackerspace",
+    "name": "Taipei Hackerspace",
+    "payment:bitcoin": "yes",
+    "phone": "+886 2 2550-7630",
+    "website": "http://tpehack.no-ip.biz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2542389571,
+  "lat": -23.5649841,
+  "lon": -46.6991664,
+  "tags": {
+    "addr:city": "São Paulo",
+    "addr:housenumber": "567",
+    "addr:postcode": "05429-130",
+    "addr:street": "Rua Costa Carvalho",
+    "leisure": "hackerspace",
+    "name": "Garoa Hacker Clube",
+    "note": "Garoa is located at the back of the house. The correct door is indicated by an umbrella sign.",
+    "phone": "+55 11 3777-7590",
+    "website": "https://garoa.net.br",
+    "wheelchair": "limited",
+    "wikipedia": "pt:Garoa Hacker Clube"
+  }
+},
+{
+  "type": "node",
+  "id": 2553171461,
+  "lat": 33.4153234,
+  "lon": -111.8356040,
+  "tags": {
+    "addr:city": "Mesa",
+    "addr:housenumber": "140",
+    "addr:postcode": "85201",
+    "addr:street": "West Main Street",
+    "leisure": "hackerspace",
+    "name": "Heatsync Labs",
+    "note": "Heatsync labs is Phoenix's own 501(c)3 hackerspace!  We run open hours every weekday from 7-10pm, and [most] Saturdays from 12-6pm.  Check out our mailing list for an update of what we're up to.",
+    "payment:bitcoin": "yes",
+    "website": "http://www.heatsynclabs.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2574661631,
+  "lat": 56.1732918,
+  "lon": 10.1872507,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Open Space Aarhus",
+    "website": "http://osaa.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2575584457,
+  "lat": 44.9158402,
+  "lon": 4.9153482,
+  "tags": {
+    "addr:city": "Valence",
+    "addr:full": "IUT de Valence, 51 rue Barthélémy de Laffemas. Bâtiment C, 1er étage, salle C113.",
+    "addr:housenumber": "51",
+    "addr:street": "rue Barthélémy de Laffemas",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "L0AD (Laboratoire Ouvert Ardèche-Drôme)",
+    "website": "http://l0ad.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2575631402,
+  "lat": 44.8128883,
+  "lon": -0.5544138,
+  "tags": {
+    "addr:city": "Bègles",
+    "addr:full": "2, rue Marc Sangnier, Bègles. Dans les bâtiments de la cité numérique.",
+    "addr:housenumber": "2",
+    "addr:street": "rue Marc Sangnier",
+    "alt_name": "LABx",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "L@Bx",
+    "opening_hours": "Tu 19:00+",
+    "website": "http://labx.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2580834529,
+  "lat": 51.4345724,
+  "lon": 5.4767612,
+  "tags": {
+    "addr:city": "Eindhoven",
+    "addr:country": "NL",
+    "addr:housename": "MADspace",
+    "addr:housenumber": "4",
+    "addr:postcode": "5611KW",
+    "addr:street": "Don Boscostraat",
+    "amenity": "arts_centre",
+    "contact:website": "http://madspace.nl/",
+    "leisure": "hackerspace",
+    "name": "MADspace",
+    "opening_hours": "We 19:30-23:00;Fr 9:00-13:00;Sa 13:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2587568791,
+  "lat": 49.0709606,
+  "lon": 6.6869647,
+  "tags": {
+    "addr:city": "Folschviller",
+    "addr:housename": "Open Edge",
+    "addr:housenumber": "6",
+    "addr:postcode": "57730",
+    "addr:street": "Avenue Foch",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Open Edge",
+    "source": "Emmanuel Gilloz",
+    "website": "http://wiki.fablab.is/wiki/OpenEdge/fr",
+    "wheelchair": "yes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2613275097,
+  "lat": 48.1886092,
+  "lon": 16.3345259,
+  "tags": {
+    "access": "private",
+    "amenity": "internet_cafe",
+    "internet_access": "yes",
+    "internet_access:access": "private",
+    "leisure": "hackerspace",
+    "name": "Miss Baltazar's Laboratory",
+    "website": "http://www.mzbaltazarslaboratory.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2615994749,
+  "lat": 54.0919592,
+  "lon": 12.1211444,
+  "tags": {
+    "addr:city": "Rostock",
+    "addr:housenumber": "29",
+    "addr:postcode": "18057",
+    "addr:street": "Warnowufer",
+    "alt_name": "Hackspace Rostock",
+    "amenity": "arts_centre",
+    "description": "Rostocker Hackerspace - erreichbar durch hintere Tür des Autohändlers",
+    "leisure": "hackerspace",
+    "name": "Hack-HRO",
+    "website": "www.hack-hro.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2620829948,
+  "lat": 47.5833464,
+  "lon": 1.3050246,
+  "tags": {
+    "addr:city": "Blois",
+    "addr:housename": "Bâtiment 39D",
+    "addr:postcode": "41000",
+    "addr:street": "Allée des Pins",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab Robert-Houdin",
+    "network": "FabLab",
+    "website": "http://fablab-robert-houdin.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2642823787,
+  "lat": 50.8131707,
+  "lon": 4.3817176,
+  "tags": {
+    "drink": "club-mate=yes",
+    "leisure": "hackerspace",
+    "name": "/tmp/urlab",
+    "website": "http://urlab.be"
+  }
+},
+{
+  "type": "node",
+  "id": 2648273904,
+  "lat": 48.0062857,
+  "lon": 13.9231774,
+  "tags": {
+    "addr:city": "Vorchdorf",
+    "addr:country": "AT",
+    "alt_name": "offenes Technologielabor Vorchdorf",
+    "leisure": "hackerspace",
+    "name": "Otelo Vorchdorf",
+    "operator": "Otelo",
+    "website": "http://www.otelo.or.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2648470712,
+  "lat": 48.0096944,
+  "lon": 13.6631678,
+  "tags": {
+    "addr:city": "Vöcklabruck",
+    "addr:country": "AT",
+    "addr:housenumber": "22",
+    "addr:postcode": "4840",
+    "addr:street": "Bahnhofstraße",
+    "alt_name": "offenes Technologielabor Vöcklabruck",
+    "leisure": "hackerspace",
+    "name": "Otelo Vöcklabruck",
+    "operator": "Otelo",
+    "provides": "culture",
+    "website": "http://www.otelo.or.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2648470722,
+  "lat": 48.3039450,
+  "lon": 14.2936854,
+  "tags": {
+    "addr:city": "Linz",
+    "addr:country": "AT",
+    "addr:housenumber": "30",
+    "addr:postcode": "4020",
+    "addr:street": "Bethlehemstraße",
+    "alt_name": "offenes Technologielabor Linz",
+    "leisure": "hackerspace",
+    "name": "Otelo Linz",
+    "website": "http://www.otelo.or.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2648470730,
+  "lat": 48.3312906,
+  "lon": 14.1767929,
+  "tags": {
+    "addr:city": "Ottensheim",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:street": "Marktplatz",
+    "alt_name": "offenes Technologielabor Ottensheim",
+    "leisure": "hackerspace",
+    "name": "Otelo Ottensheim",
+    "operator": "Otelo",
+    "url": "http://www.otelo.or.at",
+    "website": "http://www.otelo.ottensheim.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2652705813,
+  "lat": -35.2346406,
+  "lon": 149.0668678,
+  "tags": {
+    "addr:city": "Belconnen",
+    "addr:housename": "Ginninderra House",
+    "addr:postcode": "2617",
+    "addr:street": "Evelyn Parker Place",
+    "leisure": "hackerspace",
+    "name": "MakeHackVoid",
+    "website": "https://makehackvoid.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2674585620,
+  "lat": 52.6361711,
+  "lon": -1.1270046,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Leicester Hackspace",
+    "source": "survey",
+    "website": "http://leicesterhackspace.org.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 2687633323,
+  "lat": 36.6492220,
+  "lon": 138.1822742,
+  "tags": {
+    "leisure": "hackerspace",
+    "level": "5",
+    "name": "GEEKLAB.NAGANO",
+    "name:ja": "ギークラボ長野",
+    "office": "it",
+    "opening_hours": "Mo-Fr 09:00-18:00;PH off",
+    "osmbasecamp": "yes",
+    "workshop": "osmbasecamp"
+  }
+},
+{
+  "type": "node",
+  "id": 2696846394,
+  "lat": 50.2640830,
+  "lon": 18.9959152,
+  "tags": {
+    "email": "silesia@lists.hackerspace.pl",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Silesia",
+    "website": "http://silesia.hackerspace.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2702441910,
+  "lat": 43.5137573,
+  "lon": 5.4509076,
+  "tags": {
+    "addr:city": "Aix-en-Provence",
+    "addr:housenumber": "413",
+    "addr:street": "Avenue Gaston Berger",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Laboratoire d'Aix-périmentation et de Bidouille",
+    "short_name": "L.A.B",
+    "website": "http://labaixbidouille.com",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2710181931,
+  "lat": -17.4000297,
+  "lon": -66.1654310,
+  "tags": {
+    "addr:city": "Cochabamba",
+    "addr:street": "Avenida 27 de Agosto",
+    "contact:email": "hacklabcbba@lists.riseup.net",
+    "contact:website": "http://www.hacklabcbba.org/",
+    "leisure": "hackerspace",
+    "name": "HackLab Cochabamba",
+    "note": "El Hacklab Cochabamba es un espacio distribuido, abierto y colaborativo de experimentación hacker de Cochabamba",
+    "note:en": "Hacklab Cochabamba is a distributed, open and collaborative space for hacker experimentation in Cochabamba",
+    "opening_hours": "Sa 10:00-13:00",
+    "short_name": "HackLabCocha;HackLabCbba"
+  }
+},
+{
+  "type": "node",
+  "id": 2717910693,
+  "lat": 48.1371411,
+  "lon": 11.5339289,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "70",
+    "addr:postcode": "80339",
+    "addr:street": "Gollierstraße",
+    "amenity": "fablab",
+    "children": "designated",
+    "fixme": "genaue Lage",
+    "leisure": "hackerspace",
+    "name": "FabLab München",
+    "network": "FabLab",
+    "note": "ziehen Ende März 2014 innerhalb des Gebäudes erneut um",
+    "source": "survey by BenE München",
+    "website": "http://fablab-muenchen.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2720013596,
+  "lat": 52.0734034,
+  "lon": 4.3100533,
+  "tags": {
+    "addr:city": "'s-Gravenhage",
+    "addr:housenumber": "97C",
+    "addr:postcode": "2512CM",
+    "addr:street": "Boekhorststraat",
+    "leisure": "hackerspace",
+    "name": "De Kleine Werkplaats",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2720708371,
+  "lat": 49.4974369,
+  "lon": 0.1241796,
+  "tags": {
+    "addr:city": "Le Havre",
+    "addr:full": "1 rue Dumé d'Aplemont, 76000 Le Havre, dans les locaux du Lycée Jules Siegfried",
+    "addr:housenumber": "1",
+    "addr:postcode": "76000",
+    "addr:street": "Rue Dumé d'Aplemont",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "LH3d FabLab",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014",
+    "website": "http://lh-fab-lab.e-monsite.com/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2726042024,
+  "lat": 49.9988716,
+  "lon": 36.2427349,
+  "tags": {
+    "addr:city": "Харьков",
+    "addr:housenumber": "4",
+    "addr:postcode": "61002",
+    "addr:street": "Красина улица",
+    "amenity": "community_centre",
+    "leisure": "hackerspace",
+    "name": "KHackerSpace",
+    "website": "http://www.khackerspace.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2755609926,
+  "lat": 43.6156340,
+  "lon": 3.9097886,
+  "tags": {
+    "addr:city": "Montpellier",
+    "addr:housenumber": "120",
+    "addr:postcode": "34000",
+    "addr:street": "Allée John Napier",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Labsud",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2764648877,
+  "lat": 52.0344380,
+  "lon": 5.8741436,
+  "tags": {
+    "addr:city": "Arnhem",
+    "addr:housenumber": "12",
+    "addr:postcode": "6816TP",
+    "addr:street": "Radarweg",
+    "leisure": "hackerspace",
+    "name": "Hack42",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2766336242,
+  "lat": 39.5240863,
+  "lon": -119.7595320,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Bridgewire",
+    "website": "http://www.bridgewire.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2782408997,
+  "lat": 48.5641971,
+  "lon": 2.4212128,
+  "tags": {
+    "addr:city": "Mennecy",
+    "addr:country": "FR",
+    "addr:postcode": "91540",
+    "addr:street": "Avenue de Villeroy",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Club Informatique de Mennecy",
+    "network": "FabLab",
+    "source": "extrapolation",
+    "website": "http://cimennecois.perso.neuf.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2782497598,
+  "lat": 43.0701463,
+  "lon": -76.0980490,
+  "tags": {
+    "addr:city": "Syracuse",
+    "addr:country": "US",
+    "addr:housenumber": "108",
+    "addr:postcode": "13206",
+    "addr:state": "NY",
+    "addr:street": "Walter Drive",
+    "internet_access": "yes",
+    "leisure": "hackerspace",
+    "name": "Closing Syracuse Innovators Guild Closing",
+    "note": "The Syracuse Innovators Guild will be out of at this location by the end of the middle of December and will be going virtual",
+    "payment:bitcoin": "yes",
+    "short_name": "SIG",
+    "source": "survey",
+    "type": "hackerspace",
+    "url": "http://www.meetup.com/Syracuse-Innovators/",
+    "website": "http://sig315.org/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2796050838,
+  "lat": 46.9403532,
+  "lon": 7.4328177,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "12",
+    "addr:postcode": "3007",
+    "addr:street": "Eigerstrasse",
+    "alt_name": "Fab Lab - Fabrication Laboratory Bern",
+    "contact:email": "info@fablab-bern.ch",
+    "contact:phone": "+41 79 5973560",
+    "contact:website": "http://fablab-bern.ch/kontakt/",
+    "leisure": "hackerspace",
+    "name": "FabLab",
+    "opening_hours": "Mo-Th off; Fr 14:00-20:00; Sa-Su off",
+    "source": "website",
+    "website": "http://www.fablab-bern.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 2798647886,
+  "lat": 48.1143350,
+  "lon": -1.6763995,
+  "tags": {
+    "addr:full": "34 rue Hoche, 35000 Rennes, dans les locaux de l'EESAB – Ecole Européenne Supérieure d’Arts de Bretagne.",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "LabFab",
+    "network": "FabLab",
+    "website": "http://www.labfab.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2798968100,
+  "lat": 48.8682553,
+  "lon": 2.3525304,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:full": "226 rue Saint-Denis, 75002, Paris",
+    "addr:housenumber": "226",
+    "addr:postcode": "75002",
+    "addr:street": "Rue Saint-Denis",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "La Paillasse",
+    "opening_hours": "Th 20:00+",
+    "website": "http://www.lapaillasse.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2804894399,
+  "lat": 49.5730526,
+  "lon": 11.0285554,
+  "tags": {
+    "addr:city": "Erlangen",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "91058",
+    "addr:street": "Cauerstraße",
+    "alt_name": "ETG Kurzschluss",
+    "campusbuilding": "student association",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "level": "4",
+    "name": "Elektrotechnische Gruppe Kurzschluss e.V. (ETG)",
+    "office": "association",
+    "phone": "+49 9131 8528965",
+    "room": "R 4.16",
+    "website": "http://etg-kurzschluss.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2831389692,
+  "lat": 45.7034733,
+  "lon": 8.9052456,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Faberlab Tradate",
+    "website": "http://www.faberlab.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2832719350,
+  "lat": 9.6466508,
+  "lon": 123.8558333,
+  "tags": {
+    "amenity": "fablab",
+    "leisure": "hackerspace",
+    "name": "FabLab Bohol",
+    "source": "Survey",
+    "website": "http://fablabasia.net"
+  }
+},
+{
+  "type": "node",
+  "id": 2833508847,
+  "lat": 51.9727956,
+  "lon": 5.6729988,
+  "tags": {
+    "addr:city": "Wageningen",
+    "addr:country": "NL",
+    "addr:housename": "Nurdspace",
+    "addr:housenumber": "68",
+    "addr:postcode": "6706 AD",
+    "addr:street": "Churchillweg",
+    "contact:email": "nurds@nurdspace.nl",
+    "contact:phone": "+31317794512",
+    "contact:website": "https://nurdspace.nl/",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "NURDSpace",
+    "payment:bitcoin": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2835779207,
+  "lat": 52.3722012,
+  "lon": 5.2214278,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Sk1llz",
+    "website": "http://sk1llz.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2848314952,
+  "lat": 47.4207889,
+  "lon": 9.3555144,
+  "tags": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "5",
+    "addr:postcode": "9000",
+    "addr:street": "Andreasstrasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Ruum42",
+    "website": "https://www.ruum42.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2848342461,
+  "lat": 47.2293097,
+  "lon": 8.8294507,
+  "tags": {
+    "drink:beer": "yes",
+    "drink:club-mate": "yes",
+    "drink:espresso": "yes",
+    "leisure": "hackerspace",
+    "name": "Coredump",
+    "payment:bitcoin": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "electronics",
+    "website": "http://www.coredump.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2848377529,
+  "lat": 47.5323068,
+  "lon": 7.6342977,
+  "tags": {
+    "addr:city": "Muttenz",
+    "addr:housenumber": "6",
+    "addr:postcode": "4132",
+    "addr:street": "Birsfelderstrasse",
+    "leisure": "hackerspace",
+    "name": "Chaostreff Muttenz",
+    "website": "https://wiki.chaostreff.ch/Chaostreff"
+  }
+},
+{
+  "type": "node",
+  "id": 2849089164,
+  "lat": 47.6959393,
+  "lon": 8.5706201,
+  "tags": {
+    "addr:city": "Beringen",
+    "addr:housenumber": "14",
+    "addr:postcode": "8222",
+    "addr:street": "Guntmadingerstrasse",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "odenwilusenz",
+    "shop": "doityourself",
+    "website": "http://www.odenwilusenz.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 2850433664,
+  "lat": 47.5407218,
+  "lon": 7.6138257,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:housenumber": "13",
+    "addr:postcode": "4052",
+    "addr:street": "Auf dem Wolf",
+    "craft": "handicraft",
+    "drink:bionade": "yes",
+    "drink:club-mate": "yes",
+    "drink:leet-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Starship Factory",
+    "opening_hours": "Tu,Fr 18:00-22:00",
+    "operator": "Starship Factory",
+    "smoking": "outside",
+    "source": "local knowledge",
+    "website": "http://www.starship-factory.ch/",
+    "wheelchair": "limited",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2852638455,
+  "lat": 43.3103952,
+  "lon": 5.3903674,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:full": "41 rue Jobin (friche belle de mai), 13003 Marseille",
+    "addr:housenumber": "41",
+    "addr:street": "Rue jobin",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "level": "2",
+    "name": "LFO Lieu de fabrication Ouvert",
+    "website": "http://lfofablab.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2860714997,
+  "lat": 51.4988987,
+  "lon": 11.9624954,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "06114",
+    "addr:street": "Richard-Wagner-Straße",
+    "amenity": "social_centre",
+    "contact:email": "kontakt@terminal21.de",
+    "contact:xmpp": "discuss@conference.terminal21.de",
+    "description": "This hackerspace is called Basislager. Run by the Tech-Collective Terminal.21 e.V.",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Terminal.21 - basislager",
+    "phone": "+49 345 23909940",
+    "website": "http://www.terminal21.de/basislager",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2866066044,
+  "lat": 53.5498737,
+  "lon": 9.9464719,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "22767",
+    "addr:street": "Eschelsweg",
+    "club": "doityourself",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Attraktor e.V.",
+    "opening_hours": "Th 19:30-23:00",
+    "website": "http://www.attraktor.org/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2869125417,
+  "lat": 54.9743408,
+  "lon": -1.6107713,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:postcode": "NE1 8AW",
+    "addr:street": "New Bridge Street West",
+    "alt_name": "New Bridge Space",
+    "contact:website": "http://www.makerspace.org.uk/",
+    "leisure": "hackerspace",
+    "name": "Maker Space"
+  }
+},
+{
+  "type": "node",
+  "id": 2880060396,
+  "lat": 53.4237786,
+  "lon": -7.9400478,
+  "tags": {
+    "addr:city": "Athlone",
+    "addr:housenumber": "15",
+    "addr:street": "Custume Place",
+    "contact:facebook": "https://www.facebook.com/midlandsmakerspace",
+    "contact:twitter": "https://twitter.com/midlandmakers",
+    "leisure": "hackerspace",
+    "name": "Midlands Makerspace"
+  }
+},
+{
+  "type": "node",
+  "id": 2881600564,
+  "lat": 48.8878762,
+  "lon": 2.3826806,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:full": "15 bis rue Léon Giraud, Paris 19",
+    "addr:housenumber": "15",
+    "addr:postcode": "75019",
+    "addr:street": "rue Léon Giraud",
+    "building": "yes",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "WoMa",
+    "website": "http://www.woma.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2883085208,
+  "lat": 45.6359042,
+  "lon": 12.5470148,
+  "tags": {
+    "addr:city": "San Donà di Piave",
+    "addr:country": "IT",
+    "addr:housenumber": "114",
+    "addr:postcode": "30027",
+    "addr:street": "Via Vittorio Veneto",
+    "drink:club-mate": "bottled",
+    "drink:indian_pale_ale:Brew Dog": "bottled",
+    "leisure": "hackerspace",
+    "name": "Crunchlab",
+    "website": "crunchlab.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2888273607,
+  "lat": 49.0056918,
+  "lon": 8.4296237,
+  "tags": {
+    "addr:city": "Karlsruhe",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "76131",
+    "addr:street": "Alter Schlachthof",
+    "description": "FabLab Karlsruhe e.V.",
+    "leisure": "hackerspace",
+    "name": "FabLab Karlsruhe e.V.",
+    "network": "FabLab",
+    "website": "http://fablab-karlsruhe.de/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2889229183,
+  "lat": 47.2420091,
+  "lon": 6.0074375,
+  "tags": {
+    "addr:city": "Besançon",
+    "addr:full": "17 rue Xavier Marmier, 25000 Besançon",
+    "addr:housenumber": "17",
+    "addr:postcode": "25000",
+    "addr:street": "rue Xavier Marmier",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Frenchmakers FABLAB Besancon",
+    "opening_hours": "We 19:00-00:00; Jun off",
+    "website": "http://www.frenchmakers.com",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2903195666,
+  "lat": 41.1468444,
+  "lon": -81.3422144,
+  "tags": {
+    "amenity": "studio",
+    "leisure": "hackerspace",
+    "name": "Student Multimedia Studio"
+  }
+},
+{
+  "type": "node",
+  "id": 2917573410,
+  "lat": 43.5626261,
+  "lon": 1.4688694,
+  "tags": {
+    "addr:full": "118 Route de Narbonne, 31062, Toulouse. Université Paul Sabatier, Bâtiment U4 Salle 01",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab du Campus de Rangueil",
+    "network": "FabLab",
+    "website": "https://twitter.com/fablabups",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2938676952,
+  "lat": 35.6643907,
+  "lon": 139.8961599,
+  "tags": {
+    "contact:phone": "0120-963-138",
+    "contact:website": "http://www.kizna.bz/coworking/",
+    "internet_access": "wlan",
+    "leisure": "hackerspace",
+    "name": "絆",
+    "osmbasecamp": "yes",
+    "phone": "0120-963-138",
+    "url": "http://www.kizna.bz/coworking/"
+  }
+},
+{
+  "type": "node",
+  "id": 2940275543,
+  "lat": 49.0370859,
+  "lon": 3.3984450,
+  "tags": {
+    "addr:city": "Château-Thierry",
+    "addr:full": "7 avenue de l'Europe, 02400 Château-Thierry",
+    "addr:housenumber": "7",
+    "addr:postcode": "02400",
+    "addr:street": "avenue de l'Europe",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab Château-Thierry",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2941603203,
+  "lat": 51.5078231,
+  "lon": -0.1314729,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Impact hub Westminster"
+  }
+},
+{
+  "type": "node",
+  "id": 2942102459,
+  "lat": 32.9408071,
+  "lon": -96.9062605,
+  "tags": {
+    "addr:city": "Carrollton",
+    "addr:country": "US",
+    "addr:full": "1825 Monetary Lane Suite 104",
+    "addr:housenumber": "1825",
+    "addr:postcode": "75006",
+    "addr:street": "Monetary Lane",
+    "leisure": "hackerspace",
+    "name": "Dallas Makerspace",
+    "payment:bitcoin": "yes",
+    "website": "http://dallasmakerspace.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2947313815,
+  "lat": 43.6443212,
+  "lon": 3.7376256,
+  "tags": {
+    "addr:city": "Vailhauqes",
+    "addr:full": "49 rue SuperNova, 34570 Vailhauqès",
+    "addr:housename": "TechLab LR",
+    "addr:housenumber": "49",
+    "addr:postcode": "34570",
+    "addr:street": "rue SuperNova",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "opening_hours": "Mo-Th 14:00-18:00; Fr 14:00-22:00",
+    "website": "http://www.techlablr.fr/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2950104582,
+  "lat": 48.8486134,
+  "lon": 2.3855635,
+  "tags": {
+    "addr:city": "Paris",
+    "addr:full": "20 rue de Reuilly, 75012, Paris",
+    "addr:housenumber": "20",
+    "addr:postcode": "75012",
+    "addr:street": "Rue de Reuilly",
+    "alt_name": "Le Loop",
+    "contact:website": "http://wiki.leloop.org",
+    "leisure": "hackerspace",
+    "name": "Black Loop",
+    "source": "http://hackerspaces.org",
+    "website": "http://leloop.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2954416757,
+  "lat": 43.2952599,
+  "lon": 5.3839299,
+  "tags": {
+    "addr:full": "4 rue de la bibliotheque, 13001 Marseille",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "La Fabulerie",
+    "network": "FabLab",
+    "opening_hours": "Tu-Fr 14:00-17:00",
+    "website": "http://lafabulerie.com/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2961981971,
+  "lat": 5.6678418,
+  "lon": -0.1698940,
+  "tags": {
+    "email": "ftoffa@webfoundation.org",
+    "leisure": "hackerspace",
+    "name": "Mobile Web Ghana",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "phone": "+233267777887",
+    "website": "http://www.mobilewebghana.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2964448048,
+  "lat": 35.3238707,
+  "lon": 25.1381801,
+  "tags": {
+    "addr:city": "Ηράκλειο",
+    "addr:housenumber": "26",
+    "addr:postcode": "71306",
+    "addr:street": "Οδός Μελετίου Πηγά",
+    "craft": "handicraft",
+    "leisure": "hackerspace",
+    "level": "-1",
+    "name": "CommonsLab",
+    "shop": "doityourself",
+    "source": "survey",
+    "website": "http://CommonsLab.gr",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2970916293,
+  "lat": 49.2403386,
+  "lon": 6.9983136,
+  "tags": {
+    "access": "private",
+    "leisure": "hackerspace",
+    "name": "FritzKatz"
+  }
+},
+{
+  "type": "node",
+  "id": 2975199233,
+  "lat": -34.9222658,
+  "lon": 138.5924882,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Hackerspace Adelaide",
+    "website": "http://hackerspace-adelaide.org.au/"
+  }
+},
+{
+  "type": "node",
+  "id": 2981343147,
+  "lat": 47.9005499,
+  "lon": 1.9135619,
+  "tags": {
+    "addr:city": "Orléans",
+    "addr:full": "108 rue de Bourgogne, Orléans. Salle D12, 3ème étage du bâtiment \"le 108\".",
+    "addr:housenumber": "108",
+    "addr:street": "rue de Bourgogne",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "level": "3",
+    "name": "Atelier du Coin",
+    "opening_hours": "Th 16:02-19:59;Aug off",
+    "website": "http://openatelier.labomedia.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 2984232791,
+  "lat": 47.8052274,
+  "lon": 3.5785990,
+  "tags": {
+    "addr:city": "auxerre",
+    "addr:housenumber": "24",
+    "addr:postcode": "89000",
+    "addr:street": "Rue des Champoulains",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab Atelier des Beaux Boulons",
+    "website": "http://beauxboulons.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3000383177,
+  "lat": 47.4891475,
+  "lon": 19.0595181,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:country": "HU",
+    "addr:housenumber": "14",
+    "addr:postcode": "1056",
+    "addr:street": "Bástya utca",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Budapest",
+    "website": "http://hsbp.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3018465039,
+  "lat": 43.2990583,
+  "lon": -0.3665991,
+  "tags": {
+    "addr:city": "Pau",
+    "addr:full": "4, rue Despourrins, Pau. Au premier étage.",
+    "addr:housenumber": "4",
+    "addr:street": "rue Despourrins",
+    "alt_name": "MIPS",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "MIPS",
+    "website": "http://www.mips-lab.net",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3037438001,
+  "lat": 50.9669669,
+  "lon": 6.9516197,
+  "tags": {
+    "drink:club-mate": "served",
+    "leisure": "hackerspace",
+    "name": "DingFabrik e.V.",
+    "website": "http://www.dingfabrik.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3037755891,
+  "lat": 48.5793857,
+  "lon": 7.7494973,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "AV Lab",
+    "website": "http://av-lab.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 3041359174,
+  "lat": 50.7973194,
+  "lon": 4.3991778,
+  "tags": {
+    "addr:city": "Bruxelles",
+    "addr:housenumber": "80",
+    "addr:postcode": "1000",
+    "addr:street": "Avenue du Pérou - Perulaan",
+    "leisure": "hackerspace",
+    "name": "OpenFab",
+    "website": "http://openfab.ikesu.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3048998320,
+  "lat": 45.7975320,
+  "lon": 15.9883203,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Radiona Makerspace",
+    "opening_hours:url": "http://radiona.org",
+    "website": "http://radiona.org"
+  }
+},
+{
+  "type": "node",
+  "id": 3049027419,
+  "lat": 29.1026019,
+  "lon": -13.4635785,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Cyberhippietotalism",
+    "twitter": "chtotalism",
+    "website": "ch.totalsm.org"
+  }
+},
+{
+  "type": "node",
+  "id": 3051216659,
+  "lat": 25.0440620,
+  "lon": 121.5321624,
+  "tags": {
+    "addr:city": "臺北市",
+    "addr:full": "臺北市八德路一段94號3F",
+    "addr:housenumber": "94",
+    "addr:level": "3",
+    "addr:street": "八德路一段",
+    "layer": "2",
+    "leisure": "hackerspace",
+    "name": "摩茲工寮",
+    "name:en": "Mozilla Community Space Taipei",
+    "website": "http://moztw.org/space"
+  }
+},
+{
+  "type": "node",
+  "id": 3055729214,
+  "lat": 62.2410151,
+  "lon": 25.7073099,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Hacklab Jyväskylä ry",
+    "url": "http://hacklabjkl.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3070421199,
+  "lat": 49.8792301,
+  "lon": 8.6451467,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Chaos-Darmstadt e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 3079575242,
+  "lat": 41.1526908,
+  "lon": -81.3499630,
+  "tags": {
+    "addr:city": "Kent",
+    "amenity": "studio",
+    "leisure": "hackerspace",
+    "name": "TechStyleLab",
+    "shop": "fashion",
+    "website": "http://www.tech-style-lab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3081433445,
+  "lat": 47.8230206,
+  "lon": 13.0424254,
+  "tags": {
+    "addr:city": "Salzburg",
+    "addr:housenumber": "8",
+    "addr:postcode": "5020",
+    "addr:street": "Jakob-Haringer-Straße",
+    "alt_name": "Happylab",
+    "email": "salzburg@happylab.at",
+    "fax": "+43 662 249666 90",
+    "leisure": "hackerspace",
+    "name": "Happylab Salzburg",
+    "note": "Das Happylab ist Österreichs erstes \"Fab Lab\" und ermöglicht den niederschwelligen Zugang zu digitalen Produktionsmaschinen wie 3D-Drucker, Laser Cutter, Schneidplotter und CNC-Fräse.",
+    "phone": "+43 662 249666 0",
+    "source": "http://www.happylab.at",
+    "website": "http://www.happylab.at"
+  }
+},
+{
+  "type": "node",
+  "id": 3100347687,
+  "lat": 45.4507879,
+  "lon": 4.3859832,
+  "tags": {
+    "contact:facebook": "http://www.facebook.com/openfactory42",
+    "contact:twitter": "@OpenFactory42",
+    "contact:website": "http://www.openfactory42.org",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "OpenFactory Sainté",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3101185107,
+  "lat": 52.0632780,
+  "lon": 4.3680268,
+  "tags": {
+    "addr:city": "'s-Gravenhage",
+    "addr:housenumber": "5d",
+    "addr:postcode": "2495AL",
+    "addr:street": "Spoorlaan",
+    "leisure": "hackerspace",
+    "name": "RevSpace (Revelation Space)",
+    "source": "https://revspace.nl/ContactAndRoute",
+    "website": "https://revspace.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3116047947,
+  "lat": 5.5552553,
+  "lon": -0.1775223,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "iSpace Foundation",
+    "website": "http://ispacegh.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3129826775,
+  "lat": 47.4949872,
+  "lon": 8.7184620,
+  "tags": {
+    "alt_name": "FABLAB.winti",
+    "amenity": "fablab",
+    "contact:website": "http://www.fablabwinti.ch/kontakt/",
+    "email": "info@fablabwinti.ch",
+    "leisure": "hackerspace",
+    "level": "0",
+    "name": "FabLab Winti",
+    "opening_hours": "Tu 18:00-20:30; Sa 10:00-15:00",
+    "website": "http://www.fablabwinti.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3140400927,
+  "lat": 38.9544330,
+  "lon": -77.3386573,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Nova Labs",
+    "website": "http://www.nova-labs.org/about/"
+  }
+},
+{
+  "type": "node",
+  "id": 3143498533,
+  "lat": 47.2777959,
+  "lon": -2.2038403,
+  "tags": {
+    "addr:city": "Saint-Nazaire",
+    "addr:housenumber": "1",
+    "addr:postcode": "44600",
+    "addr:street": "Boulevard Paul Leferme",
+    "amenity": "fablab",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Le Fab 44",
+    "phone": "+33240613466",
+    "website": "http://lefab44.com",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3147460607,
+  "lat": 44.7281107,
+  "lon": 5.0234917,
+  "tags": {
+    "addr:city": "Crest",
+    "addr:postcode": "26400",
+    "addr:street": "Rue Courre Commère",
+    "hazard": "robot",
+    "identity": "p2p_economy;commons",
+    "leisure": "hackerspace",
+    "name": "8 Fablab",
+    "phone": "+33 4 75 55 14 78",
+    "website": "http://www.8fablab.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3157676535,
+  "lat": 47.8442046,
+  "lon": 1.9389915,
+  "tags": {
+    "addr:city": "Orléans",
+    "addr:full": "8 rue Léonard de Vinci, dans les locaux de Polytech Orléans, bâtiment Pascal, 4eme étage.",
+    "addr:housenumber": "8",
+    "addr:street": "rue Léonard de Vinci",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab Orléanais",
+    "opening_hours": "Mo 9:30-21:00; Tu 9:30-17:30; We 9:30-19:00; Th 9:30-21:00; Fr 9:30-19:00",
+    "website": "http://vincentmarce.phpnet.org/sitejoomla/FabLab_Orleans/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3170385873,
+  "lat": 53.5600103,
+  "lon": 13.2633456,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Entität e.V.",
+    "website": "http://entitaet.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3190904382,
+  "lat": 48.1860720,
+  "lon": 16.3551222,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Sektor5"
+  }
+},
+{
+  "type": "node",
+  "id": 3195457875,
+  "lat": 47.7404913,
+  "lon": -3.4099432,
+  "tags": {
+    "addr:city": "Ploemeur",
+    "addr:full": "Espace Créa – Pôle Technologique de Soye, rue Galilée, 56270 Ploemeur",
+    "addr:postcode": "56270",
+    "addr:street": "Rue Galilée",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Créa-Fab",
+    "website": "http://crepp.org/WordPress3/category/crea-fab/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3209348608,
+  "lat": 50.8924463,
+  "lon": 5.9711484,
+  "tags": {
+    "addr:city": "Heerlen",
+    "addr:country": "NL",
+    "addr:housenumber": "1",
+    "addr:postcode": "6412 CN",
+    "addr:street": "Kloosterweg",
+    "drink:club-mate": "bottled",
+    "email": "contact@ackspace.nl",
+    "leisure": "hackerspace",
+    "name": "ACKspace",
+    "phone": "+31457112345",
+    "website": "https://ackspace.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3211850179,
+  "lat": 35.6488437,
+  "lon": 139.5429313,
+  "tags": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "leisure": "hackerspace",
+    "name": "林建設株式会社 5F AED;co-ba chofu",
+    "note": "1階と、5階に、1台ずつ設置されてます。",
+    "osmbasecamp": "yes",
+    "phone": "+81-42-486-1111",
+    "source": "Chofu Mapping Party Contributors, CC BY 4.0, 10 October 2014;survey",
+    "workshop": "osmbasecamp"
+  }
+},
+{
+  "type": "node",
+  "id": 3214280096,
+  "lat": 63.4163016,
+  "lon": 10.4030799,
+  "tags": {
+    "leisure": "hackerspace",
+    "level": "0",
+    "name": "Hackerspace",
+    "room": "yes",
+    "room_nr": "119C",
+    "website": "http://hackerspace.idi.ntnu.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3218054522,
+  "lat": 50.6690906,
+  "lon": 4.6221482,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Makilab entrance",
+    "website": "http://makilab.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3220252428,
+  "lat": -16.5134912,
+  "lon": -68.1245462,
+  "tags": {
+    "addr:city": "La Paz",
+    "addr:floor": "1",
+    "addr:housenumber": "2687",
+    "addr:street": "Calle Sánchez Lima",
+    "contact:facebook": "https://www.facebook.com/boliviatechhub",
+    "email": "bolivia.tech.hub@gmail.com",
+    "leisure": "hackerspace",
+    "name": "Bolivia Tech Hub",
+    "note": "Bolivia Tech Hub Collaborative tiene como proposito brindar un espacio de trabajo abierto las comunidades TIC y activistas de La Paz y Bolivia",
+    "opening_hours": "Mo-Fr 08:00-20:00",
+    "phone": "+591 79127369",
+    "short_name": "Casa Hacker",
+    "start_date": "2014-11"
+  }
+},
+{
+  "type": "node",
+  "id": 3224540530,
+  "lat": 51.7170663,
+  "lon": 8.7475251,
+  "tags": {
+    "addr:city": "Paderborn",
+    "addr:housenumber": "12-16",
+    "addr:postcode": "33098",
+    "addr:street": "Westernmauer",
+    "leisure": "hackerspace",
+    "name": "C3PB e.V.",
+    "phone": "+49 5251 70 95 408",
+    "source": "https://www.c3pb.de/impressum",
+    "website": "https://www.c3pb.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3230934761,
+  "lat": -36.8601099,
+  "lon": 174.7551183,
+  "tags": {
+    "addr:full": "27 Edinburgh Street, Newton, Auckland",
+    "leisure": "hackerspace",
+    "name": "Tumeke Cycle Space",
+    "website": "http://www.tumekecyclespace.org.nz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3260460986,
+  "lat": 46.1403811,
+  "lon": -1.1603716,
+  "tags": {
+    "addr:city": "La Rochelle",
+    "addr:housenumber": "15",
+    "addr:postcode": "17000",
+    "addr:street": "rue Alfred Kastler",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Rupellab",
+    "website": "http://rupellab.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3266009268,
+  "lat": 53.2701011,
+  "lon": -9.0619321,
+  "tags": {
+    "addr:city": "Galway",
+    "addr:housenumber": "2",
+    "addr:street": "Raleigh Row",
+    "alt_name": "091labs",
+    "leisure": "hackerspace",
+    "name": "091 Labs",
+    "note": "info@091labs.com%20Facebook%20https://www.facebook.com/091labs%20Twitter%20@091labs%20https://twitter.com/091labs%20091labs",
+    "website": "http://091labs.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3273591085,
+  "lat": 52.2347431,
+  "lon": 6.8544244,
+  "tags": {
+    "addr:city": "Enschede",
+    "addr:housenumber": "525",
+    "addr:postcode": "7521AG",
+    "addr:street": "Hengelosestraat",
+    "contact:email": "bestuur@tkklab.nl",
+    "contact:facebook": "https://www.facebook.com/TkkrLab",
+    "contact:phone": "+31610745590",
+    "contact:twitter": "@tkkrlab",
+    "contact:website": "http://tkkrlab.nl",
+    "drink:club-mate": "yes",
+    "email": "bestuur@tkkrlab.nl",
+    "leisure": "hackerspace",
+    "name": "TkkrLab",
+    "phone": "+31610745590",
+    "website": "https://tkkrlab.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 3277010741,
+  "lat": 51.5341411,
+  "lon": 9.9300226,
+  "tags": {
+    "alt_name": "CCC Göttingen",
+    "leisure": "hackerspace",
+    "level": "1",
+    "name": "Noklab",
+    "office": "association",
+    "operator": "Chaostreff Göttingen e. V.",
+    "website": "https://cccgoe.de/wiki/Noklab"
+  }
+},
+{
+  "type": "node",
+  "id": 3279214672,
+  "lat": 37.5441025,
+  "lon": -77.4389846,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Eureka Workshop"
+  }
+},
+{
+  "type": "node",
+  "id": 3294360260,
+  "lat": 49.1168016,
+  "lon": 6.1846244,
+  "tags": {
+    "addr:street": "Rue du Grand-Wad",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "GOALL",
+    "source": "Survey",
+    "website": "http://goall.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 3301022309,
+  "lat": 35.4784448,
+  "lon": -97.5194309,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Prototek"
+  }
+},
+{
+  "type": "node",
+  "id": 3307840514,
+  "lat": 46.6152343,
+  "lon": 13.8448393,
+  "tags": {
+    "addr:city": "Villach",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "9500",
+    "addr:street": "Kaiser-Josef-Platz",
+    "alt_name": "offenes Technologielabor Villach",
+    "email": "freiraum@otelovillach.at",
+    "leisure": "hackerspace",
+    "name": "Otelo Villach",
+    "phone": "+43 664 5105287",
+    "url": "http://www.otelo.or.at",
+    "website": "http://www.otelovillach.at"
+  }
+},
+{
+  "type": "node",
+  "id": 3307857158,
+  "lat": 47.9051307,
+  "lon": 14.1196780,
+  "tags": {
+    "addr:city": "Kirchdorf an der Krems",
+    "addr:housenumber": "16a",
+    "addr:postcode": "4560",
+    "addr:street": "Bahnhofstraße",
+    "alt_name": "offenes Technologielabor Kremstal",
+    "email": "kremstal@otelo.or.at",
+    "leisure": "hackerspace",
+    "name": "Otelo Kremstal",
+    "website": "http://www.otelo.or.at"
+  }
+},
+{
+  "type": "node",
+  "id": 3316533500,
+  "lat": 45.4479324,
+  "lon": 9.2219729,
+  "tags": {
+    "addr:city": "Milano",
+    "addr:housenumber": "70",
+    "addr:postcode": "20137",
+    "addr:street": "Via Tertulliano",
+    "leisure": "hackerspace",
+    "name": "opendot s.r.l.",
+    "note": "Siamo un network di differenti professionalità, eterogeneo e multidisciplinare.",
+    "phone": "+39 02 36519890",
+    "source": "http://www.opendotlab.it",
+    "website": "http://www.opendotlab.it"
+  }
+},
+{
+  "type": "node",
+  "id": 3316536818,
+  "lat": 45.6297481,
+  "lon": 8.7061281,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "G.U.L.L.P."
+  }
+},
+{
+  "type": "node",
+  "id": 3321557013,
+  "lat": 50.8974715,
+  "lon": 14.8043893,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "WerkRaum",
+    "website": "http://werkraum.freiraumzittau.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3325075159,
+  "lat": 40.5730031,
+  "lon": -8.4444314,
+  "tags": {
+    "addr:city": "Águeda",
+    "addr:postcode": "3750-101",
+    "addr:street": "Praça Conde de Águeda",
+    "alt_name": "ALL",
+    "contact:email": "all@cm-agueda.pt",
+    "contact:website": "https://www.facebook.com/AguedaLivingLab",
+    "image": "http://all.cm-agueda.pt/themes/all/images/header/logotipo.png",
+    "leisure": "hackerspace",
+    "name": "Águeda Living Lab",
+    "note": "No Águeda Living Lab (ALL), pretende-se oferecer à comunidade de participantes um espaço de criação dotado de equipamentos e tecnologia, assim como de apoio técnico.",
+    "source": "Águeda Living Lab",
+    "website": "http://all.cm-agueda.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 3340307650,
+  "lat": 5.5581763,
+  "lon": -0.1738088,
+  "tags": {
+    "addr:city": "accra",
+    "addr:housenumber": "23",
+    "addr:street": "Klannaa Street",
+    "leisure": "hackerspace",
+    "name": "Hub Accra"
+  }
+},
+{
+  "type": "node",
+  "id": 3342079613,
+  "lat": 50.1241765,
+  "lon": 8.6362179,
+  "tags": {
+    "addr:city": "Frankfurt am Main",
+    "addr:housenumber": "2",
+    "addr:postcode": "60487",
+    "addr:street": "Häuser Gasse",
+    "leisure": "hackerspace",
+    "name": "Chaos Computer Club Frankfurt e.V.",
+    "opening_hours": "Th 18:00-23:00",
+    "source": "knowledge",
+    "website": "https://ccc-ffm.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3343796374,
+  "lat": 49.4276679,
+  "lon": 2.0819782,
+  "tags": {
+    "addr:city": "Beauvais",
+    "addr:postcode": "60000",
+    "addr:street": "Rue du Pont de Paris",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "L'Atelier",
+    "website": "http://atelier.oise.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3354469716,
+  "lat": 43.3430086,
+  "lon": 5.4373651,
+  "tags": {
+    "addr:city": "Marseille",
+    "addr:full": "38 rue Frédéric Joliot-Curie, Marseille. Dans les locaux de l'Ecole Centrale Marseille.",
+    "addr:housenumber": "38",
+    "addr:street": "rue Frédéric Joliot-Curie",
+    "email": "fablab.marseille@gmail.com",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab Marseille",
+    "website": "http://fablab.centrale-marseille.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3354863551,
+  "lat": 22.2545568,
+  "lon": -79.2649555,
+  "tags": {
+    "addr:city": "Menseses",
+    "addr:housenumber": "23 A",
+    "addr:street": "Estrada Palma",
+    "leisure": "hackerspace",
+    "name": "Joven Club de Computación y Electrónica Yaguajay II",
+    "source": "http://www.ecured.cu/index.php/Joven_Club_de_Computaci%C3%B3n_y_Electr%C3%B3nica_Yaguajay_II",
+    "workshop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 3361520742,
+  "lat": 52.1685013,
+  "lon": 9.9467753,
+  "tags": {
+    "addr:city": "Hildesheim",
+    "addr:housenumber": "29",
+    "addr:postcode": "31137",
+    "addr:street": "Richthofenstraße",
+    "club": "hackerspace",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Freies Labor e.V.",
+    "office": "it",
+    "opening_hours:url": "http://spaceapi-stats.n39.eu/#freieslabor",
+    "phone": "+49 5121 708480",
+    "website": "http://freieslabor.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3364883424,
+  "lat": -23.5271937,
+  "lon": -46.6294007,
+  "tags": {
+    "addr:city": "São Paulo",
+    "addr:housenumber": "506",
+    "addr:postcode": "01106-010",
+    "addr:street": "Rua Alfredo Maia",
+    "leisure": "hackerspace",
+    "name": "Labhacker",
+    "website": "http://lab.thacker.com.br",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3369062539,
+  "lat": 48.3994018,
+  "lon": -4.4721876,
+  "tags": {
+    "addr:city": "Brest",
+    "addr:housenumber": "214",
+    "addr:postcode": "29200",
+    "addr:street": "Rue Jean Jaurès",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "TyFab",
+    "opening_hours:url": "http://tyfab.fr/manifestations/",
+    "shop": "doityourself",
+    "website": "http://tyfab.fr",
+    "wheelchair": "yes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3373390042,
+  "lat": 45.7732495,
+  "lon": 4.8372366,
+  "tags": {
+    "addr:full": "7 place Louis Chazette, Lyon. Dans les locaux de LibrePC.",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Laboratoire Ouvert Lyonnais",
+    "opening_hours": "Tu 19:00+",
+    "short_name": "LOL",
+    "website": "http://labolyon.fr",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3376223660,
+  "lat": 48.8955488,
+  "lon": 2.1868177,
+  "tags": {
+    "addr:city": "Nanterre",
+    "addr:full": "52 rue Paul Lescop, 92000 Nanterre",
+    "addr:housenumber": "52",
+    "addr:postcode": "92000",
+    "addr:street": "Rue Paul Lescop",
+    "leisure": "hackerspace",
+    "name": "Electrolab",
+    "website": "http://www.electrolab.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 3379737815,
+  "lat": 52.2304976,
+  "lon": 20.9793098,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "85C",
+    "addr:postcode": "00-844",
+    "addr:street": "Grzybowska",
+    "drink:club_mate": "present",
+    "internet_access": "wlan",
+    "layer": "-1",
+    "leisure": "hackerspace",
+    "name": "Warszawski Hackerspace",
+    "name:en": "Warsaw Hackerspace",
+    "website": "https://hackerspace.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3381289332,
+  "lat": 42.3815572,
+  "lon": -71.1050160,
+  "tags": {
+    "addr:city": "Somerville",
+    "addr:housenumber": "10",
+    "addr:postcode": "02143",
+    "addr:state": "MA",
+    "addr:street": "Tyler Street",
+    "leisure": "hackerspace",
+    "name": "Artisan's Asylum",
+    "phone": "617-284-6878",
+    "website": "http://artisansasylum.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3395467368,
+  "lat": 51.9005932,
+  "lon": -2.0991581,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Cheltenham Hackspace",
+    "website": "http://cheltenhamhackspace.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3398525820,
+  "lat": 53.5583644,
+  "lon": 9.9443486,
+  "tags": {
+    "addr:city": "Hamburg",
+    "addr:full": "Raum 119 (1. Stock, Ost-Flügel) Zeiseweg 9, 22765 Hamburg, Germany",
+    "addr:housenumber": "9",
+    "addr:postcode": "22765",
+    "addr:street": "Zeiseweg",
+    "drink:club-mate": "yes",
+    "email": "mail@hamburg.ccc.de",
+    "fax": "+49 (40) 401 801 -42",
+    "leisure": "hackerspace",
+    "name": "CCC Hansestadt Hamburg e.V.",
+    "note": "Raum 119 (1. Stock, Ost-Flügel)",
+    "phone": "+49 40 401 801 -0",
+    "website": "http://www.hamburg.ccc.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3423704891,
+  "lat": 49.4611417,
+  "lon": 11.0291654,
+  "tags": {
+    "addr:city": "Nürnberg",
+    "addr:housenumber": "141",
+    "addr:postcode": "90429",
+    "addr:street": "Muggenhofer Straße",
+    "leisure": "hackerspace",
+    "name": "Fab Lab Region Nürnberg e.V.",
+    "website": "http://www.fablab-nuernberg.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3431431924,
+  "lat": 51.7160293,
+  "lon": 8.7766975,
+  "tags": {
+    "addr:city": "Paderborn",
+    "addr:country": "DE",
+    "addr:housenumber": "16",
+    "addr:postcode": "33100",
+    "addr:street": "Schulze-Delitzsch-Straße",
+    "amenity": "social_facility",
+    "contact:email": "info@fablab-paderborn.de",
+    "leisure": "hackerspace",
+    "name": "FabLab Paderborn e.V.",
+    "note": "Every 1st Sunday - Repair Cafe",
+    "opening_hours": "Fr 18:00+",
+    "website": "http://www.fablab-paderborn.de",
+    "wheelchair": "yes",
+    "wikipedia": "de:FabLab"
+  }
+},
+{
+  "type": "node",
+  "id": 3439527066,
+  "lat": 46.6740764,
+  "lon": -1.4355623,
+  "tags": {
+    "contact:email": "contact@zbis.fr",
+    "contact:housenumber": "123",
+    "contact:phone": "+33 9 80 51 95 97",
+    "contact:street": "Boulevard Louis Blanc",
+    "contact:website": "http://zbis.fr/",
+    "fablab": "yes",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "zBis",
+    "opening_hours": "Tu-Th 09:00-19:00; Fr,Sa 09:00-22:00",
+    "wheelchair": "yes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3448377010,
+  "lat": 48.4856905,
+  "lon": 7.9398930,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Englerstraße",
+    "leisure": "hackerspace",
+    "name": "section77",
+    "website": "http://www.section77.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3448679058,
+  "lat": 49.2693831,
+  "lon": -123.1108075,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "#104-1715",
+    "addr:postcode": "V5Y 3J6",
+    "addr:province": "BC",
+    "addr:street": "Cook Street",
+    "leisure": "hackerspace",
+    "name": "Vancouver Hack Space (VHS)",
+    "website": "https://vancouver.hackspace.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 3453818038,
+  "lat": 49.8017978,
+  "lon": 9.9230202,
+  "tags": {
+    "addr:city": "Würzburg",
+    "addr:housenumber": "14",
+    "addr:postcode": "97080",
+    "addr:street": "Veitshöchheimer Straße",
+    "leisure": "hackerspace",
+    "name": "Fablab Würzburg",
+    "phone": "0049 931 358 23 24 0",
+    "website": "http://fablab-wuerzburg.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3463084555,
+  "lat": 52.1461642,
+  "lon": 5.4053838,
+  "tags": {
+    "addr:city": "Amersfoort",
+    "addr:country": "NL",
+    "addr:housename": "Bitlair",
+    "addr:housenumber": "144B",
+    "addr:postcode": "3816AN",
+    "addr:street": "Heiligenbergerweg",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "name": "Bitlair",
+    "source": "BAG",
+    "source:date": "2015-04-18",
+    "website": "https://bitlair.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3463769191,
+  "lat": 12.9404424,
+  "lon": 77.6217797,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "BHive"
+  }
+},
+{
+  "type": "node",
+  "id": 3469218357,
+  "lat": 46.5154789,
+  "lon": 0.3368484,
+  "tags": {
+    "addr:city": "Ligugé",
+    "addr:postcode": "86240",
+    "addr:street": "La Filature",
+    "alt_name": "Les usines nouvelles",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "U.N.I.T",
+    "opening_hours": "Th 18:30-21:00",
+    "website": "http://www.lesusinesnouvelles.com/fab-lab/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3469844618,
+  "lat": 47.4913022,
+  "lon": -0.5636540,
+  "tags": {
+    "addr:city": "Angers",
+    "addr:housenumber": "2",
+    "addr:postcode": "49100",
+    "addr:street": "rue Renée",
+    "alt_name": "Mission Locale Angevine Antenne des Hauts-de-Saint-Aubin",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Club REIA",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3486779493,
+  "lat": 47.0631639,
+  "lon": 4.8182497,
+  "tags": {
+    "addr:city": "Savigny-lès-Beaune",
+    "addr:housenumber": "1",
+    "addr:postcode": "21420",
+    "addr:street": "rue de Cigales",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "FabLab des vignes",
+    "network": "FabLab",
+    "website": "https://www.facebook.com/FabLabVignes",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3490755293,
+  "lat": 53.1999518,
+  "lon": 5.7839330,
+  "tags": {
+    "addr:city": "Leeuwarden",
+    "addr:housenumber": "7",
+    "addr:postcode": "8913CZ",
+    "addr:street": "Fonteinland",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Frack",
+    "website": "http://frack.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 3493345068,
+  "lat": 47.9950266,
+  "lon": 0.1885782,
+  "tags": {
+    "addr:city": "Le Mans",
+    "addr:housenumber": "19",
+    "addr:postcode": "72100",
+    "addr:street": "Boulevard M&A Oyon",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "HAUM",
+    "website": "http://haum.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3509760502,
+  "lat": 47.3555502,
+  "lon": 5.0264683,
+  "tags": {
+    "addr:city": "Fontaine-Lès-Dijon",
+    "addr:housenumber": "5",
+    "addr:street": "rue des ponnières",
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Atelier D’calés",
+    "network": "FabLab",
+    "website": "https://www.facebook.com/AtelierDcales",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3519628870,
+  "lat": 25.1589852,
+  "lon": 55.2378549,
+  "tags": {
+    "addr:city": "Dubai",
+    "addr:street": "8th Street",
+    "leisure": "hackerspace",
+    "name": "Origin Base Makerspace",
+    "phone": "+971 55 134 9247",
+    "website": "http://www.originbase.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3522641496,
+  "lat": 43.6423130,
+  "lon": -79.4295176,
+  "tags": {
+    "addr:unit": "6",
+    "leisure": "hackerspace",
+    "name": "HackLab.TO",
+    "source": "survey",
+    "website": "https://hacklab.to/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3528515086,
+  "lat": 40.9520058,
+  "lon": -5.6643652,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Plaza Maestro Tárrega",
+    "club": "doityourself",
+    "leisure": "hackerspace",
+    "name": "La caja Maker Space",
+    "opening_hours": "Th 20:30-22:30",
+    "website": "http://lacajamakerspace.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3560176198,
+  "lat": 48.6939440,
+  "lon": 6.1997164,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Lorraine Fab Living Lab",
+    "short_name": "LF2L",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3560176199,
+  "lat": 48.6939594,
+  "lon": 6.1996979,
+  "tags": {
+    "hazard": "robot",
+    "leisure": "hackerspace",
+    "name": "Nancy Bidouille Création Construction",
+    "short_name": "Nybi.cc",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3587518143,
+  "lat": 50.5271486,
+  "lon": 30.7956172,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Лазерные бои",
+    "website": "giperboloid.com.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 3589874093,
+  "lat": 52.5221693,
+  "lon": 13.4491295,
+  "tags": {
+    "email": "kbs-fhainkreuzberg@kommrum.de",
+    "leisure": "hackerspace",
+    "name": "KommRum Repair Café",
+    "network": "Repair cafe",
+    "note": "Back check opening hours, monthly meetup mostly.",
+    "opening_hours": "Fr 17:00-19:30",
+    "operator": "KommRum e.V.",
+    "phone": "+49 30 2923700",
+    "ref": "Straßmannstr. 17, 10249 Berlin"
+  }
+},
+{
+  "type": "node",
+  "id": 3597549666,
+  "lat": -15.7565542,
+  "lon": -47.8904645,
+  "tags": {
+    "addr:postcode": "70756-520",
+    "addr:street": "CLN 310 - Bloco B, Loja 51",
+    "addr:suburb": "Asa Norte",
+    "leisure": "hackerspace",
+    "name": "Calango Hacker Clube",
+    "website": "http://calango.club",
+    "wheelchair": "partial"
+  }
+},
+{
+  "type": "node",
+  "id": 3600137230,
+  "lat": 14.6046517,
+  "lon": 120.9882665,
+  "tags": {
+    "leisure": "hackerspace"
+  }
+},
+{
+  "type": "node",
+  "id": 3600149032,
+  "lat": 14.6046851,
+  "lon": 120.9882365,
+  "tags": {
+    "addr:city": "Manila",
+    "addr:housenumber": "885",
+    "addr:postcode": "1400",
+    "addr:street": "P. Paredes",
+    "leisure": "hackerspace"
+  }
+},
+{
+  "type": "node",
+  "id": 3600752072,
+  "lat": 59.3503496,
+  "lon": 18.0678368,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Stockholm Makerspace"
+  }
+},
+{
+  "type": "node",
+  "id": 3603886213,
+  "lat": 40.1020648,
+  "lon": -88.2247206,
+  "tags": {
+    "email": "communityfablab@gmail.com",
+    "leisure": "hackerspace",
+    "name": "CU Community Fab Lab",
+    "network": "FabLab",
+    "official_name": "Champaign-Urbana Community Fab Lab",
+    "short_name": "Fab Lab",
+    "website": "http://cucfablab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3610245831,
+  "lat": 44.9552675,
+  "lon": -93.2260116,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "The Hack Factory",
+    "operator": "Twin Cities Maker",
+    "website": "http://www.tcmaker.org"
+  }
+},
+{
+  "type": "node",
+  "id": 3629400400,
+  "lat": 51.6192226,
+  "lon": -3.9388716,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:postcode": "SA1 1DP",
+    "addr:street": "Wind Street",
+    "leisure": "hackerspace",
+    "name": "Swansea Hackspace"
+  }
+},
+{
+  "type": "node",
+  "id": 3635877798,
+  "lat": 40.7929096,
+  "lon": -77.8615056,
+  "tags": {
+    "addr:city": "State College",
+    "addr:country": "US",
+    "addr:housenumber": "141",
+    "addr:postcode": "16801",
+    "addr:state": "PA",
+    "addr:street": "South Fraser Street",
+    "leisure": "hackerspace",
+    "name": "The Make Space",
+    "website": "makespace.io"
+  }
+},
+{
+  "type": "node",
+  "id": 3643664393,
+  "lat": 46.2105230,
+  "lon": 6.1411840,
+  "tags": {
+    "addr:city": "Genève",
+    "addr:housenumber": "1",
+    "addr:street": "Rue Fendt",
+    "leisure": "hackerspace",
+    "name": "Impact Hub Geneva"
+  }
+},
+{
+  "type": "node",
+  "id": 3654828659,
+  "lat": 54.3416189,
+  "lon": 10.1249808,
+  "tags": {
+    "addr:city": "Kiel",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:place": "Toppoint e.V.",
+    "addr:postcode": "24118",
+    "addr:street": "Fraunhoferstraße",
+    "amenity": "club_house",
+    "building": "club_house",
+    "contact:email": "verein@toppoint.de",
+    "contact:phone": "+49-431-562136",
+    "contact:website": "http://www.toppoint.de/",
+    "drink:club-mate": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "leisure": "hackerspace",
+    "name": "Toppoint e.V.",
+    "operator": "Toppoint e.V.",
+    "smoking": "no",
+    "source": "localknowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3661818746,
+  "lat": 45.1939243,
+  "lon": 5.7706150,
+  "tags": {
+    "addr:city": "Saint Martin d'Hères",
+    "addr:country": "FR",
+    "addr:full": "Laboratoire LIG, fabMSTIC - Batiment C, Rez-de-chaussée - Université Joseph Fourier - Grenoble 1 - BP 53, 38041 Grenoble Cedex 9, France",
+    "addr:postcode": "38041",
+    "leisure": "hackerspace",
+    "name": "fabMSTIC",
+    "website": "http://fabmstic.imag.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 3662201093,
+  "lat": 43.7072737,
+  "lon": 7.2941421,
+  "tags": {
+    "addr:city": "Nice",
+    "addr:country": "FR",
+    "addr:full": "19 rue Louis Garneray, 06300 Nice",
+    "addr:housenumber": "19",
+    "addr:postcode": "06300",
+    "addr:street": "Rue Louis Garneray",
+    "leisure": "hackerspace",
+    "name": "Nicelab",
+    "website": "https://nicelab.org/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3663499589,
+  "lat": 41.9514523,
+  "lon": 2.7976273,
+  "tags": {
+    "addr:city": "Vilabrareix",
+    "addr:country": "ES",
+    "addr:housenumber": "F",
+    "addr:street": "Avinguda Lluis Companys",
+    "leisure": "hackerspace",
+    "name": "Tecno Ateneu Vilabrareix",
+    "short_name": "Tecno Ateneu",
+    "website": "www.tecnoateneu.cat"
+  }
+},
+{
+  "type": "node",
+  "id": 3664434485,
+  "lat": 50.8478582,
+  "lon": 4.3284729,
+  "tags": {
+    "addr:city": "Molenbeek-Saint-Jean - Sint-Jans-Molenbeek",
+    "addr:housenumber": "21",
+    "addr:postcode": "1080",
+    "addr:street": "Rue de Manchester - Manchesterstraat",
+    "drink:club-mate": "served",
+    "leisure": "hackerspace",
+    "name": "HSBXL - Hackerspace Brussels",
+    "name:fr": "Hackerspace de Bruxelles",
+    "note": "Located on the 4th floor (top floor).",
+    "website": "http://hackerspace.be",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3665383867,
+  "lat": 41.3983285,
+  "lon": -83.6459146,
+  "tags": {
+    "addr:city": "Bowling Green",
+    "addr:housenumber": "1234",
+    "addr:postcode": "43402",
+    "addr:state": "OH",
+    "addr:street": "North Main",
+    "alt_name": "Fab Lab",
+    "amenity": "library",
+    "amenity_1": "studio",
+    "email": "info@BiGFabLab.com",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "leisure": "hackerspace",
+    "name": "BiG Fab Lab",
+    "note": "Makerspace for Ham Radio, RC Aircraft, Textiles, Woodworking, Metalworking, Programming, Photography, Pottery, Electronics, and Culinary Enthusiasts.",
+    "opening_hours": "24/7",
+    "phone": "419-971-4244",
+    "shop": "electronics",
+    "source": "survey",
+    "website": "http://www.bigfablab.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3676168521,
+  "lat": 48.7549959,
+  "lon": 2.4112338,
+  "tags": {
+    "addr:city": "Choisy-le-Roi",
+    "addr:full": "30 avenue Newburn, 94600, Choisy-le-Roi",
+    "addr:housenumber": "30",
+    "addr:postcode": "94600",
+    "addr:street": "Avenue Newburn",
+    "leisure": "hackerspace",
+    "name": "/tmp/lab",
+    "website": "http://www.tmplab.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3681369084,
+  "lat": 38.7216356,
+  "lon": -9.1320296,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:postcode": "1170-221 Lisboa",
+    "addr:street": "Rua Maria da Fonte - Mercado do Forno do Tijolo",
+    "leisure": "hackerspace",
+    "name": "altLab - Lisbon's Hackerspace",
+    "website": "http://altlab.org"
+  }
+},
+{
+  "type": "node",
+  "id": 3695922210,
+  "lat": 64.1015006,
+  "lon": -21.8234706,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "111",
+    "addr:street": "Eddufell",
+    "club": "doityourself",
+    "leisure": "hackerspace",
+    "name": "FabLab Reykjavík",
+    "name:en": "FabLab Reykjavik",
+    "phone": "+354 567 5522;+354 567 5522",
+    "website": "http://wiki.fablab.is/wiki/Fab_Lab_Reykjavik"
+  }
+},
+{
+  "type": "node",
+  "id": 3698691114,
+  "lat": 53.9430363,
+  "lon": 27.5977573,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Минский Хакерспейс",
+    "website": "http://hackerspace.by/"
+  }
+},
+{
+  "type": "node",
+  "id": 3698790834,
+  "lat": 42.7471652,
+  "lon": -84.5461454,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Lansing Makers Network",
+    "website": "https://www.lansingmakersnetwork.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3705319145,
+  "lat": 49.3433539,
+  "lon": 6.1603509,
+  "tags": {
+    "addr:city": "Thionville",
+    "addr:housenumber": "5",
+    "addr:street": "impasse des anciens hauts-fourneaux",
+    "leisure": "hackerspace",
+    "name": "Thilab",
+    "website": "http://techtic-co.eu/thilab/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3705481882,
+  "lat": 47.7586739,
+  "lon": 7.3473350,
+  "tags": {
+    "addr:city": "Mulhouse",
+    "addr:housenumber": "120",
+    "addr:postcode": "68100",
+    "addr:street": "rue d'Illzach",
+    "contact:email": "contact@technistub.org",
+    "description": "Atelier-laboratoire associatif",
+    "leisure": "hackerspace",
+    "name": "Technistub",
+    "office": "research",
+    "website": "http://www.technistub.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3705834659,
+  "lat": 46.2892766,
+  "lon": -0.6910310,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "La Frênaie",
+    "website": "http://lafrenaie.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3710785094,
+  "lat": 33.0278371,
+  "lon": -96.7113347,
+  "tags": {
+    "addr:housenumber": "1915",
+    "addr:postcode": "75075",
+    "addr:street": "N Central Expy",
+    "addr:unit": "370",
+    "leisure": "hackerspace",
+    "name": "TheLab.ms Plano Education Center",
+    "website": "https://thelab.ms/"
+  }
+},
+{
+  "type": "node",
+  "id": 3716897933,
+  "lat": 43.5359558,
+  "lon": 6.4596048,
+  "tags": {
+    "addr:city": "Draguignan",
+    "addr:postcode": "83300",
+    "addr:street": "Avenue du Quatre Septembre",
+    "leisure": "hackerspace",
+    "name": "MOD&LAB - CNUM",
+    "website": "http://www.modlab.fr",
+    "wheelchair": "no",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3716999977,
+  "lat": 54.6745434,
+  "lon": 25.2769788,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Technariumas",
+    "name:en": "Technarium",
+    "name:lt": "Technariumas",
+    "website": "http://technarium.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 3720914385,
+  "lat": -16.5038604,
+  "lon": -68.1237409,
+  "tags": {
+    "alt_name": "HackLab La Paz",
+    "leisure": "hackerspace",
+    "name": "r00tHouse",
+    "website": "http://hacklab.org.bo"
+  }
+},
+{
+  "type": "node",
+  "id": 3725878730,
+  "lat": 53.7406177,
+  "lon": -2.0169008,
+  "tags": {
+    "addr:city": "Hebden Bridge",
+    "addr:housename": "Bridge Rectifier",
+    "addr:postcode": "HX7 6HJ",
+    "addr:street": "Hebble End",
+    "building": "yes",
+    "leisure": "hackerspace",
+    "name": "Bridge Rectifier",
+    "website": "www.bridgerectifier.org.uk"
+  }
+},
+{
+  "type": "node",
+  "id": 3744038240,
+  "lat": 49.1261322,
+  "lon": 6.1829138,
+  "tags": {
+    "addr:city": "Metz",
+    "addr:housenumber": "7",
+    "addr:postcode": "57000",
+    "addr:street": "Avenue de Blida",
+    "email": "contact@graoulab.org",
+    "facebook": "http://facebook.com/GraouLab",
+    "leisure": "hackerspace",
+    "name": "GraouLAB",
+    "note": "Un fab lab est un lieu ouvert au public où il est mis à sa disposition toutes sortes d'outils, notamment des machines-outils pilotées par ordinateur, pour la conception et la réalisation d'objets.",
+    "opening_hours": "Th 19:00-22:00",
+    "website": "http://graoulab.org"
+  }
+},
+{
+  "type": "node",
+  "id": 3744179555,
+  "lat": 49.0978861,
+  "lon": 6.1693638,
+  "tags": {
+    "addr:city": "Metz",
+    "addr:housenumber": "1",
+    "addr:postcode": "57000",
+    "addr:street": "Rue de Castelnau",
+    "leisure": "hackerspace",
+    "name": "Repair Café",
+    "note": "Le Repair Café c’est un lieu de convivialité pour réparer ensemble et donner une seconde vie à des objets. Les gens apportent leurs objets cassés et les réparent avec les membres de l’association. Les experts de l’association apportent leur expertise",
+    "website": "https://mdesign57.wordpress.com/2014/10/21/lassociation-mdesign-organise-le-1er-repair-cafe-lorrain/"
+  }
+},
+{
+  "type": "node",
+  "id": 3744179556,
+  "lat": 49.1261990,
+  "lon": 6.1829988,
+  "tags": {
+    "addr:city": "Metz",
+    "addr:housenumber": "7",
+    "addr:postcode": "57000",
+    "addr:street": "Avenue de Blida",
+    "leisure": "hackerspace",
+    "name": "MDesign",
+    "note": "éco-fabrications et design partagées",
+    "website": "http://mdesign57.wordpress.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3748942004,
+  "lat": 46.2596021,
+  "lon": 6.1079113,
+  "tags": {
+    "addr:city": "Ferney-Voltaire",
+    "addr:housenumber": "12 b",
+    "addr:postcode": "01210",
+    "addr:street": "Rue de Gex",
+    "email": "contacteznous@panglosslabs.org",
+    "leisure": "hackerspace",
+    "name": "Pangloss labs",
+    "website": "http://www.panglosslabs.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3785936974,
+  "lat": 48.8418128,
+  "lon": -1.5644887,
+  "tags": {
+    "addr:city": "Granville",
+    "addr:housenumber": "466",
+    "addr:postcode": "50400",
+    "addr:street": "Rue de la Parfonterie",
+    "leisure": "hackerspace",
+    "name": "Goldorhack",
+    "website": "http://www.goldorhack.org",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3789468207,
+  "lat": 22.5115307,
+  "lon": -79.6996234,
+  "tags": {
+    "addr:city": "Vueltas",
+    "addr:street": "Ramón Hernández Cuvilla",
+    "leisure": "hackerspace",
+    "name": "Joven Club de Computación Camajuaní II",
+    "phone": "0142 484298"
+  }
+},
+{
+  "type": "node",
+  "id": 3794341875,
+  "lat": 42.4387587,
+  "lon": -76.4995265,
+  "tags": {
+    "addr:housenumber": "116",
+    "addr:street": "West Green Street",
+    "leisure": "hackerspace",
+    "name": "Ithaca Generator",
+    "website": "http://ithacagenerator.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3798289303,
+  "lat": 50.7792152,
+  "lon": 6.0869685,
+  "tags": {
+    "addr:city": "Aachen",
+    "addr:housenumber": "10-12;12",
+    "addr:postcode": "52062",
+    "addr:street": "Martinstraße",
+    "amenity": "bar",
+    "drink:club-mate": "yes",
+    "entrance": "yes",
+    "leisure": "hackerspace",
+    "name": "Voidspace;Digitac",
+    "opening_hours": "Tu 20:00-24:00",
+    "operator": "Digitales Aachen e. V.;Digitales Aachen e.V.",
+    "smoking": "outside",
+    "source": "knowledge",
+    "website": "http://www.digitac.cc/"
+  }
+},
+{
+  "type": "node",
+  "id": 3805453684,
+  "lat": 46.5196801,
+  "lon": 0.3133153,
+  "tags": {
+    "addr:city": "Ligugé",
+    "addr:postcode": "86240",
+    "addr:street": "ZA Les Erondieres",
+    "leisure": "hackerspace",
+    "name": "Quai-Lab",
+    "note": "FABLAB / HACKERSPACE :  Robotique / Electronique / Objets Connectés / Impression 3D",
+    "website": "http://quai-lab.com/",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3811361820,
+  "lat": 48.8228516,
+  "lon": 2.3892127,
+  "tags": {
+    "addr:city": "Ivry-sur-Seine",
+    "addr:housenumber": "21/23",
+    "addr:postcode": "94200",
+    "addr:street": "Rue François Mitterrand",
+    "leisure": "hackerspace",
+    "name": "TechShop",
+    "website": "http://www.techshoplm.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3818368202,
+  "lat": 42.6984083,
+  "lon": 2.9018548,
+  "tags": {
+    "contact:website": "http://www.perpinux.org",
+    "leisure": "hackerspace",
+    "name": "PERPINUX",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "workshop": "fablab"
+  }
+},
+{
+  "type": "node",
+  "id": 3826211501,
+  "lat": 50.0777853,
+  "lon": 8.2026330,
+  "tags": {
+    "addr:door": "Tor 1",
+    "club": "doityourself",
+    "email": "info@makerspacewi.de",
+    "leisure": "hackerspace",
+    "name": "Makerspace Wiesbaden e. V.",
+    "website": "http://www.makerspacewi.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3831529258,
+  "lat": 50.8376798,
+  "lon": 4.3870293,
+  "tags": {
+    "addr:city": "Etterbeek - Etterbeek",
+    "addr:housenumber": "97",
+    "addr:postcode": "1040",
+    "addr:street": "Rue du Cornet - Hoornstraat",
+    "contact:website": "https://www.facebook.com/Repair-Caf%C3%A9-1040-1056204851079871/",
+    "description": "Que faire d'un grille-pain qui ne marche plus ? D'une bicyclette ou d'un pull troué ? Les jeter ? Pas question ! [Supporté par Repair Together asbl]",
+    "identity": "transition_initiative;commons",
+    "interaction": "diy_and_dit",
+    "leisure": "hackerspace",
+    "name": "Repair Cafe - De Maalbeek",
+    "provides": "objects_of_utility;learning_opportunities",
+    "website": "https://www.facebook.com/Repair-Caf%C3%A9-1040-1056204851079871/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3839135491,
+  "lat": 33.7187308,
+  "lon": -78.9406787,
+  "tags": {
+    "addr:city": "Myrtle Beach",
+    "addr:housenumber": "3926",
+    "addr:postcode": "29579",
+    "addr:state": "SC",
+    "addr:street": "Wesley Street Ste 403",
+    "leisure": "hackerspace",
+    "name": "SubProto",
+    "phone": "+1 843 732 0782",
+    "website": "http://www.subproto.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3859644828,
+  "lat": 52.5270545,
+  "lon": 13.3852260,
+  "tags": {
+    "addr:city": "Berlin",
+    "addr:housenumber": "3",
+    "addr:postcode": "10115",
+    "addr:street": "Hannoversche Straße",
+    "contact:phone": "+493059959466",
+    "email": "info@youin3d.com",
+    "leisure": "hackerspace",
+    "name": "YOUin3D.com Hackerspace",
+    "office": "company",
+    "operator": "YOUin3D.com GmbH",
+    "website": "http://youin3d.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3885495157,
+  "lat": 43.6842254,
+  "lon": -79.3185229,
+  "tags": {
+    "addr:housenumber": "1803",
+    "addr:street": "Danforth Avenue",
+    "leisure": "hackerspace",
+    "name": "Toronto Tool Library"
+  }
+},
+{
+  "type": "node",
+  "id": 3887684777,
+  "lat": 50.1888679,
+  "lon": 8.5910039,
+  "tags": {
+    "addr:city": "Oberursel (Taunus)",
+    "addr:housenumber": "32",
+    "addr:postcode": "61440",
+    "addr:street": "Ludwig-Erhard-Straße",
+    "contact:email": "public@hackerspace-ffm.de",
+    "contact:twitter": "@hackffm",
+    "drink:club-mate": "yes",
+    "leisure": "hackerspace",
+    "level": "1",
+    "name": "Hackerspace FFM",
+    "opening_hours": "Mo 19:00-22:30 open \"Open Monday\"; Tu 19:30-22:30 open \"Thinkers Tuesday\"; We 19:00-22:30 open \"RepRap Wednesday (3D-printer related)\"",
+    "website": "http://www.hackerspace-ffm.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3926382622,
+  "lat": 22.6157458,
+  "lon": -79.8672288,
+  "tags": {
+    "leisure": "hackerspace",
+    "name": "Joven Club de Computación"
+  }
+},
+{
+  "type": "node",
+  "id": 3939157975,
+  "lat": 25.0593471,
+  "lon": 121.5219880,
+  "tags": {
+    "layer": "5",
+    "leisure": "hackerspace",
+    "name": "Garage+"
+  }
+},
+{
+  "type": "node",
+  "id": 3948563704,
+  "lat": 53.6249202,
+  "lon": 11.4114488,
+  "tags": {
+    "description": "In der Gründungsphase, noch keine feste Adresse",
+    "leisure": "hackerspace",
+    "name": "Hackerspace Schwerin",
+    "website": "https://hackerspace-schwerin.github.io"
+  }
+},
+{
+  "type": "node",
+  "id": 3949934365,
+  "lat": 46.4343314,
+  "lon": 4.6599638,
+  "tags": {
+    "contact:email": "fablablclunisois@gmail.com",
+    "leisure": "hackerspace",
+    "name": "FabLab du Clunisois",
+    "website": "http://www.fablabclunisois.fr/",
+    "workshop": "fablab"
+  }
+}
+
+  ]
+}
