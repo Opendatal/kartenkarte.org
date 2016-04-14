@@ -48,6 +48,15 @@ include $conf_file;
   var marker = {};
   var markers;
   var map;
+
+  function getUrl(url) {
+    if (!url.match(/^[a-zA-Z]+:\/\//))
+    {
+      url = 'http://' + url;
+    }
+    return url;
+  }
+ 
   function makeMarkers() {
     marker.osmJson.forEach(function (node) {
     var marker2;
@@ -65,8 +74,10 @@ include $conf_file;
       var popup = ""; 
       if (typeof generate_popup === "function") {
         popup = generate_popup(node);
-      } else if( typeof node.tags !== "undefined") {
-        popup = node.tags.name;
+      } else {
+        if( typeof node.tags.name !== "undefined" ) popup += node.tags.name;
+        if( typeof node.tags['website'] !== "undefined" ) popup += "<br/><a href=\"" + getUrl( node.tags['website'] ) + "\" target=\"_blank\">Website</a><br/>"; 
+        popup += "<br/><a href=\"http://www.openstreetmap.org/edit?node=" + node.id + "\">edit</a>";
       }
       L.marker([node.lat, node.lon], {"title": title, "icon": icon}).bindPopup(popup).addTo(markers);
       }
