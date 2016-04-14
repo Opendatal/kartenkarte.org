@@ -84,11 +84,32 @@ include $conf_file;
     });
   };
 
+  var HomeControl = L.Control.extend({
+    options: {
+      position: 'topleft' 
+     //control position - allowed: 'topleft', 'topright', 'bottomleft', 'bottomright'
+    },
+
+    onAdd: function (map) {
+      var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
+      container.style.width = '26px';
+      container.style.height = '26px';
+      container.style.backgroundColor = 'white'; 
+      container.style.fontSize = '2em'; 
+      container.innerHTML = '<a href="#">&#x1f310;</a>'; 
+      container.onclick = function(){
+        window.location.href = "http://kartenkarte.org/";
+      }
+      return container;
+    },
+  });
+
   function mapmap() {
     ModalTimeout = window.setTimeout("$('#waitModal').modal('show');", 1000);
 
     // create a map in the "map" div, set the view to a given place and zoom
     map = L.map('map').setView(<?php echo "[".$conf['lat'].", ".$conf['lon']."], ".$conf['zoom']; ?>);
+    map.addControl(new HomeControl());
 
    // add an OpenStreetMap tile layer
     L.tileLayer('<?php echo $conf['tile_url']; ?>', {
