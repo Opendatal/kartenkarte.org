@@ -1,0 +1,763 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-06-29T08:57:02Z",
+    "timestamp_areas_base": "2016-06-27T22:07:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 304247056,
+  "lat": 51.2369223,
+  "lon": 7.1255401,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42117",
+    "addr:street": "Köhlweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Königshöhe",
+    "phone": "Tel.: (0202) 26 57 192",
+    "source": "survey",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 472366647,
+  "lat": 51.2465195,
+  "lon": 7.1367573,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arminiusstraße",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 472366859,
+  "lat": 51.2493915,
+  "lon": 7.1404153,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Weidenplatz",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 473694252,
+  "lat": 51.2418647,
+  "lon": 7.1301400,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "In der Ossenbeck",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 473694253,
+  "lat": 51.2434471,
+  "lon": 7.1289088,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Kiesberg"
+  }
+},
+{
+  "type": "node",
+  "id": 491524099,
+  "lat": 51.2455117,
+  "lon": 7.1313070,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Arrenberg",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 566995126,
+  "lat": 51.2453231,
+  "lon": 7.1177782,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hindenburgstraße/Junkersweg"
+  }
+},
+{
+  "type": "node",
+  "id": 566995405,
+  "lat": 51.2439820,
+  "lon": 7.1162596,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Elend"
+  }
+},
+{
+  "type": "node",
+  "id": 566995867,
+  "lat": 51.2439861,
+  "lon": 7.1163963,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Elend"
+  }
+},
+{
+  "type": "node",
+  "id": 566996219,
+  "lat": 51.2440194,
+  "lon": 7.1154368,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Heimatplan"
+  }
+},
+{
+  "type": "node",
+  "id": 566999969,
+  "lat": 51.2443951,
+  "lon": 7.1139013,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roeberstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 566999975,
+  "lat": 51.2444405,
+  "lon": 7.1137528,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roeberstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000307,
+  "lat": 51.2450946,
+  "lon": 7.1123613,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hindenburgstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000314,
+  "lat": 51.2447127,
+  "lon": 7.1124751,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hindenburgstraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000408,
+  "lat": 51.2442381,
+  "lon": 7.1102731,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Eddastraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000462,
+  "lat": 51.2442002,
+  "lon": 7.1100974,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Eddastraße",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000689,
+  "lat": 51.2430303,
+  "lon": 7.1076488,
+  "tags": {
+    "bus": "yes",
+    "description": "Zoologischer Garten Bahnhof, Steig 1",
+    "highway": "bus_stop",
+    "local_ref": "1",
+    "name": "Zoologischer Garten Bahnhof",
+    "public_transport": "stop_position",
+    "ref": "1",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000699,
+  "lat": 51.2430385,
+  "lon": 7.1073750,
+  "tags": {
+    "bus": "yes",
+    "description": "Zoologischer Garten Bahnhof, Steig 2",
+    "highway": "bus_stop",
+    "local_ref": "2",
+    "name": "Zoologischer Garten Bahnhof",
+    "public_transport": "stop_position",
+    "ref": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 567000904,
+  "lat": 51.2411149,
+  "lon": 7.1086452,
+  "tags": {
+    "bus": "yes",
+    "description": "Zoo/Haupteingang, Steig 1",
+    "highway": "bus_stop",
+    "local_ref": "1",
+    "name": "Zoo/Haupteingang",
+    "public_transport": "stop_position",
+    "ref": "1",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 574788702,
+  "lat": 51.2444479,
+  "lon": 7.1154914,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Heimatplan"
+  }
+},
+{
+  "type": "node",
+  "id": 588687190,
+  "lat": 51.2420018,
+  "lon": 7.1297238,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "In der Ossenbeck"
+  }
+},
+{
+  "type": "node",
+  "id": 588687221,
+  "lat": 51.2438557,
+  "lon": 7.1289011,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Kiesberg"
+  }
+},
+{
+  "type": "node",
+  "id": 588687224,
+  "lat": 51.2440054,
+  "lon": 7.1342054,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Neviandtstraße/Altenpflegeheim",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 588687236,
+  "lat": 51.2442786,
+  "lon": 7.1344106,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Neviandtstraße/Altenpflegeheim",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 588687245,
+  "lat": 51.2469887,
+  "lon": 7.1370538,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Arminiusstraße",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 674527440,
+  "lat": 51.2441151,
+  "lon": 7.1434675,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Klever Platz",
+    "operator": "Wuppertaler Stadtwerke (WSW)",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 674527445,
+  "lat": 51.2498901,
+  "lon": 7.1427657,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Weststraße",
+    "network": "VRR",
+    "note:de": "Linie 607,613,635,NE7",
+    "operator": "WSW AG",
+    "vrr:wabe": "650",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518604,
+  "lat": 51.2341684,
+  "lon": 7.1381694,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Schwarzwaldhaus",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518605,
+  "lat": 51.2344692,
+  "lon": 7.1384660,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Schwarzwaldhaus",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518606,
+  "lat": 51.2360743,
+  "lon": 7.1400688,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Friedrichsallee",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518607,
+  "lat": 51.2359453,
+  "lon": 7.1401676,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Friedrichsallee",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518631,
+  "lat": 51.2354862,
+  "lon": 7.1415000,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Cleefkothen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518632,
+  "lat": 51.2353562,
+  "lon": 7.1415968,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Am Cleefkothen",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518634,
+  "lat": 51.2378941,
+  "lon": 7.1428485,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Friedrichsberg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518635,
+  "lat": 51.2377282,
+  "lon": 7.1424375,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Friedrichsberg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518642,
+  "lat": 51.2426395,
+  "lon": 7.1428780,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ravensberger Straße",
+    "operator": "Wuppertaler Stadtwerke (WSW)",
+    "shelter": "no",
+    "website": "http://www.wsw-online.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677518643,
+  "lat": 51.2427585,
+  "lon": 7.1427484,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ravensberger Straße",
+    "operator": "Wuppertaler Stadtwerke (WSW)",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 679718569,
+  "lat": 51.2456202,
+  "lon": 7.1328443,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "VillaMedia",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 679718570,
+  "lat": 51.2494728,
+  "lon": 7.1402716,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Weidenplatz",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 698361984,
+  "lat": 51.2467213,
+  "lon": 7.1067954,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Varresbecker Straße",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 698362008,
+  "lat": 51.2494949,
+  "lon": 7.1130562,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Löwer",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 698362144,
+  "lat": 51.2495649,
+  "lon": 7.1249364,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pestalozzistraße",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 698362213,
+  "lat": 51.2516506,
+  "lon": 7.1294107,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Treppenstraße",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 704235064,
+  "lat": 51.2492631,
+  "lon": 7.1182291,
+  "tags": {
+    "FIXME": "duplicate platform",
+    "highway": "bus_stop",
+    "name": "Westende"
+  }
+},
+{
+  "type": "node",
+  "id": 704235124,
+  "lat": 51.2493620,
+  "lon": 7.1121159,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Löwer",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 704235145,
+  "lat": 51.2515581,
+  "lon": 7.1292154,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Treppenstraße",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 704235190,
+  "lat": 51.2491890,
+  "lon": 7.1181949,
+  "tags": {
+    "FIXME": "duplicate platform",
+    "highway": "bus_stop",
+    "name": "Westende"
+  }
+},
+{
+  "type": "node",
+  "id": 704235220,
+  "lat": 51.2467907,
+  "lon": 7.1068777,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Varresbecker Straße",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 704235222,
+  "lat": 51.2493937,
+  "lon": 7.1245820,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pestalozzistraße",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 848503794,
+  "lat": 51.2452301,
+  "lon": 7.1095249,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "288",
+    "addr:postcode": "42117",
+    "addr:street": "Tiergartenstraße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Kiesbergstuben",
+    "phone": "+49 202 74 43 01",
+    "smoking": "isolated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1120041248,
+  "lat": 51.2459770,
+  "lon": 7.1298773,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "42117",
+    "addr:street": "Quellenstraße",
+    "amenity": "restaurant",
+    "name": "Zaunkönig"
+  }
+},
+{
+  "type": "node",
+  "id": 1174658764,
+  "lat": 51.2498930,
+  "lon": 7.1297530,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "131",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Tai Lake",
+    "phone": "+49 202 42 923 88",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.tai-lake.de",
+    "wheelchair": "yes",
+    "wheelchair:description": "Der Weg zur Toilette ist durch Tische etwas versperrt. Die Toilette wird auch als Abstellraum genutzt. Wegen beidem sollte eine Begleitperson mitgehen."
+  }
+},
+{
+  "type": "node",
+  "id": 1496629358,
+  "lat": 51.2484232,
+  "lon": 7.1294404,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "42117",
+    "addr:street": "Simonsstraße",
+    "amenity": "restaurant",
+    "name": "Soulfood Cafe Simonz",
+    "phone": "+49 202 94672808",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafe-simonz.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Ein größeres WC als normal ist vorhanden. Rollstuhlgerecht ist das WC nicht (keine Haltegriffe). Wenn man aber relativ aktiv und nicht gerade im E-Rollstuhl unterwegs ist, kommt man in dem WC dennoch klar."
+  }
+},
+{
+  "type": "node",
+  "id": 1991606229,
+  "lat": 51.2456464,
+  "lon": 7.1324276,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "125",
+    "addr:postcode": "42117",
+    "addr:street": "Viehhofstraße",
+    "amenity": "restaurant",
+    "name": "VillaMedia Gastronomie GmbH",
+    "phone": "+49 202 2427450",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.villamedia-eventlocation.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2638535343,
+  "lat": 51.2510388,
+  "lon": 7.1271375,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "130",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Enchilada",
+    "website": "Http://enchilada.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2697726432,
+  "lat": 51.2505498,
+  "lon": 7.1266585,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "154",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Sawasdee",
+    "phone": "+49 202 3 09 69 69"
+  }
+},
+{
+  "type": "node",
+  "id": 3165303704,
+  "lat": 51.2405562,
+  "lon": 7.1063014,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "42117",
+    "addr:street": "Boettingerweg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "italian",
+    "email": "info@davinci-wuppertal.de",
+    "name": "Da Vinci",
+    "opening_hours": "Mo-Su 11:30-24:00",
+    "phone": "+49 202 317 617 61",
+    "website": "http://davinci-wuppertal.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3412536085,
+  "lat": 51.2391207,
+  "lon": 7.1099257,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Okavango",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3817570477,
+  "lat": 51.2491640,
+  "lon": 7.1294180,
+  "tags": {
+    "alt_name": "Roberts Essen + Trinken",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Roberts",
+    "opening_hours": "Mo-Sa 18:00-24:00",
+    "phone": "+49 202 39346825"
+  }
+}
+
+  ]
+}
