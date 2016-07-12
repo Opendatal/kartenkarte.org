@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2016-06-29T08:57:02Z",
+    "timestamp_osm_base": "2016-06-29T11:28:02Z",
     "timestamp_areas_base": "2016-06-27T22:07:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -26,6 +26,38 @@
     "source": "survey",
     "toilets:wheelchair": "no",
     "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 440409164,
+  "lat": 51.2456462,
+  "lon": 7.1120657,
+  "tags": {
+    "leisure": "playground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 472366644,
+  "lat": 51.2469054,
+  "lon": 7.1381857,
+  "tags": {
+    "name": "Lidl",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 472366645,
+  "lat": 51.2465286,
+  "lon": 7.1374662,
+  "tags": {
+    "name": "Trinkgut",
+    "shop": "beverages",
+    "wheelchair": "yes"
   }
 },
 {
@@ -73,6 +105,16 @@
   "tags": {
     "highway": "bus_stop",
     "name": "Am Kiesberg"
+  }
+},
+{
+  "type": "node",
+  "id": 482754810,
+  "lat": 51.2485581,
+  "lon": 7.1232313,
+  "tags": {
+    "name": "Türkischer Supermarkt",
+    "shop": "supermarket"
   }
 },
 {
@@ -244,6 +286,32 @@
 },
 {
   "type": "node",
+  "id": 574788636,
+  "lat": 51.2443742,
+  "lon": 7.1130511,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "node",
+  "id": 574788639,
+  "lat": 51.2441753,
+  "lon": 7.1141117,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "12",
+    "addr:postcode": "42117",
+    "addr:street": "Heimatplan",
+    "name": "Alexander Petersen",
+    "opening_hours": "Mo-Fr 08:30-13:00; Mo-Fr 15:00-18:30;Sa 08:00-13:00",
+    "phone": "+49 202 74 07 66",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
   "id": 574788702,
   "lat": 51.2444479,
   "lon": 7.1154914,
@@ -303,6 +371,90 @@
     "highway": "bus_stop",
     "name": "Arminiusstraße",
     "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 588687247,
+  "lat": 51.2462223,
+  "lon": 7.1369504,
+  "tags": {
+    "alt_name": "Auto Teile Unger",
+    "name": "A.T.U",
+    "operator": "A.T.U Auto-Teile-Unger GmbH & Co. KG",
+    "shop": "car_repair",
+    "short_name": "ATU",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 611031261,
+  "lat": 51.2379589,
+  "lon": 7.1130203,
+  "tags": {
+    "name": "Zookiosk",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 611031277,
+  "lat": 51.2384014,
+  "lon": 7.1144864,
+  "tags": {
+    "name": "Zookiosk",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 611031295,
+  "lat": 51.2408410,
+  "lon": 7.1062390,
+  "tags": {
+    "name": "Kleinkiosk",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 621118056,
+  "lat": 51.2435703,
+  "lon": 7.1032482,
+  "tags": {
+    "name": "Motorrad Wölk",
+    "operator": "Fa.Wölk",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 621118067,
+  "lat": 51.2501584,
+  "lon": 7.1293678,
+  "tags": {
+    "name": "ZEG + Schlauchautomat",
+    "shop": "bicycle",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621118068,
+  "lat": 51.2502027,
+  "lon": 7.1301745,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "127",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "building": "yes",
+    "name": "Netto",
+    "operator": "Netto Marken-Discount AG & Co. KG",
+    "shop": "supermarket",
     "wheelchair": "yes"
   }
 },
@@ -496,6 +648,15 @@
 },
 {
   "type": "node",
+  "id": 698362013,
+  "lat": 51.2495414,
+  "lon": 7.1163726,
+  "tags": {
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
   "id": 698362144,
   "lat": 51.2495649,
   "lon": 7.1249364,
@@ -588,6 +749,22 @@
 },
 {
   "type": "node",
+  "id": 837539437,
+  "lat": 51.2442904,
+  "lon": 7.1091207,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42117",
+    "addr:street": "Siegfriedstraße",
+    "name": "Scharrenberg",
+    "shop": "bakery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 848503794,
   "lat": 51.2452301,
   "lon": 7.1095249,
@@ -642,6 +819,17 @@
 },
 {
   "type": "node",
+  "id": 1477559166,
+  "lat": 51.2477547,
+  "lon": 7.1244276,
+  "tags": {
+    "name": "Ford Vonzumhoff",
+    "opening_hours": "Mo",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
   "id": 1496629358,
   "lat": 51.2484232,
   "lon": 7.1294404,
@@ -662,6 +850,62 @@
 },
 {
   "type": "node",
+  "id": 1654149410,
+  "lat": 51.2472397,
+  "lon": 7.1308426,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "88",
+    "addr:postcode": "42117",
+    "addr:street": "Arrenberger Straße",
+    "building": "yes",
+    "name": "Metzgerei Stangs",
+    "phone": "+49 202 31 07 18",
+    "shop": "butcher",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1654153608,
+  "lat": 51.2458427,
+  "lon": 7.1401331,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Mainstraße",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1654155234,
+  "lat": 51.2439118,
+  "lon": 7.1355358,
+  "tags": {
+    "leisure": "playground",
+    "name": "Spielplatz Baumstraße"
+  }
+},
+{
+  "type": "node",
+  "id": 1850860326,
+  "lat": 51.2486602,
+  "lon": 7.1402045,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1-5",
+    "addr:postcode": "42117",
+    "addr:street": "Rheinstraße",
+    "name": "Premio",
+    "shop": "car_repair",
+    "website": "www.premio.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 1991606229,
   "lat": 51.2456464,
   "lon": 7.1324276,
@@ -677,6 +921,16 @@
     "toilets:wheelchair": "yes",
     "website": "http://www.villamedia-eventlocation.de/",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2223216366,
+  "lat": 51.2479272,
+  "lon": 7.1254344,
+  "tags": {
+    "leisure": "playground",
+    "name": "Gutenbergplatz"
   }
 },
 {
@@ -714,6 +968,117 @@
 },
 {
   "type": "node",
+  "id": 2697799189,
+  "lat": 51.2514942,
+  "lon": 7.1293432,
+  "tags": {
+    "email": "linpin6@yahoo.de",
+    "massage": "thai",
+    "name": "Sawasdee",
+    "phone": "+49 202 27258142",
+    "shop": "massage"
+  }
+},
+{
+  "type": "node",
+  "id": 2920029788,
+  "lat": 51.2487004,
+  "lon": 7.1240761,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "171",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "brand": "Mitsubishi;Nissan",
+    "email": "info@autohaus-tepel.de",
+    "fax": "+49 202 30 56 58",
+    "name": "Autohaus Tepel",
+    "opening_hours": "Mo-Fr 07:30-17:00, Sa 09:00-12:00",
+    "phone": "+49 202 37 10 10",
+    "service": "dealer;repair",
+    "shop": "car",
+    "website": "http://www.autohaus-tepel.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2939051638,
+  "lat": 51.2512492,
+  "lon": 7.1357257,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "42117",
+    "addr:street": "Arrenberger Straße",
+    "email": "info@zocher-bestattungen.de",
+    "fax": "+49 202 37 12 929",
+    "name": "Zocher Bestattungen",
+    "phone": "+49 202 37 12 90",
+    "shop": "funeral_directors",
+    "website": "http://www.zocher-bestattungen.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3064822956,
+  "lat": 51.2431165,
+  "lon": 7.1072909,
+  "tags": {
+    "name": "Kleinkiosk",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 3075644557,
+  "lat": 51.2529095,
+  "lon": 7.1317597,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "110",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "name": "Autowerkstatt Souvleros",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 3075669328,
+  "lat": 51.2506427,
+  "lon": 7.1287611,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "131b",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "name": "Haararena",
+    "opening_hours": "Tu-Fr 09:00-18:00; Sa 08:00-14:00",
+    "shop": "hairdresser",
+    "website": "http://www.haararena.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3076807772,
+  "lat": 51.2409457,
+  "lon": 7.1089529,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "30",
+    "addr:postcode": "42117",
+    "addr:street": "Hubertusallee",
+    "name": "Zoo-Verkauf",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
   "id": 3165303704,
   "lat": 51.2405562,
   "lon": 7.1063014,
@@ -746,6 +1111,74 @@
 },
 {
   "type": "node",
+  "id": 3541613572,
+  "lat": 51.2435845,
+  "lon": 7.1079135,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "42117",
+    "addr:street": "Siegfriedstraße",
+    "email": "birte.alischewski@web.de",
+    "name": "Alischewski Birte Naturfriseurin",
+    "phone": "+49 202 47 93 89 92",
+    "shop": "hairdresser",
+    "website": "http://www.naturfriseurin-birte-alischewski.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3541613585,
+  "lat": 51.2505332,
+  "lon": 7.1266436,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "154",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "name": "Rugovaj Luljeta Frisöre",
+    "phone": "+49 202 695 84 59",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 3541613586,
+  "lat": 51.2463424,
+  "lon": 7.1112796,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "256",
+    "addr:postcode": "42117",
+    "addr:street": "Tiergartenstraße",
+    "name": "Sauer Doris Damensalon",
+    "phone": "+49 202 74 44 40",
+    "shop": "hairdresser",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3541613588,
+  "lat": 51.2461515,
+  "lon": 7.1058377,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "420",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "name": "Straus Jürgen Friseur",
+    "phone": "+49 202 71 34 67",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
   "id": 3817570477,
   "lat": 51.2491640,
   "lon": 7.1294180,
@@ -756,6 +1189,26 @@
     "name": "Roberts",
     "opening_hours": "Mo-Sa 18:00-24:00",
     "phone": "+49 202 39346825"
+  }
+},
+{
+  "type": "node",
+  "id": 4039134795,
+  "lat": 51.2479435,
+  "lon": 7.1413599,
+  "tags": {
+    "name": "Bosch Car Service Blau",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 4145052337,
+  "lat": 51.2502747,
+  "lon": 7.1292776,
+  "tags": {
+    "name": "Dänisches Bettenlager",
+    "shop": "furniture"
   }
 }
 
