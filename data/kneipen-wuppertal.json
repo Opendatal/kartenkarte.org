@@ -1,0 +1,5094 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "",
+    "timestamp_areas_base": "2016-07-12T00:37:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 50006165,
+  "lat": 51.2585344,
+  "lon": 7.1476015,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "42103",
+    "addr:street": "Grabenstraße",
+    "amenity": "cafe",
+    "name": "Café Extrablatt",
+    "phone": "+49 202  4468701",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafe-extrablatt.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 304247056,
+  "lat": 51.2369223,
+  "lon": 7.1255401,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42117",
+    "addr:street": "Köhlweg",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Königshöhe",
+    "phone": "Tel.: (0202) 26 57 192",
+    "source": "survey",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 365103048,
+  "lat": 51.2712040,
+  "lon": 7.1965682,
+  "tags": {
+    "amenity": "pub",
+    "foot": "yes",
+    "name": "Wuppertaler Dart Center",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 365103062,
+  "lat": 51.2570760,
+  "lon": 7.1471874,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "42103",
+    "addr:street": "Turmhof",
+    "amenity": "pub",
+    "name": "Pino's",
+    "opening_hours": "Mo-Fr 00:00-01:00,08:30-24:00; Sa 00:00-03:00,08:30-24:00; Su 00:00-03:00,09:30-24:00",
+    "operator": "Domenico Laurino",
+    "phone": "+49 202 2654879",
+    "website": "http://www.pinos-cafe.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 384944272,
+  "lat": 51.2607800,
+  "lon": 7.1617411,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hardt Tennis Club e.V.",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 391290772,
+  "lat": 51.2642452,
+  "lon": 7.1567841,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Kiosk",
+    "operator": "Sparkasse Wuppertal",
+    "shop": "kiosk",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 391682527,
+  "lat": 51.2586303,
+  "lon": 7.1470057,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "42103",
+    "addr:street": "Neumarkt",
+    "amenity": "cafe",
+    "name": "Starbucks",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 392262327,
+  "lat": 51.2643256,
+  "lon": 7.1490424,
+  "tags": {
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Freifunk Wuppertal",
+    "internet_access:ssid": "Freifunk-Wuppertal",
+    "name": "Spunk",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 394983943,
+  "lat": 51.2146982,
+  "lon": 7.1454537,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Podzelny",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 406643790,
+  "lat": 51.2561207,
+  "lon": 7.1394205,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "1",
+    "addr:postcode": "42103",
+    "addr:street": "Laurentiusplatz",
+    "amenity": "restaurant",
+    "cuisine": "sandwich",
+    "name": "Meiers Glashaus",
+    "phone": "+49 202 31 39 37",
+    "wheelchair": "no",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 406665298,
+  "lat": 51.2253957,
+  "lon": 7.1511490,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "72",
+    "addr:postcode": "42349",
+    "addr:street": "Hahnerberger Straße",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "name": "Mad Dog",
+    "smoking": "outside",
+    "website": "http://www.mad-dog.info",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 406665299,
+  "lat": 51.2287194,
+  "lon": 7.1352383,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "199",
+    "addr:postcode": "42349",
+    "addr:street": "Küllenhahner Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Gaststätte Schwarz",
+    "phone": "+49 202 401629",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafe-restaurant-schwarz.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 410415612,
+  "lat": 51.2149028,
+  "lon": 7.1463887,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Haus Mees",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 411909707,
+  "lat": 51.2114120,
+  "lon": 7.1651730,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42349",
+    "addr:street": "Zillertal",
+    "alt_name": "Café-Restaurant Haus Zillertal",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Haus Zillertal",
+    "opening_hours": "Mo-We,Fr 14:00+; Sa,PH 12:00+; Th off; Su 10:30+",
+    "outdoor_seating": "yes",
+    "phone": "+49 202 402829",
+    "toilets:wheelchair": "no",
+    "website": "http://www.haus-zillertal.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 415783258,
+  "lat": 51.2223371,
+  "lon": 7.1508858,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "125",
+    "addr:postcode": "42349",
+    "addr:street": "Wilhelmring",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "disused": "yes",
+    "name": "Fiorello",
+    "takeaway": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 418201337,
+  "lat": 51.2567815,
+  "lon": 7.1472324,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "42103",
+    "addr:street": "Kirchstraße",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Milia´s Coffee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 422772699,
+  "lat": 51.2566205,
+  "lon": 7.1562090,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "6",
+    "addr:postcode": "42103",
+    "addr:street": "Hofaue",
+    "amenity": "restaurant",
+    "name": "Karawane",
+    "phone": "+49 202 45 98 438",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 423077421,
+  "lat": 51.2382135,
+  "lon": 7.0986936,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "63",
+    "addr:postcode": "42327",
+    "addr:street": "Sonnborner Straße",
+    "amenity": "restaurant",
+    "email": "info@nudeltoepfchen.de",
+    "fax": "+49 202 74 89 876",
+    "name": "Mathe's Nudeltöpfchen",
+    "opening_hours": "Tu-Fr 11:30-14:00, 18:00-22:00; Sa 17:00-22:00;Su 11:30-21:00;Mo off",
+    "phone": "+49 202 74 03 11",
+    "website": "http://www.nudeltoepfchen.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 423357615,
+  "lat": 51.1959980,
+  "lon": 7.1256221,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housename": "Naturfreundehaus Hülsberg",
+    "addr:housenumber": "27",
+    "addr:postcode": "42349",
+    "addr:street": "Greuel",
+    "amenity": "pub",
+    "name": "Naturfreundehaus Am Hülsberg",
+    "opening_hours": "Sa 15:00-22:00; Su 10:00-20:00",
+    "operator": "NaturFreunde Deutschland",
+    "phone": "+49202474382",
+    "ref": "F 014",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "chalet"
+  }
+},
+{
+  "type": "node",
+  "id": 425066839,
+  "lat": 51.1807292,
+  "lon": 7.1392574,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "64",
+    "addr:postcode": "42349",
+    "addr:street": "Oberheidt",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Haus Schnee",
+    "phone": "+49 202 473004",
+    "toilets:wheelchair": "no",
+    "website": "http://www.haus-schnee.com/",
+    "wheelchair": "no",
+    "wheelchair:description": "mehrere Stufen am Eingang, keine Behindertentoilette",
+    "wheelchair_toilet": "unknown"
+  }
+},
+{
+  "type": "node",
+  "id": 430267935,
+  "lat": 51.2701951,
+  "lon": 7.2296555,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bockmühleck",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 440970718,
+  "lat": 51.2573146,
+  "lon": 7.1435988,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "42103",
+    "addr:street": "Herzogstraße",
+    "amenity": "cafe",
+    "contact:phone": "+49 202 39318888",
+    "name": "Vitalis",
+    "phone": "+49 202 39318888",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 440970886,
+  "lat": 51.2570893,
+  "lon": 7.1424497,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "42",
+    "addr:postcode": "42103",
+    "addr:street": "Herzogstraße",
+    "amenity": "bar",
+    "name": "Sausalitos",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 441157457,
+  "lat": 51.2773844,
+  "lon": 7.2086045,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "42275",
+    "addr:street": "Bartholomäusstraße",
+    "amenity": "pub",
+    "name": "Jäger 90",
+    "phone": "+49 202 557761",
+    "toilets:wheelchair": "no",
+    "website": "http://www.jaeger90.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 442099115,
+  "lat": 51.2773755,
+  "lon": 7.2097096,
+  "tags": {
+    "amenity": "pub",
+    "name": "Agrigento"
+  }
+},
+{
+  "type": "node",
+  "id": 444332806,
+  "lat": 51.2552394,
+  "lon": 7.1438380,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "42103",
+    "addr:street": "Alexanderstraße",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Café Island",
+    "phone": "+49 202 870 48 15",
+    "website": "www.cafe-island.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 444623288,
+  "lat": 51.2588650,
+  "lon": 7.1458517,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Maredo",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 450879548,
+  "lat": 51.2638701,
+  "lon": 7.1768056,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "7",
+    "addr:postcode": "42285",
+    "addr:street": "Warndtstraße",
+    "amenity": "restaurant",
+    "name": "Kornmühle",
+    "opening_hours": "off || \"nur Gesellschaften\"",
+    "website": "http://www.kornmuehle.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 468521700,
+  "lat": 51.2301734,
+  "lon": 7.0681134,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "21",
+    "addr:postcode": "42329",
+    "addr:street": "Vohwinkeler Straße",
+    "amenity": "pub",
+    "name": "Bierbrunnen",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 470939069,
+  "lat": 51.2616722,
+  "lon": 7.1364261,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "42105",
+    "addr:street": "Wülfrather Straße",
+    "amenity": "restaurant",
+    "name": "Ganesh",
+    "opening_hours": "Mo-Th 18:00-24:00; Fr,Sa 18:00-01:00",
+    "phone": "+49 202 312202",
+    "smoking": "no",
+    "website": "http://ganesh-wuppertal.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 472664162,
+  "lat": 51.2303885,
+  "lon": 7.0677822,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Backhaus",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 474458158,
+  "lat": 51.2295205,
+  "lon": 7.0646863,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cay Ocegi"
+  }
+},
+{
+  "type": "node",
+  "id": 476282749,
+  "lat": 51.2313883,
+  "lon": 7.0701592,
+  "tags": {
+    "amenity": "pub",
+    "name": "Deutsches Haus",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 476282754,
+  "lat": 51.2275321,
+  "lon": 7.0686534,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "34",
+    "addr:postcode": "42329",
+    "addr:street": "Gräfrather Straße",
+    "amenity": "pub",
+    "name": "Zur alten Pferdetränke",
+    "phone": "Tel.: +492027387628",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 480444147,
+  "lat": 51.2300238,
+  "lon": 7.0676976,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "42329",
+    "addr:street": "Vohwinkeler Straße",
+    "amenity": "pub",
+    "name": "Alter Kaiser",
+    "phone": "+49202-7395852",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 480444190,
+  "lat": 51.2323227,
+  "lon": 7.0731793,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pizzeria Da Enzo Due",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 480450095,
+  "lat": 51.2316734,
+  "lon": 7.0711501,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "42329",
+    "addr:street": "Kaiserstraße",
+    "amenity": "cafe",
+    "name": "Bäckerei Steinbrink",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 480450101,
+  "lat": 51.2317740,
+  "lon": 7.0713639,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "42329",
+    "addr:street": "Kaiserstraße",
+    "amenity": "cafe",
+    "name": "Eiscafe Giannone",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754807,
+  "lat": 51.2466508,
+  "lon": 7.1064984,
+  "tags": {
+    "amenity": "pub",
+    "name": "Stockmannsmühle (given up/closed)"
+  }
+},
+{
+  "type": "node",
+  "id": 482754809,
+  "lat": 51.2493049,
+  "lon": 7.1182401,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bar D' Amici",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754829,
+  "lat": 51.2382838,
+  "lon": 7.0973650,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42327",
+    "addr:street": "Garterlaie",
+    "amenity": "pub",
+    "name": "Alt Sonnborn",
+    "phone": "+49 202 74 01 01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754838,
+  "lat": 51.2385256,
+  "lon": 7.1001041,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "98",
+    "addr:postcode": "42327",
+    "addr:street": "Sonnborner Straße",
+    "amenity": "pub",
+    "email": "kapitaen@sonnborner-hafen.de",
+    "name": "Sonnborner Hafen",
+    "opening_hours": "Mo off; Tu-Th 10:00-14:00, 17:00-23:00; Fr-Su 10:00-24:00",
+    "phone": "+49 202 430 444 35",
+    "website": "http://www.sonnborner-hafen.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 482754857,
+  "lat": 51.2357372,
+  "lon": 7.0870679,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "184",
+    "addr:postcode": "42329",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pub",
+    "name": "Bistro Hammerstein",
+    "phone": "+49 157 80 28 33 36",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754858,
+  "lat": 51.2353533,
+  "lon": 7.0861527,
+  "tags": {
+    "amenity": "pub",
+    "name": "Zur Alten Grotenbeck",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754875,
+  "lat": 51.2338044,
+  "lon": 7.0764640,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "80",
+    "addr:postcode": "42329",
+    "addr:street": "Kaiserstraße",
+    "amenity": "pub",
+    "name": "Kaiserstübchen",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754878,
+  "lat": 51.2348400,
+  "lon": 7.0794703,
+  "tags": {
+    "amenity": "pub",
+    "name": "Locke",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482754880,
+  "lat": 51.2348293,
+  "lon": 7.0796592,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Pfeiler 37",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482757592,
+  "lat": 51.2541327,
+  "lon": 7.1349641,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "77",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "pub",
+    "name": "King's Head Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 482903010,
+  "lat": 51.2561185,
+  "lon": 7.1400525,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Eiscafe Mandolino",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482903040,
+  "lat": 51.2561666,
+  "lon": 7.1401960,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Freifunk Wuppertal",
+    "internet_access:ssid": "Freifunk-Wuppertal",
+    "name": "Cafe Engel",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482903044,
+  "lat": 51.2559984,
+  "lon": 7.1399776,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "13a",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "La Lanterna",
+    "wheelchair": "no",
+    "wheelchair:description": "Ist geschlossen"
+  }
+},
+{
+  "type": "node",
+  "id": 482903057,
+  "lat": 51.2556761,
+  "lon": 7.1381837,
+  "tags": {
+    "amenity": "pub",
+    "name": "Jumbos",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 482903083,
+  "lat": 51.2553041,
+  "lon": 7.1376504,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "41",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Mediterran",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 491524116,
+  "lat": 51.2522916,
+  "lon": 7.1380059,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "23",
+    "addr:postcode": "42103",
+    "addr:street": "Alsenstraße",
+    "amenity": "pub",
+    "name": "Gute Stube",
+    "phone": "Tel.: (0202) 31 21 48",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 492758721,
+  "lat": 51.2197713,
+  "lon": 7.0641247,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "12",
+    "addr:postcode": "42329",
+    "addr:street": "Elfenhang",
+    "amenity": "pub",
+    "name": "Zum Tresörchen"
+  }
+},
+{
+  "type": "node",
+  "id": 497319214,
+  "lat": 51.2356417,
+  "lon": 7.0831152,
+  "tags": {
+    "amenity": "pub",
+    "name": "Palette",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 497656396,
+  "lat": 51.1908056,
+  "lon": 7.1108813,
+  "tags": {
+    "amenity": "pub",
+    "name": "Strandcafe"
+  }
+},
+{
+  "type": "node",
+  "id": 506811119,
+  "lat": 51.2512825,
+  "lon": 7.1418777,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "49",
+    "addr:postcode": "42119",
+    "addr:street": "Südstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "alter Wasserturm",
+    "website": "http://www.alter-wasserturm.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 516432454,
+  "lat": 51.2522774,
+  "lon": 7.1404067,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "26",
+    "addr:postcode": "42103",
+    "addr:street": "Südstraße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Taormina",
+    "phone": "Tel.: (0202) 30 05 89",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 516432457,
+  "lat": 51.2529132,
+  "lon": 7.1398668,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "10",
+    "addr:postcode": "42103",
+    "addr:street": "Südstraße",
+    "amenity": "restaurant",
+    "name": "Restauraunt Croatien",
+    "phone": "+49 202 313128",
+    "toilets:wheelchair": "no",
+    "website": "http://www.restaurant-croatien.de/",
+    "wheelchair": "no",
+    "wheelchair:description": "Stufe am Eingang, nicht ohne Hilfe zu überwinden"
+  }
+},
+{
+  "type": "node",
+  "id": 558550064,
+  "lat": 51.2522965,
+  "lon": 7.3042291,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "42399",
+    "addr:street": "Zum Bilstein",
+    "amenity": "restaurant",
+    "email": "info@landhausbilstein.de",
+    "name": "Haus Bilstein",
+    "phone": "+49 202 61 12 09",
+    "website": "http://www.landhausbilstein.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 564659114,
+  "lat": 51.2305077,
+  "lon": 7.1882679,
+  "tags": {
+    "addr:city": "Wuppertal-Ronsdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "42369",
+    "addr:street": "Luhnsfelder Höhe",
+    "amenity": "pub",
+    "name": "Naturfreundehaus Luhnsfelder Höhe",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "F 015",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 566876440,
+  "lat": 51.2673481,
+  "lon": 7.1947970,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Barmer Bahnhofs-Bistro",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 570756541,
+  "lat": 51.2509796,
+  "lon": 7.0837011,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42327",
+    "addr:street": "Lüntenbeck",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Pilkens im Schloss",
+    "opening_hours": "We-Su 12:00-22:00",
+    "phone": "+49 202 26477100",
+    "takeaway": "no",
+    "website": "http://www.pilkens-im-schloss.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 573368848,
+  "lat": 51.2714045,
+  "lon": 7.2182791,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 573694963,
+  "lat": 51.2347725,
+  "lon": 7.0819151,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizzeria Picco Bello",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 599354685,
+  "lat": 51.2569701,
+  "lon": 7.1384040,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "86",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "pub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Freifunk Wuppertal",
+    "internet_access:ssid": "Freifunk-Wuppertal",
+    "name": "Beatz und Kekse",
+    "phone": "+49 202 39 39 11 13",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 599354906,
+  "lat": 51.2566821,
+  "lon": 7.1376237,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "96a",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "pub",
+    "name": "Viertelbar",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 599355114,
+  "lat": 51.2560184,
+  "lon": 7.1374063,
+  "tags": {
+    "amenity": "pub",
+    "name": "KMB (Kunst Musik Bistro)",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 599355284,
+  "lat": 51.2564346,
+  "lon": 7.1377979,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "63",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "restaurant",
+    "name": "Alaturka",
+    "phone": "+49 202 30 84 13",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 617974583,
+  "lat": 51.2753379,
+  "lon": 7.1967571,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "42281",
+    "addr:street": "Möwenstraße",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Haus Becker",
+    "opening_hours": "Mo-Sa 16:00-23:00",
+    "phone": "+49 202 2504891",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 620077186,
+  "lat": 51.2571610,
+  "lon": 7.1617975,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Cafeteria im Landgericht",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 642886546,
+  "lat": 51.2573467,
+  "lon": 7.1484432,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "6",
+    "addr:postcode": "42103",
+    "addr:street": "Schöne Gasse",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Glücklich",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 664101414,
+  "lat": 51.2430030,
+  "lon": 7.1553045,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Am Husar"
+  }
+},
+{
+  "type": "node",
+  "id": 671195687,
+  "lat": 51.2968530,
+  "lon": 7.2222787,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42279",
+    "addr:street": "Haarhauser Bruch",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Elfriedenhöhe",
+    "opening_hours": "Mo, We-Sa 11:30-15:00, 18:00-24:00; Su 11:30-22:00",
+    "phone": "+49 202 26 41 264",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 698362140,
+  "lat": 51.2508426,
+  "lon": 7.1235350,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "55",
+    "addr:postcode": "42115",
+    "addr:street": "Barbarossastraße",
+    "amenity": "pub",
+    "name": "Vereinsheim KGV Nützenberg e. V.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 702849278,
+  "lat": 51.2654106,
+  "lon": 7.1326557,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Dorrenberger Hof",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 738131707,
+  "lat": 51.2558877,
+  "lon": 7.1358832,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "118",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "restaurant",
+    "name": "Cafe Du Congo",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 798490500,
+  "lat": 51.2388460,
+  "lon": 7.2355468,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "87",
+    "addr:postcode": "42287",
+    "addr:street": "Jägerhaus",
+    "amenity": "restaurant",
+    "cuisine": "fine_dining",
+    "name": "Schmitz Jägerhaus",
+    "phone": "+49 202 464602",
+    "smokefree": "yes",
+    "toilets:wheelchair": "no",
+    "website": "http://schmitz-jaegerhaus.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 848503794,
+  "lat": 51.2452301,
+  "lon": 7.1095249,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "288",
+    "addr:postcode": "42117",
+    "addr:street": "Tiergartenstraße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Kiesbergstuben",
+    "phone": "+49 202 74 43 01",
+    "smoking": "isolated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 861310737,
+  "lat": 51.2570285,
+  "lon": 7.1421846,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "44",
+    "addr:postcode": "42103",
+    "addr:street": "Herzogstraße",
+    "amenity": "bar",
+    "name": "Scoozi",
+    "toilets:wheelchair": "no",
+    "website": "http://www.yelp.de/biz_photos/scoozi-wuppertal-wuppertal",
+    "wheelchair": "limited",
+    "wheelchair:description": "3 Stufen, mit steiler mobiler Rampe zu überwinden, keine Behindertentoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 861317215,
+  "lat": 51.2559214,
+  "lon": 7.1362799,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "42103",
+    "addr:street": "Untergrünewalder Straße",
+    "amenity": "restaurant",
+    "name": "Katzengold",
+    "opening_hours": "Mo-Fr 08:00+; Sa 09:00+; Su 10:00+",
+    "phone": "+49 202 304526",
+    "smoking": "isolated",
+    "website": "http://katzengold.org/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 861458573,
+  "lat": 51.2560516,
+  "lon": 7.0969281,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "1",
+    "addr:postcode": "42115",
+    "addr:street": "Krummacherstraße",
+    "amenity": "cafe",
+    "name": "Cafe-Konditorei Kirberg",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 898866916,
+  "lat": 51.2699624,
+  "lon": 7.1999060,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "22",
+    "addr:postcode": "42275",
+    "addr:street": "Höhne",
+    "amenity": "restaurant",
+    "contact:phone": "02028707574",
+    "name": "Café Moritz",
+    "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-24:00",
+    "phone": "+49 202 8707574",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafemoritz-wuppertal.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 919636926,
+  "lat": 51.2565942,
+  "lon": 7.1540380,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "17",
+    "addr:postcode": "42103",
+    "addr:street": "Bembergstraße",
+    "amenity": "bar",
+    "name": "Lola",
+    "phone": "Tel.: +49 202 44 68 788",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 920188301,
+  "lat": 51.2564328,
+  "lon": 7.1403894,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "16",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Don Camillo & Peppone",
+    "phone": "+49 202 31 77 450",
+    "smoking": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 926606425,
+  "lat": 51.2619638,
+  "lon": 7.1241136,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ottenbrucher Bahnhof",
+    "website": "http://www.ottenbrucher-bahnhof.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 936686385,
+  "lat": 51.2678394,
+  "lon": 7.1961613,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "42283",
+    "addr:street": "Ibachstraße",
+    "amenity": "pub",
+    "name": "Anno",
+    "phone": "+49 202 25 70 243",
+    "smoking": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 937539176,
+  "lat": 51.2567753,
+  "lon": 7.1400690,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:postcode": "42103",
+    "addr:street": "Laurentiusplatz",
+    "amenity": "restaurant",
+    "capacity": "40",
+    "cuisine": "italian",
+    "name": "Amalfi",
+    "phone": "+49 202 69 39 881",
+    "smoking": "no",
+    "wheelchair": "limited",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 958268246,
+  "lat": 51.2389622,
+  "lon": 7.0849792,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "41",
+    "addr:postcode": "42327",
+    "addr:street": "Scheffelstraße",
+    "amenity": "restaurant",
+    "contact:phone": "+49 202 784074",
+    "cuisine": "italian",
+    "name": "Scarpati",
+    "website": "http://www.scarpati.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 964662665,
+  "lat": 51.2652102,
+  "lon": 7.1902131,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "162",
+    "addr:postcode": "42287",
+    "addr:street": "Siegesstraße",
+    "amenity": "pub",
+    "name": "Blue Moon",
+    "phone": "Tel.: (0202) 55 95 75",
+    "smoking": "dedicated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 992582768,
+  "lat": 51.2558563,
+  "lon": 7.0914325,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Schliepershäuschen",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 997936463,
+  "lat": 51.2518206,
+  "lon": 7.1409253,
+  "tags": {
+    "amenity": "pub",
+    "name": "Kaminstuebchen",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1005265728,
+  "lat": 51.3027764,
+  "lon": 7.2519393,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housename": "Polonia / Landhaus Garnefeld",
+    "addr:housenumber": "288",
+    "addr:postcode": "42279",
+    "addr:street": "Wittener Straße",
+    "amenity": "restaurant",
+    "cuisine": "polish",
+    "name": "Polonia",
+    "old_name": "Landhaus Garnefeld",
+    "opening_hours": "We-Sa 17:30-22:20; Su 13:00-22:00",
+    "phone": "+49 202 89832844",
+    "website": "http://www.restaurant-polonia.de"
+  }
+},
+{
+  "type": "node",
+  "id": 1022981474,
+  "lat": 51.2340190,
+  "lon": 7.2806015,
+  "tags": {
+    "amenity": "cafe",
+    "natural": "tree"
+  }
+},
+{
+  "type": "node",
+  "id": 1051497601,
+  "lat": 51.2056115,
+  "lon": 7.1308285,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Eiscafe Simonetti",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1076988998,
+  "lat": 51.2918918,
+  "lon": 7.1709825,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rainbow Park Restaurant",
+    "opening_hours": "11:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1088232248,
+  "lat": 51.2273865,
+  "lon": 7.1245965,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bahnhof Burgholz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1098059955,
+  "lat": 51.2565622,
+  "lon": 7.1376744,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "63",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "pub",
+    "name": "Morena",
+    "phone": "+49 202 25 185 81",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1098064852,
+  "lat": 51.2539722,
+  "lon": 7.1335601,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "88",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Cafe Zett",
+    "phone": "Tel.: (0202) 30 31 70 ‎",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1098065522,
+  "lat": 51.2541797,
+  "lon": 7.1342062,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "88",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Incontro",
+    "phone": "+49 202 30 19 90",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1098076812,
+  "lat": 51.2544165,
+  "lon": 7.1316649,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "42105",
+    "addr:street": "Briller Straße",
+    "amenity": "cafe",
+    "building": "yes",
+    "email": "cafe-creme@gmx.de",
+    "name": "Café Crème",
+    "opening_hours": "Mo-Sa 09:00-00:59; Su 10:00-00:59; We off",
+    "phone": "+49 202 30 43 63",
+    "website": "http://www.baecker-myska.de/cafe-creme.htm",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1098086024,
+  "lat": 51.2569931,
+  "lon": 7.1435295,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "42103",
+    "addr:street": "Bankstraße",
+    "amenity": "restaurant",
+    "name": "Viermahl",
+    "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 16:00-22:00",
+    "operator": "Dennis Kampmann",
+    "phone": "+49 202 272 70 50",
+    "website": "http://www.viermahl.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1100024382,
+  "lat": 51.2560456,
+  "lon": 7.1360008,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "2",
+    "addr:postcode": "42105",
+    "addr:street": "Ottenbrucher Straße",
+    "amenity": "pub",
+    "name": "Minibar",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1100024807,
+  "lat": 51.2542126,
+  "lon": 7.1359511,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "26",
+    "addr:postcode": "42103",
+    "addr:street": "Sophienstraße",
+    "amenity": "restaurant",
+    "name": "bioSophie (shop closed)",
+    "phone": "+49 202 42 92 042",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1100038570,
+  "lat": 51.2565226,
+  "lon": 7.1406679,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "12",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Wurstfabrik",
+    "smoking": "no",
+    "website": "http://wurstfabrik-gastro.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1120041248,
+  "lat": 51.2459770,
+  "lon": 7.1298773,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "42117",
+    "addr:street": "Quellenstraße",
+    "amenity": "restaurant",
+    "name": "Zaunkönig"
+  }
+},
+{
+  "type": "node",
+  "id": 1167027823,
+  "lat": 51.2265779,
+  "lon": 7.1982695,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "42369",
+    "addr:street": "Marktstraße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bergischer Hof",
+    "operator": "Bruno Napoli",
+    "phone": "49 202 469 89 70",
+    "smoking": "no",
+    "stars": "2",
+    "wheelchair": "limited",
+    "wheelchair:description": "Toilette nicht barrierefrei!"
+  }
+},
+{
+  "type": "node",
+  "id": 1168791373,
+  "lat": 51.2778173,
+  "lon": 7.1072742,
+  "tags": {
+    "amenity": "pub",
+    "name": "Am Eckbusch"
+  }
+},
+{
+  "type": "node",
+  "id": 1174658764,
+  "lat": 51.2498930,
+  "lon": 7.1297530,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "131",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Tai Lake",
+    "phone": "+49 202 42 923 88",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.tai-lake.de",
+    "wheelchair": "yes",
+    "wheelchair:description": "Der Weg zur Toilette ist durch Tische etwas versperrt. Die Toilette wird auch als Abstellraum genutzt. Wegen beidem sollte eine Begleitperson mitgehen."
+  }
+},
+{
+  "type": "node",
+  "id": 1179438565,
+  "lat": 51.2770150,
+  "lon": 7.1857071,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Le Fondeu"
+  }
+},
+{
+  "type": "node",
+  "id": 1186065325,
+  "lat": 51.2680700,
+  "lon": 7.2287537,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "50",
+    "addr:postcode": "42289",
+    "addr:street": "Theodor-Fontane-Straße",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Konditorei Kaffee Kirberg",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1187066551,
+  "lat": 51.2850325,
+  "lon": 7.1516814,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "199",
+    "addr:postcode": "42109",
+    "addr:street": "Kohlstraße",
+    "amenity": "restaurant",
+    "name": "Berghof",
+    "phone": "+49 202 750881",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited",
+    "wheelchair:description": "Schwergängige Eingangstüren (nur mit 2. Helfer zu bewältigen). Der Weg zur Toilette ist mit Tischen zugestellt, vor derToilette ist ein enger Durchgang. Das Restaurant ist für schmale Rollstühle besser geeignet."
+  }
+},
+{
+  "type": "node",
+  "id": 1191282962,
+  "lat": 51.2541870,
+  "lon": 7.0632333,
+  "tags": {
+    "amenity": "pub",
+    "name": "Zur Kantine"
+  }
+},
+{
+  "type": "node",
+  "id": 1210611392,
+  "lat": 51.2594445,
+  "lon": 7.1909361,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "160",
+    "addr:postcode": "42287",
+    "addr:street": "Obere Lichtenplatzer Straße",
+    "amenity": "restaurant",
+    "name": "Vereinsheim KGV Springen e.V.",
+    "phone": "Tel.: (0202) 597551"
+  }
+},
+{
+  "type": "node",
+  "id": 1234655158,
+  "lat": 51.2272126,
+  "lon": 7.1973957,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "central",
+    "opening_hours": "Mo-Sa 09:00+; Su 10:00+",
+    "phone": "+49 202 28320940",
+    "website": "central-ronsdorf.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1246630580,
+  "lat": 51.2275440,
+  "lon": 7.2021040,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Eiscafe Mamma Pina Pasticceria",
+    "phone": "+49 202 747 46 89"
+  }
+},
+{
+  "type": "node",
+  "id": 1278228686,
+  "lat": 51.2741107,
+  "lon": 7.1731902,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1278763260,
+  "lat": 51.2528522,
+  "lon": 7.1670994,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "12a",
+    "addr:postcode": "42285",
+    "addr:street": "Hirschstraße",
+    "amenity": "cafe",
+    "cuisine": "international",
+    "name": "Café Podest",
+    "source": "survey",
+    "website": "http://www.skulpturenpark-waldfrieden.de",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1279328264,
+  "lat": 51.2737907,
+  "lon": 7.1773625,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Bergemann"
+  }
+},
+{
+  "type": "node",
+  "id": 1312243170,
+  "lat": 51.2614418,
+  "lon": 7.1395231,
+  "tags": {
+    "amenity": "pub",
+    "name": "Gaststätte Kazak",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1347630864,
+  "lat": 51.2534737,
+  "lon": 7.1170419,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "26",
+    "addr:postcode": "42115",
+    "addr:street": "Weyerbuschweg",
+    "amenity": "pub",
+    "name": "Zum Weyerbusch",
+    "phone": "+49 202 71 25 20"
+  }
+},
+{
+  "type": "node",
+  "id": 1387484572,
+  "lat": 51.2827982,
+  "lon": 7.1174287,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "412",
+    "addr:postcode": "42113",
+    "addr:street": "Nevigeser Straße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "email": "info@gaststaette-wichelhaus.de",
+    "fax": "+49 202 61 27 67 76",
+    "name": "Gaststätte Wichelhaus",
+    "opening_hours": "Mo-Sa 11:30-15:00, 17:00-22:00; Su 11:00-22:00",
+    "phone": "+49 202 61 27 67 76",
+    "website": "http://www.gaststaette-wichelhaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1400063063,
+  "lat": 51.2946867,
+  "lon": 7.1641524,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "173",
+    "addr:postcode": "42111",
+    "addr:street": "Dönberger Straße",
+    "amenity": "restaurant",
+    "name": "Keglerheim",
+    "phone": "+49 202 77 12 99",
+    "website": "http://www.keglerheim-wuppertal.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1418926350,
+  "lat": 51.2278840,
+  "lon": 7.1802199,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "126",
+    "addr:postcode": "42369",
+    "addr:street": "Holthauser Straße",
+    "amenity": "restaurant",
+    "name": "Holthauser Hof",
+    "wheelchair": "limited",
+    "wheelchair:description": "ca. 8 hohe Stufen vor dem Eingang, Toilette ebenerdig"
+  }
+},
+{
+  "type": "node",
+  "id": 1425956022,
+  "lat": 51.2714032,
+  "lon": 7.2269932,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housename": "Oxtor",
+    "addr:housenumber": "41 - 43",
+    "addr:postcode": "42289",
+    "addr:street": "Mohrenstraße",
+    "amenity": "bar",
+    "name": "OXTOR Terrasse",
+    "opening_hours": "off",
+    "smoking": "outdoor",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1427602447,
+  "lat": 51.2836801,
+  "lon": 7.1811513,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "42281",
+    "addr:street": "Hatzfelder Straße",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Akropolis",
+    "phone": "Tel.: +49 202 70 03 39",
+    "website": "www.akropolis-wuppertal.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1433236920,
+  "lat": 51.2687050,
+  "lon": 7.1483980,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "61",
+    "addr:postcode": "42107",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Mama Malamo"
+  }
+},
+{
+  "type": "node",
+  "id": 1459436427,
+  "lat": 51.2650905,
+  "lon": 7.1466090,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "42105",
+    "addr:street": "Wiesenstraße",
+    "amenity": "bar",
+    "name": "Cafe ADA",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1496629358,
+  "lat": 51.2484232,
+  "lon": 7.1294404,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "42117",
+    "addr:street": "Simonsstraße",
+    "amenity": "restaurant",
+    "name": "Soulfood Cafe Simonz",
+    "phone": "+49 202 94672808",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafe-simonz.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Ein größeres WC als normal ist vorhanden. Rollstuhlgerecht ist das WC nicht (keine Haltegriffe). Wenn man aber relativ aktiv und nicht gerade im E-Rollstuhl unterwegs ist, kommt man in dem WC dennoch klar."
+  }
+},
+{
+  "type": "node",
+  "id": 1578534263,
+  "lat": 51.2389825,
+  "lon": 7.1466984,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "150",
+    "addr:postcode": "42119",
+    "addr:street": "Cronenberger Straße",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "delivery": "yes",
+    "name": "Indian Palace",
+    "opening_hours": "Mo-Su,PH 11:30-22:30",
+    "url": "http://www.indianpalace-wuppertal.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1578555504,
+  "lat": 51.2507643,
+  "lon": 7.1377425,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "57",
+    "addr:postcode": "42103",
+    "addr:street": "Tannenbergstraße",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Pizzeria Akropolis",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1612768106,
+  "lat": 51.2598958,
+  "lon": 7.1377271,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "42105",
+    "addr:street": "Marienstraße",
+    "amenity": "pub",
+    "name": "DOMHAN",
+    "opening_hours": "19:00-01:00",
+    "smoking": "no",
+    "website": "http://www.domhan-wtal.de",
+    "wheelchair": "no",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 1619354495,
+  "lat": 51.3025194,
+  "lon": 7.2150559,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "american",
+    "email": "wuppertal@roadstop.de",
+    "fax": "+49-202-51517391",
+    "name": "Road Stop",
+    "opening_hours": "Mo-Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,10:00-24:00",
+    "phone": "+49-202-51517390",
+    "smoking": "separated",
+    "website": "http://www.roadstop.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1627095320,
+  "lat": 51.2705416,
+  "lon": 7.2001888,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Café Best"
+  }
+},
+{
+  "type": "node",
+  "id": 1638978129,
+  "lat": 51.2564336,
+  "lon": 7.1537301,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "20",
+    "addr:postcode": "42103",
+    "addr:street": "Bembergstraße",
+    "amenity": "restaurant",
+    "contact:phone": "+49 202 3179034",
+    "contact:website": "http://www.alhowara.de",
+    "cuisine": "arabic",
+    "name": "Al Howara",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1641737801,
+  "lat": 51.2603255,
+  "lon": 7.1442741,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Café Klauß",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1644079894,
+  "lat": 51.2869315,
+  "lon": 7.2317909,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "Pizza Leoni",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1646792345,
+  "lat": 51.2713176,
+  "lon": 7.2224883,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "27",
+    "addr:postcode": "42289",
+    "addr:street": "Werléstraße",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Eiscafé Colucci",
+    "phone": "+49 202 626846",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1648927307,
+  "lat": 51.2771794,
+  "lon": 7.2348369,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Kim Long",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1665750250,
+  "lat": 51.2462943,
+  "lon": 7.1474149,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Uni Kneipe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1681726757,
+  "lat": 51.2607145,
+  "lon": 7.1379484,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "26",
+    "addr:postcode": "42105",
+    "addr:street": "Schreinerstraße",
+    "amenity": "pub",
+    "name": "Hayat",
+    "phone": "+49 202 30 83 29"
+  }
+},
+{
+  "type": "node",
+  "id": 1687653221,
+  "lat": 51.2708634,
+  "lon": 7.1251757,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Eiscafe Italia"
+  }
+},
+{
+  "type": "node",
+  "id": 1696155514,
+  "lat": 51.2244317,
+  "lon": 7.1989121,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "33",
+    "addr:postcode": "42369",
+    "addr:street": "Remscheider Straße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Zum Bergischen Haus",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1696168250,
+  "lat": 51.2551903,
+  "lon": 7.1312790,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "42105",
+    "addr:street": "Briller Straße",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "email": "info@meson-alegria.de",
+    "name": "Meson Alegria",
+    "opening_hours": "Mo off; Tu-Su 18:00-01:00",
+    "phone": "+49 202 30 02 63",
+    "website": "http://www.meson-alegria.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1737447231,
+  "lat": 51.2724673,
+  "lon": 7.2057368,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "96",
+    "addr:postcode": "42275",
+    "addr:street": "Werth",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Portobello",
+    "phone": "+49 202 59 87 24"
+  }
+},
+{
+  "type": "node",
+  "id": 1741801875,
+  "lat": 51.2640835,
+  "lon": 7.2171672,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "11",
+    "addr:postcode": "42289",
+    "addr:street": "Forestastraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "email": "info@villaforesta.de",
+    "name": "Villa Foresta",
+    "phone": "+49 202 28 18 86 00",
+    "website": "http://www.villaforesta.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1755955811,
+  "lat": 51.2262418,
+  "lon": 7.1987372,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42369",
+    "addr:street": "Lüttringhauser Straße",
+    "amenity": "pub",
+    "name": "Zur Ecke"
+  }
+},
+{
+  "type": "node",
+  "id": 1764671603,
+  "lat": 51.2216718,
+  "lon": 7.1935649,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "78",
+    "addr:postcode": "42369",
+    "addr:street": "Talsperrenstraße",
+    "amenity": "restaurant",
+    "name": "Gaststätte Nolzen",
+    "phone": "+49 202 464420",
+    "toilets:wheelchair": "no",
+    "website": "http://www.gaststaette-nolzen.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1769229901,
+  "lat": 51.2204868,
+  "lon": 7.0804762,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "114",
+    "addr:postcode": "42329",
+    "addr:street": "Dasnöckel",
+    "amenity": "cafe",
+    "name": "le Cefateria",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1769260255,
+  "lat": 51.2205771,
+  "lon": 7.0806683,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "110",
+    "addr:postcode": "42329",
+    "addr:street": "Dasnöckel",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Saray Imbiss"
+  }
+},
+{
+  "type": "node",
+  "id": 1770298645,
+  "lat": 51.2571978,
+  "lon": 7.1428178,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "40",
+    "addr:postcode": "42103",
+    "addr:street": "Herzogstraße",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:vegan": "yes",
+    "name": "Hans im Glück",
+    "website": "http://wuppertal.hansimglueck-burgergrill.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1770302511,
+  "lat": 51.2626944,
+  "lon": 7.1459382,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1770308244,
+  "lat": 51.2647914,
+  "lon": 7.1516719,
+  "tags": {
+    "amenity": "pub",
+    "name": "Bei Hasan",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1770308796,
+  "lat": 51.2650038,
+  "lon": 7.1517961,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kaspar Catering",
+    "website": "http://www.kaspar-catering.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1770318515,
+  "lat": 51.2563311,
+  "lon": 7.1465149,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Mazzino",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1770319348,
+  "lat": 51.2582984,
+  "lon": 7.1427155,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Libanesisches Restaurant",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1817535745,
+  "lat": 51.2735847,
+  "lon": 7.1595957,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "6a",
+    "addr:postcode": "42109",
+    "addr:street": "Weinberg",
+    "amenity": "restaurant",
+    "name": "Haus Eisenbach",
+    "phone": "+49 202 70 83 14"
+  }
+},
+{
+  "type": "node",
+  "id": 1826888914,
+  "lat": 51.2610262,
+  "lon": 7.1706628,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "153",
+    "addr:postcode": "42285",
+    "addr:street": "Friedrich-Engels-Allee",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "La Mamma",
+    "phone": "+49 202 479 68 53",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1835140968,
+  "lat": 51.2569412,
+  "lon": 7.1681021,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "42285",
+    "addr:street": "Haspeler Schulstraße",
+    "amenity": "pub",
+    "name": "Müll-Museum",
+    "phone": "+49 202 66 34 74"
+  }
+},
+{
+  "type": "node",
+  "id": 1837289836,
+  "lat": 51.2957933,
+  "lon": 7.0974424,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "China Restaurant Am Asbruch",
+    "opening_hours": "Mo-Sa 11:30-15:00,17:30-23:00;Tu off;Su,PH 11:30-23:00",
+    "phone": "02053/493288",
+    "website": "http://www.china-restaurant-am-asbruch.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1847267153,
+  "lat": 51.2617339,
+  "lon": 7.1743301,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "42285",
+    "addr:street": "Besenbruchstraße",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Café Gaudi",
+    "phone": "+49 202 899 866",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1848396385,
+  "lat": 51.2751649,
+  "lon": 7.2234797,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kavkaz"
+  }
+},
+{
+  "type": "node",
+  "id": 1848396389,
+  "lat": 51.2755162,
+  "lon": 7.2236555,
+  "tags": {
+    "amenity": "pub",
+    "name": "Oberbarmen Treff"
+  }
+},
+{
+  "type": "node",
+  "id": 1851678441,
+  "lat": 51.2537771,
+  "lon": 7.1353960,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "84",
+    "addr:postcode": "42103",
+    "addr:street": "Aue",
+    "amenity": "pub",
+    "name": "Café Zweistein",
+    "opening_hours": "16:00-24:00",
+    "phone": "+49 202 695 37 18",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1852646671,
+  "lat": 51.2542272,
+  "lon": 7.1375272,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "54",
+    "addr:postcode": "42103",
+    "addr:street": "Aue",
+    "amenity": "restaurant",
+    "fax": "+49 202 460 45 19",
+    "name": "Königshöhe2",
+    "opening_hours": "Mo-Su 12:00-22:00",
+    "phone": "+49 202 47 83 70 07",
+    "website": "http://www.restaurant-koenigshoehe.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1854293011,
+  "lat": 51.2566601,
+  "lon": 7.1683057,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "44",
+    "addr:postcode": "42285",
+    "addr:street": "Ritterstraße",
+    "amenity": "restaurant",
+    "name": "Futter-Krippe",
+    "phone": "+49 202 836 43"
+  }
+},
+{
+  "type": "node",
+  "id": 1854293024,
+  "lat": 51.2567725,
+  "lon": 7.1685341,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "42285",
+    "addr:street": "Haspeler Schulstraße",
+    "amenity": "pub",
+    "name": "Schalander",
+    "phone": "+49 202 893 56"
+  }
+},
+{
+  "type": "node",
+  "id": 1856227944,
+  "lat": 51.2769060,
+  "lon": 7.2353570,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "2",
+    "addr:postcode": "42389",
+    "addr:street": "Dahler Straße",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Samos",
+    "opening_hours": "Tu-Su 12:00-14:30; 17:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 (0202) 660872",
+    "website": "http://www.samos-restaurant.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1856862724,
+  "lat": 51.2745252,
+  "lon": 7.2439260,
+  "tags": {
+    "amenity": "pub",
+    "name": "Zur alten Tränke",
+    "short_name": "Tränke",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1861388383,
+  "lat": 51.2558350,
+  "lon": 7.1367191,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "11b",
+    "addr:postcode": "42103",
+    "addr:street": "Untergrünewalder Straße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Locanda San Lorenzo",
+    "phone": "+49 202 69 58 587",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1866340928,
+  "lat": 51.2544627,
+  "lon": 7.0601015,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "42327",
+    "addr:street": "Dornaper Straße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Bella Vista",
+    "phone": "+49 2058 783 12 53"
+  }
+},
+{
+  "type": "node",
+  "id": 1868616983,
+  "lat": 51.2739333,
+  "lon": 7.2437391,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Eis Cafe Cortina",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1877234632,
+  "lat": 51.2732480,
+  "lon": 7.2068714,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "1",
+    "addr:postcode": "42275",
+    "addr:street": "Bachstraße",
+    "amenity": "restaurant",
+    "name": "Bremme Stuben",
+    "phone": "+49 202 6 98 60 69",
+    "wheelchair": "no",
+    "wheelchair:description": "1 Stufe vor dem Eingang, schmaler Eingang, kein Behinderten WC"
+  }
+},
+{
+  "type": "node",
+  "id": 1877669728,
+  "lat": 51.2650810,
+  "lon": 7.1470359,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Marines",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1877718364,
+  "lat": 51.2692243,
+  "lon": 7.1747673,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Tacheles e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 1883866078,
+  "lat": 51.2569000,
+  "lon": 7.1430018,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "33",
+    "addr:postcode": "42103",
+    "addr:street": "Kasinostraße",
+    "amenity": "bar",
+    "cuisine": "international",
+    "name": "Bar Celona",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1888754706,
+  "lat": 51.2755571,
+  "lon": 7.2221403,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Tuna"
+  }
+},
+{
+  "type": "node",
+  "id": 1890415853,
+  "lat": 51.2750214,
+  "lon": 7.2213041,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "168",
+    "addr:postcode": "42277",
+    "addr:street": "Berliner Platz",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Eiscafé Barocco",
+    "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1890415982,
+  "lat": 51.2748902,
+  "lon": 7.2170281,
+  "tags": {
+    "amenity": "pub",
+    "name": "Snaps"
+  }
+},
+{
+  "type": "node",
+  "id": 1905365889,
+  "lat": 51.2197153,
+  "lon": 7.0776669,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "39",
+    "addr:postcode": "42329",
+    "addr:street": "Roßkamper Straße",
+    "amenity": "restaurant",
+    "name": "Zum Pfannenschrat",
+    "phone": "+49 202 73 43 94",
+    "website": "http://www.pfannenschrat.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1907368437,
+  "lat": 51.2733152,
+  "lon": 7.2487686,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Meerbar",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1908399555,
+  "lat": 51.2562226,
+  "lon": 7.2003493,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "42287",
+    "addr:street": "Sachsenstraße",
+    "amenity": "restaurant",
+    "name": "Zur alten Bergbahn",
+    "phone": "49 202 59 57 62",
+    "website": "http://www.zur-alten-bergbahn.de/",
+    "wheelchair": "yes",
+    "wheelchair:description": "Toiletten nicht barrierefrei aber alles übrige ist frei zugänglich.",
+    "wheelchair_toilet": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1911971170,
+  "lat": 51.2759833,
+  "lon": 7.2217404,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Im Takt"
+  }
+},
+{
+  "type": "node",
+  "id": 1924050135,
+  "lat": 51.2745152,
+  "lon": 7.2125848,
+  "tags": {
+    "amenity": "pub",
+    "name": "Zur Kanne"
+  }
+},
+{
+  "type": "node",
+  "id": 1925649724,
+  "lat": 51.2750612,
+  "lon": 7.2141732,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Lobby"
+  }
+},
+{
+  "type": "node",
+  "id": 1937140440,
+  "lat": 51.2563469,
+  "lon": 7.1478736,
+  "tags": {
+    "amenity": "bar",
+    "name": "Calvin7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1968316101,
+  "lat": 51.2703665,
+  "lon": 7.1909029,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "119",
+    "addr:postcode": "42283",
+    "addr:street": "Hohenstein",
+    "amenity": "restaurant",
+    "cuisine": "croatian",
+    "name": "Haus Hohenstein",
+    "opening_hours": "Tu-Fr 17:00-24:00; Sa,Su 12:00-15:00,17:00-24:00",
+    "operator": "Petar Lipovac",
+    "phone": "+49 202 553298",
+    "toilets:wheelchair": "no",
+    "website": "http://restaurant.einstein-newton.com/",
+    "wheelchair": "no",
+    "wheelchair:description": "4 hohe Stufen am Eingang ohne Alternative, keine Behindertentoilette."
+  }
+},
+{
+  "type": "node",
+  "id": 1978649624,
+  "lat": 51.2691292,
+  "lon": 7.2255917,
+  "tags": {
+    "amenity": "pub",
+    "name": "Gaststätte zum Treppchen",
+    "source": "Survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1981085063,
+  "lat": 51.2759420,
+  "lon": 7.1842832,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "125",
+    "addr:postcode": "42283",
+    "addr:street": "Rödiger Straße",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Tapas und Meer"
+  }
+},
+{
+  "type": "node",
+  "id": 1991606229,
+  "lat": 51.2456464,
+  "lon": 7.1324276,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "125",
+    "addr:postcode": "42117",
+    "addr:street": "Viehhofstraße",
+    "amenity": "restaurant",
+    "name": "VillaMedia Gastronomie GmbH",
+    "phone": "+49 202 2427450",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.villamedia-eventlocation.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2012582901,
+  "lat": 51.2565450,
+  "lon": 7.1468353,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "9",
+    "addr:postcode": "42103",
+    "addr:street": "Kirchstraße",
+    "amenity": "cafe",
+    "name": "Cafe Grimm",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2014363877,
+  "lat": 51.2519635,
+  "lon": 7.1459306,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Pizzeria Piccola",
+    "opening_hours": "Mo-Su 11:30-23:00",
+    "phone": "0202/69577887",
+    "website": "http://www.pizzeria-piccola.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2056892683,
+  "lat": 51.2172577,
+  "lon": 7.1503739,
+  "tags": {
+    "amenity": "pub",
+    "food": "yes",
+    "name": "Riva",
+    "outdoor_seating": "no",
+    "source": "knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2070059909,
+  "lat": 51.2380533,
+  "lon": 7.0971429,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "81",
+    "addr:postcode": "42327",
+    "addr:street": "Sonnborner Straße",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "fax": "+49 202 31 773 42",
+    "name": "Hoa Le",
+    "phone": "+49 202 7 58 22 73",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2091208630,
+  "lat": 51.2779328,
+  "lon": 7.2568840,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "42389",
+    "addr:street": "Clausewitzstraße",
+    "amenity": "cafe",
+    "name": "Upstairs Billard-Café",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2094439026,
+  "lat": 51.2557162,
+  "lon": 7.1484519,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Döpps",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2098611479,
+  "lat": 51.2677996,
+  "lon": 7.1484665,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Döner Factory",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2103868622,
+  "lat": 51.2700258,
+  "lon": 7.1482908,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "87",
+    "addr:postcode": "42107",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Imbiss TAIWAN",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2110461911,
+  "lat": 51.2620002,
+  "lon": 7.1474806,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "50",
+    "addr:postcode": "42107",
+    "addr:street": "Gathe",
+    "amenity": "bar",
+    "name": "Klub",
+    "old_name": "Jony:Taboo; W.I.P Lounge; Stereo",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2111254090,
+  "lat": 51.2625883,
+  "lon": 7.1479654,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "53",
+    "addr:postcode": "42107",
+    "addr:street": "Gathe",
+    "amenity": "cafe",
+    "name": "Cafe Europa",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2121252023,
+  "lat": 51.2897580,
+  "lon": 7.1746450,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "691",
+    "addr:postcode": "42281",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "restaurant",
+    "name": "Pfannkuchenhaus Wuppertal",
+    "phone": "+49 202 701600",
+    "toilets:wheelchair": "no",
+    "website": "http://www.gourmetguide.com",
+    "wheelchair": "no",
+    "wheelchair:description": "Stufe am Eingang ohne Alternative, keine Behindertentoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 2122300373,
+  "lat": 51.2634557,
+  "lon": 7.1478867,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "turkish"
+  }
+},
+{
+  "type": "node",
+  "id": 2122349168,
+  "lat": 51.2512945,
+  "lon": 7.1485215,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "29",
+    "addr:postcode": "42119",
+    "addr:street": "Kleeblatt",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Restaurant Veneziana"
+  }
+},
+{
+  "type": "node",
+  "id": 2125354182,
+  "lat": 51.2895772,
+  "lon": 7.1573084,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:postcode": "42111",
+    "addr:street": "Neuenbaumer Weg",
+    "amenity": "restaurant",
+    "name": "Landhaus Ewich",
+    "phone": "+49 202 700790",
+    "toilets:wheelchair": "no",
+    "website": "http://www.landhaus-ewich.de/",
+    "wheelchair": "limited",
+    "wheelchair:description": "ca 3 cm Schwelle am Eingang, keine Behindertentoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 2135739452,
+  "lat": 51.2626519,
+  "lon": 7.1479843,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Istanbul"
+  }
+},
+{
+  "type": "node",
+  "id": 2138952713,
+  "lat": 51.2723929,
+  "lon": 7.1492633,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "150",
+    "addr:postcode": "42109",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "name": "MalaMatina Grill",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2172402367,
+  "lat": 51.2750050,
+  "lon": 7.2135013,
+  "tags": {
+    "amenity": "pub",
+    "name": "Fässchen"
+  }
+},
+{
+  "type": "node",
+  "id": 2176932763,
+  "lat": 51.2664031,
+  "lon": 7.1895111,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "378",
+    "addr:postcode": "42283",
+    "addr:street": "Friedrich-Engels-Allee",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Dschingis Khan"
+  }
+},
+{
+  "type": "node",
+  "id": 2201257668,
+  "lat": 51.2470321,
+  "lon": 7.1873437,
+  "tags": {
+    "amenity": "pub",
+    "name": "Landcafe",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2201266321,
+  "lat": 51.2467064,
+  "lon": 7.1848573,
+  "tags": {
+    "amenity": "pub",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2234538951,
+  "lat": 51.2617909,
+  "lon": 7.1745282,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "42285",
+    "addr:street": "Besenbruchstraße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Il Camino",
+    "phone": "+49 202 7 69 46 07",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2258295245,
+  "lat": 51.2239021,
+  "lon": 7.1521788,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Alte Wache"
+  }
+},
+{
+  "type": "node",
+  "id": 2261149893,
+  "lat": 51.2581535,
+  "lon": 7.1430904,
+  "tags": {
+    "amenity": "bar",
+    "name": "Malibu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2267948182,
+  "lat": 51.2647562,
+  "lon": 7.1420202,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Bei Pedro",
+    "opening_hours": "Mo off; Tu-Sa 12:00-22:30; Su,Ph 17:00-22:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2278157278,
+  "lat": 51.2456210,
+  "lon": 7.1919195,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Müllers Restaurant",
+    "wheelchair": "limited",
+    "wheelchair:description": "Zwei kleine Stufen. Das Personal ist gerne behilflich. Leider keine Rampe. Inhaber ist bereit eine Rampe zu kaufen."
+  }
+},
+{
+  "type": "node",
+  "id": 2280611474,
+  "lat": 51.2623703,
+  "lon": 7.1479895,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "59",
+    "addr:postcode": "42107",
+    "addr:street": "Gathe",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Pizza Pazza",
+    "website": "www.pizzapazza-wuppertal.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2294607343,
+  "lat": 51.2807805,
+  "lon": 7.1692308,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "475",
+    "addr:postcode": "42109",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Platon",
+    "phone": "+49 202 70 59 05",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2320363911,
+  "lat": 51.2650548,
+  "lon": 7.1462580,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42105",
+    "addr:street": "Froweinstraße",
+    "amenity": "restaurant",
+    "cuisine": "arabic",
+    "name": "NP Grill",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2338192248,
+  "lat": 51.2251296,
+  "lon": 7.1307281,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "A Tavola"
+  }
+},
+{
+  "type": "node",
+  "id": 2353715784,
+  "lat": 51.2655521,
+  "lon": 7.1824297,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "12",
+    "addr:postcode": "42283",
+    "addr:street": "Loher Straße",
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "Loher Grill",
+    "opening_hours": "Mo-We,Su,PH 11:30-23:00; Fr,Sa 11:30-23:30",
+    "operator": "Familie Kousovistas",
+    "phone": "+49 202 87209",
+    "website": "http://www.lohergrill.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2361285520,
+  "lat": 51.2577443,
+  "lon": 7.1427224,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "40",
+    "addr:postcode": "42103",
+    "addr:street": "Neumarktstraße",
+    "amenity": "restaurant",
+    "name": "Nudelland",
+    "website": "http://www.bringbutler.de/cgi-bin/Shop.pl?SHOP=Nudelland&FILIALENNUMMER=17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2362939333,
+  "lat": 51.2697402,
+  "lon": 7.2000237,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "42275",
+    "addr:street": "Gemarker Ufer",
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "name": "Wah Nam"
+  }
+},
+{
+  "type": "node",
+  "id": 2364229377,
+  "lat": 51.2709318,
+  "lon": 7.2170900,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "114",
+    "addr:postcode": "42289",
+    "addr:street": "Heckinghauser Straße",
+    "amenity": "restaurant",
+    "name": "Ranke Eck",
+    "source": "Google Maps",
+    "website": "ranke-eck.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2364247059,
+  "lat": 51.2711432,
+  "lon": 7.2198634,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "140",
+    "addr:postcode": "42289",
+    "addr:street": "Heckinghauser Straße",
+    "amenity": "restaurant",
+    "name": "Blaue Donau",
+    "source": "Google Maps",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2377811959,
+  "lat": 51.2644026,
+  "lon": 7.1336685,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Mai Thai",
+    "website": "http://www.maithaisuki.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2381996297,
+  "lat": 51.2711804,
+  "lon": 7.1136265,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housename": "Karpathen",
+    "addr:housenumber": "15a",
+    "addr:postcode": "42113",
+    "addr:street": "August-Jung-Weg",
+    "amenity": "restaurant",
+    "capacity": "50",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Karpathen",
+    "smoking": "outside",
+    "takeaway": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2382003702,
+  "lat": 51.2700309,
+  "lon": 7.1075111,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housename": "Landhaus Beek",
+    "addr:housenumber": "163",
+    "addr:postcode": "42113",
+    "addr:street": "In der Beek",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Landhaus Beek",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 2382043440,
+  "lat": 51.2611109,
+  "lon": 7.1176508,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "197",
+    "addr:postcode": "42115",
+    "addr:street": "Katernberger Straße",
+    "amenity": "restaurant",
+    "name": "Monticciolo Im Parkschlösschen",
+    "opening_hours": "Tu-So 11:30+; Mo off",
+    "website": "http://parkschloesschen-wuppertal.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2382160289,
+  "lat": 51.2557935,
+  "lon": 7.1376288,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "designation": "Bistro",
+    "name": "Dios Taverne",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2391017643,
+  "lat": 51.2550353,
+  "lon": 7.1313882,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "15",
+    "addr:postcode": "42105",
+    "addr:street": "Briller Straße",
+    "amenity": "restaurant",
+    "cuisine": "Türk.Spezialtäten,_Kebab,_Pizza",
+    "name": "Kebab Stube"
+  }
+},
+{
+  "type": "node",
+  "id": 2396177055,
+  "lat": 51.2972568,
+  "lon": 7.1612029,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "42111",
+    "addr:street": "Höhenstraße",
+    "amenity": "cafe",
+    "cuisine": "italian",
+    "name": "Eisdiele & Eiscafé \"Il Sole\""
+  }
+},
+{
+  "type": "node",
+  "id": 2396219014,
+  "lat": 51.2567498,
+  "lon": 7.1372359,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "102",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "pub",
+    "name": "Swane Design Café",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2396222790,
+  "lat": 51.2558117,
+  "lon": 7.1391461,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Queerbeet"
+  }
+},
+{
+  "type": "node",
+  "id": 2396222799,
+  "lat": 51.2554827,
+  "lon": 7.1382133,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Mocca",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2396224364,
+  "lat": 51.2553231,
+  "lon": 7.1371927,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "46",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "internet_access": "no",
+    "name": "Bistro Kaufmann",
+    "phone": "+4920287020250",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://www.metzgerei-kaufmann.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2396236246,
+  "lat": 51.2543378,
+  "lon": 7.1349188,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "El Jamon",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2400877090,
+  "lat": 51.2909775,
+  "lon": 7.2364129,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Haus Nächstebreck"
+  }
+},
+{
+  "type": "node",
+  "id": 2412914427,
+  "lat": 51.2563045,
+  "lon": 7.1374027,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "42103",
+    "addr:street": "Obergrünewalder Straße",
+    "amenity": "pub",
+    "name": "Zum Köhlerliesel",
+    "smoking": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2413038681,
+  "lat": 51.2553710,
+  "lon": 7.1378582,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "37",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Delhi-Roma",
+    "phone": "+49 202 312345",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.delhi-roma.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2413038711,
+  "lat": 51.2551462,
+  "lon": 7.1372307,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "49",
+    "addr:postcode": "42103",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Thai an",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2422822746,
+  "lat": 51.2805247,
+  "lon": 7.1249164,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "316",
+    "addr:postcode": "42113",
+    "addr:street": "Nevigeser Straße",
+    "amenity": "restaurant",
+    "cuisine": "german",
+    "name": "Zur Voßdelle",
+    "phone": "+49 202 495 77 66"
+  }
+},
+{
+  "type": "node",
+  "id": 2430197567,
+  "lat": 51.2488320,
+  "lon": 7.2966668,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Birks kleines Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2458029960,
+  "lat": 51.2576778,
+  "lon": 7.1463208,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "42103",
+    "addr:street": "Wall",
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Am Wall",
+    "operator": "Dahlmann",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2458038330,
+  "lat": 51.2575581,
+  "lon": 7.1460147,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "42103",
+    "addr:street": "Schlössersgasse",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Cafe Wundertüte",
+    "phone": "+49 202 45 38 87"
+  }
+},
+{
+  "type": "node",
+  "id": 2458343912,
+  "lat": 51.2266228,
+  "lon": 7.1988778,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "46",
+    "addr:postcode": "42369",
+    "addr:street": "Staasstraße",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Best Döner",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2462374745,
+  "lat": 51.2580532,
+  "lon": 7.1549139,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "91",
+    "addr:postcode": "42103",
+    "addr:street": "Hofkamp",
+    "amenity": "restaurant",
+    "cuisine": "croatian",
+    "name": "Restaurant Delminium",
+    "website": "http://www.delminium.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2462379894,
+  "lat": 51.2604297,
+  "lon": 7.1374940,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "31",
+    "addr:postcode": "42105",
+    "addr:street": "Brunnenstraße",
+    "amenity": "pub",
+    "name": "Chili Royal",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2471635431,
+  "lat": 51.2716344,
+  "lon": 7.1976185,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "koscher",
+    "name": "Negev"
+  }
+},
+{
+  "type": "node",
+  "id": 2482825702,
+  "lat": 51.2564956,
+  "lon": 7.1456031,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "42103",
+    "addr:street": "Mäuerchen",
+    "amenity": "restaurant",
+    "name": "Wagner am Mäuerchen",
+    "phone": "+49 202 4491012",
+    "toilets:wheelchair": "no",
+    "website": "http://www.wagner-am-maeuerchen.de",
+    "wheelchair": "no",
+    "wheelchair:description": "Stufe am Eingang, keine Behindertentoilette"
+  }
+},
+{
+  "type": "node",
+  "id": 2492009724,
+  "lat": 51.2710424,
+  "lon": 7.2011930,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "42275",
+    "addr:street": "Concordienstraße",
+    "amenity": "restaurant",
+    "name": "Donau Stuben",
+    "phone": "+49 202 55 59 50",
+    "website": "http://www.donau-stuben.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 2520799546,
+  "lat": 51.2571924,
+  "lon": 7.1469395,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Museums Cafee",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2556778429,
+  "lat": 51.2579394,
+  "lon": 7.1432372,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "38",
+    "addr:postcode": "42103",
+    "addr:street": "Neumarktstraße",
+    "amenity": "restaurant",
+    "cuisine": "turkish",
+    "name": "Kapadokya",
+    "phone": "+49 202 27276635",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2571271623,
+  "lat": 51.2138777,
+  "lon": 7.1443581,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "162",
+    "addr:postcode": "42349",
+    "addr:street": "Hauptstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "greek;german",
+    "name": "ElGreco"
+  }
+},
+{
+  "type": "node",
+  "id": 2584939705,
+  "lat": 51.2714050,
+  "lon": 7.1999196,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "39",
+    "addr:postcode": "42275",
+    "addr:street": "Werth",
+    "amenity": "cafe",
+    "name": "Cafe Extrablatt",
+    "phone": "+49 202 7473109",
+    "toilets:wheelchair": "no",
+    "website": "http://www.cafe-extrablatt.com/cms/front_content.php?idcat=850&standort_id=50",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2610912580,
+  "lat": 51.2588943,
+  "lon": 7.1446868,
+  "tags": {
+    "amenity": "cafe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2615253532,
+  "lat": 51.2764702,
+  "lon": 7.2180397,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housename": "Zlota Rybka",
+    "addr:housenumber": "44",
+    "addr:postcode": "42277",
+    "addr:street": "Normannenstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "30",
+    "cuisine": "polish",
+    "name": "Zlota Rybka",
+    "phone": "+49 202 97358547"
+  }
+},
+{
+  "type": "node",
+  "id": 2624605835,
+  "lat": 51.2749193,
+  "lon": 7.2153529,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "105",
+    "addr:postcode": "42275",
+    "addr:street": "Berliner Straße",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "name": "Bombay",
+    "opening_hours": "Mo-Su 11:00-15:00,17:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2638535343,
+  "lat": 51.2510388,
+  "lon": 7.1271375,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "130",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "name": "Enchilada",
+    "website": "Http://enchilada.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2661121173,
+  "lat": 51.2723700,
+  "lon": 7.2059680,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "99",
+    "addr:postcode": "42275",
+    "addr:street": "Höhne",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "drive_in": "no",
+    "internet_access:fee": "no",
+    "name": "Piräus - Der Hafen der Stadt",
+    "opening_hours": "Mo-Sa 12:00 - 14:30, 18:00 - 23:00; Su 12:00-14:30, 18:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 202 73 68 24",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2697689128,
+  "lat": 51.2499695,
+  "lon": 7.3036148,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Zur alten Bruderschaft",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2697726432,
+  "lat": 51.2505498,
+  "lon": 7.1266585,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "154",
+    "addr:postcode": "42117",
+    "addr:street": "Friedrich-Ebert-Straße",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Sawasdee",
+    "phone": "+49 202 3 09 69 69"
+  }
+},
+{
+  "type": "node",
+  "id": 2774468127,
+  "lat": 51.2574319,
+  "lon": 7.1524125,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "51",
+    "addr:postcode": "42103",
+    "addr:street": "Hofaue",
+    "amenity": "restaurant",
+    "cuisine": "regional;sandwich",
+    "email": "info@restaurant-atelier.de",
+    "name": "Atelier",
+    "opening_hours": "Mo-Sa 10:00+; Su 10:00-21:00",
+    "phone": "+49 202 49 68 81 0",
+    "website": "http://restaurant-atelier.de",
+    "wheelchair": "limited",
+    "wheelchair:description": "Barrierefreier Eingang über Hinterhof"
+  }
+},
+{
+  "type": "node",
+  "id": 2810559950,
+  "lat": 51.2667976,
+  "lon": 7.1450442,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "48",
+    "addr:postcode": "42105",
+    "addr:street": "Mirker Straße",
+    "amenity": "cafe",
+    "drink:afri-cola": "served",
+    "drink:beer": "served",
+    "drink:bärtig-bräu": "served",
+    "drink:club-mate": "served",
+    "drink:soy_milk": "served",
+    "drink:wine": "served",
+    "internet_access": "wlan",
+    "name": "Hutmacher",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2817533226,
+  "lat": 51.2389391,
+  "lon": 7.0913222,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "42327",
+    "addr:street": "Mondstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "italian",
+    "name": "Trattoria bei Dino"
+  }
+},
+{
+  "type": "node",
+  "id": 2850274505,
+  "lat": 51.2679643,
+  "lon": 7.1990572,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "fax": "+49 202 76 97 503",
+    "name": "Hellas Grill",
+    "opening_hours": "Mo-Su 11:30-23:00; Fr,Sa 11:30-24:00",
+    "phone": "+49 202 55 51 01",
+    "website": "http://www.hellasgrill.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2885271039,
+  "lat": 51.2870125,
+  "lon": 7.2186650,
+  "tags": {
+    "amenity": "pub",
+    "name": "Zur Alten Eiche"
+  }
+},
+{
+  "type": "node",
+  "id": 2891119994,
+  "lat": 51.2519345,
+  "lon": 7.1434971,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Dionysos",
+    "opening_hours": "Mo-Su 12:00-15:00; 18:00-24:00",
+    "operator": "Athanasios Stergiou",
+    "phone": "+49 (0202)4964996"
+  }
+},
+{
+  "type": "node",
+  "id": 2925757195,
+  "lat": 51.2618828,
+  "lon": 7.1743310,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42285",
+    "addr:street": "Besenbruchstraße",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Glascaffe"
+  }
+},
+{
+  "type": "node",
+  "id": 2949453782,
+  "lat": 51.2244814,
+  "lon": 7.1446711,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42349",
+    "addr:street": "Neuenhof",
+    "amenity": "restaurant",
+    "email": "info@neuenhof1.de",
+    "name": "Neuenhof 1",
+    "opening_hours": "Mo-Fr 12:00-20:00; Sa,Su 10:00-20:00",
+    "phone": "+49 202 69 55 83 01",
+    "website": "http://www.neuenhof1.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2952521220,
+  "lat": 51.2855295,
+  "lon": 7.2226894,
+  "tags": {
+    "amenity": "pub",
+    "name": "Schweden Stube"
+  }
+},
+{
+  "type": "node",
+  "id": 2953920007,
+  "lat": 51.2770199,
+  "lon": 7.2043533,
+  "tags": {
+    "amenity": "pub",
+    "name": "GAZstätte"
+  }
+},
+{
+  "type": "node",
+  "id": 2958343629,
+  "lat": 51.2742413,
+  "lon": 7.2040667,
+  "tags": {
+    "amenity": "pub",
+    "name": "Poststube"
+  }
+},
+{
+  "type": "node",
+  "id": 3049505460,
+  "lat": 51.2533007,
+  "lon": 7.1047219,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "146",
+    "addr:postcode": "42115",
+    "addr:street": "Varresbecker Straße",
+    "amenity": "pub",
+    "building": "yes",
+    "name": "Jever Eck"
+  }
+},
+{
+  "type": "node",
+  "id": 3067587595,
+  "lat": 51.2578686,
+  "lon": 7.1062496,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tenniscenter Eskesberg"
+  }
+},
+{
+  "type": "node",
+  "id": 3075645341,
+  "lat": 51.2532855,
+  "lon": 7.1325428,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ital. Eiscafe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3075823891,
+  "lat": 51.2567628,
+  "lon": 7.1426085,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "42103",
+    "addr:street": "Kasinostraße",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Mio³",
+    "phone": "+49 202 70 92 44 12",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3078348075,
+  "lat": 51.2760238,
+  "lon": 7.2236916,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Berlin"
+  }
+},
+{
+  "type": "node",
+  "id": 3080661838,
+  "lat": 51.2577997,
+  "lon": 7.1434362,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "Sushital",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3085317684,
+  "lat": 51.2554448,
+  "lon": 7.1051787,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "186a",
+    "addr:postcode": "42115",
+    "addr:street": "Otto-Hausmann-Ring",
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Restaurant Haus Brela",
+    "phone": "+49 202 71 35 35"
+  }
+},
+{
+  "type": "node",
+  "id": 3140337745,
+  "lat": 51.2570442,
+  "lon": 7.1480723,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3165303704,
+  "lat": 51.2405562,
+  "lon": 7.1063014,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "42117",
+    "addr:street": "Boettingerweg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "italian",
+    "email": "info@davinci-wuppertal.de",
+    "name": "Da Vinci",
+    "opening_hours": "Mo-Su 11:30-24:00",
+    "phone": "+49 202 317 617 61",
+    "website": "http://davinci-wuppertal.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3171941344,
+  "lat": 51.2755707,
+  "lon": 7.1851542,
+  "tags": {
+    "amenity": "pub",
+    "name": "Thorner Eck"
+  }
+},
+{
+  "type": "node",
+  "id": 3171941348,
+  "lat": 51.2734646,
+  "lon": 7.1868089,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "El Greco",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3207498663,
+  "lat": 51.2564827,
+  "lon": 7.1473949,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Welt-Cafe",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3220610889,
+  "lat": 51.2826382,
+  "lon": 7.2552016,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "email": "kontakt@chinacityrestaurant-wuppertal.de",
+    "name": "China City Buffet Restaurant",
+    "opening_hours": "Mo-Fr 12:00-15:00,17:30-23:00; Sa,Su 12:00-23:00",
+    "phone": "+49 202 74735388",
+    "toilets:wheelchair": "yes",
+    "website": "http://chinacityrestaurant-wuppertal.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3238162236,
+  "lat": 51.2804857,
+  "lon": 7.2178131,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "afghan",
+    "name": "Kabul"
+  }
+},
+{
+  "type": "node",
+  "id": 3258819250,
+  "lat": 51.2706871,
+  "lon": 7.2254777,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "206",
+    "addr:postcode": "42289",
+    "addr:street": "Heckinghauser Straße",
+    "amenity": "cafe",
+    "name": "Café Johannis",
+    "phone": "+49 202 63369",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.evangelisch-heckinghausen.de/cafe-johannis",
+    "wheelchair": "yes",
+    "wheelchair:description": "Kirchengemeinde Heckinghausen"
+  }
+},
+{
+  "type": "node",
+  "id": 3262142037,
+  "lat": 51.2600786,
+  "lon": 7.1382750,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "21",
+    "addr:postcode": "42105",
+    "addr:street": "Wirkerstraße",
+    "amenity": "restaurant",
+    "capacity": "20",
+    "cuisine": "spanish",
+    "name": "Tinaja",
+    "opening_hours": "19:00+",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3278361821,
+  "lat": 51.2590051,
+  "lon": 7.1363725,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:operator": "Freifunk Wuppertal",
+    "internet_access:ssid": "Freifunk-Wuppertal",
+    "name": "Stilbruch"
+  }
+},
+{
+  "type": "node",
+  "id": 3299501961,
+  "lat": 51.2592218,
+  "lon": 7.1406829,
+  "tags": {
+    "amenity": "pub",
+    "name": "Öllämpchen"
+  }
+},
+{
+  "type": "node",
+  "id": 3361786336,
+  "lat": 51.3117695,
+  "lon": 7.2491929,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:phone": "+49 202 2815594",
+    "cuisine": "sushi",
+    "name": "Sakura Sushi",
+    "opening_hours": "Mo-Sa 07:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3404151915,
+  "lat": 51.1989820,
+  "lon": 7.1311447,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "cake",
+    "name": "Tortenatellier",
+    "opening_hours": "Sa 09:00-17:30; Su 10:00-17:30"
+  }
+},
+{
+  "type": "node",
+  "id": 3412536085,
+  "lat": 51.2391207,
+  "lon": 7.1099257,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Okavango",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3420510394,
+  "lat": 51.2673120,
+  "lon": 7.1896930,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "50",
+    "addr:postcode": "42283",
+    "addr:state": "NRW",
+    "addr:street": "Unterdörnen",
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "drive_in": "no",
+    "name": "l' elefantino",
+    "outdoor_seating": "yes",
+    "phone": "+49 202 51581569",
+    "website": "www.lelefantino.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3495337289,
+  "lat": 51.2586561,
+  "lon": 7.1512519,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housename": "Pizzeria Tuono",
+    "addr:housenumber": "43",
+    "addr:postcode": "42103",
+    "addr:street": "Kipdorf",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "15",
+    "cuisine": "italian",
+    "name": "Pizzeria Tuono",
+    "phone": "+49 202 698 33 32",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3499068477,
+  "lat": 51.2261561,
+  "lon": 7.1990771,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "42369",
+    "addr:street": "Lüttringhauser Straße",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Conti",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3544033343,
+  "lat": 51.2738689,
+  "lon": 7.1310480,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "116",
+    "addr:postcode": "42109",
+    "addr:street": "Hainstraße",
+    "amenity": "cafe",
+    "building": "yes",
+    "craft": "confectionery",
+    "cuisine": "cake",
+    "email": "cafe.michaelis@t-online.de",
+    "fax": "+49 202 45 53 58",
+    "name": "Café Bredtchen",
+    "opening_hours": "Mo-Sa 9:00-18:00; Su 11:00-18:00",
+    "phone": "+49 202 76 90 528",
+    "website": "http://www.konditorei-michaelis.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3544033344,
+  "lat": 51.2607260,
+  "lon": 7.1427870,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "84",
+    "addr:postcode": "42105",
+    "addr:street": "Hochstraße",
+    "amenity": "cafe",
+    "building": "yes",
+    "craft": "confectionery",
+    "cuisine": "cake",
+    "email": "cafe.michaelis@t-online.de",
+    "fax": "+49 202 45 53 58",
+    "name": "Café Michaelis",
+    "opening_hours": "Mo-Fr 8:00-18:00; Sa 08:00-17:00; Su 13:00-17:00",
+    "phone": "+49 202 45 36 33",
+    "website": "http://www.konditorei-michaelis.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3577373449,
+  "lat": 51.2613142,
+  "lon": 7.1174114,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42115",
+    "addr:street": "Otto-Hausmann-Ring",
+    "amenity": "cafe",
+    "building": "yes",
+    "craft": "confectionery",
+    "cuisine": "cake",
+    "email": "cafe.michaelis@t-online.de",
+    "fax": "+49 202 45 53 58",
+    "name": "Café Nägele",
+    "opening_hours": "Mo off; Tu-Sa 9:00-18:00; Su 10:00-18:00",
+    "phone": "+49 202 71 51 50",
+    "website": "http://www.konditorei-michaelis.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3604275308,
+  "lat": 51.2676959,
+  "lon": 7.1403242,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "89",
+    "addr:postcode": "42109",
+    "addr:street": "Hansastraße",
+    "amenity": "restaurant",
+    "cuisine": "arabic",
+    "email": "mamounia.wuppertal@gmail.com",
+    "fax": "+49 202-5070584",
+    "name": "MAMOUNIA",
+    "opening_hours": "Tu-Su 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+49 202-27278910",
+    "website": "http://www.mamounia-restaurant.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3623546605,
+  "lat": 51.2577505,
+  "lon": 7.1434039,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "NOI Sushi Restaurant",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3669140266,
+  "lat": 51.2754808,
+  "lon": 7.2208839,
+  "tags": {
+    "amenity": "pub",
+    "name": "Cafe Gimgim 49"
+  }
+},
+{
+  "type": "node",
+  "id": 3718125117,
+  "lat": 51.2721115,
+  "lon": 7.2031781,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "69",
+    "addr:postcode": "42275",
+    "addr:street": "Werth",
+    "amenity": "cafe",
+    "name": "Eis-Cafe Wundertüte",
+    "phone": "+49 202 557752"
+  }
+},
+{
+  "type": "node",
+  "id": 3724518976,
+  "lat": 51.2929370,
+  "lon": 7.1852873,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Imbiss am Wasserturm",
+    "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-17:00",
+    "phone": "+49 202 87016800",
+    "website": "http://www.imbiss-am-wasserturm.de"
+  }
+},
+{
+  "type": "node",
+  "id": 3726315598,
+  "lat": 51.2833611,
+  "lon": 7.2163985,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "12",
+    "addr:postcode": "42277",
+    "addr:street": "Oststraße",
+    "amenity": "cafe",
+    "name": "K1 Art-Cafe",
+    "phone": "+492022604124",
+    "website": "http://www.k1artcafe.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3739307577,
+  "lat": 51.2646900,
+  "lon": 7.1441863,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "42105",
+    "addr:street": "Neue Nordstraße",
+    "amenity": "bar",
+    "name": "Hupe"
+  }
+},
+{
+  "type": "node",
+  "id": 3753590778,
+  "lat": 51.2313931,
+  "lon": 7.0711595,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cafe Born",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3767045675,
+  "lat": 51.2618426,
+  "lon": 7.1731225,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "185",
+    "addr:postcode": "42285",
+    "addr:street": "Friedrich-Engels-Allee",
+    "amenity": "restaurant",
+    "name": "Auer Schule",
+    "phone": "+4920281192",
+    "website": "http://auer-schule.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 3790108342,
+  "lat": 51.2629433,
+  "lon": 7.1244988,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "98",
+    "addr:postcode": "42115",
+    "addr:street": "Nüller Straße",
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "name": "Casa Espana",
+    "opening_hours": "18:00-23:00",
+    "phone": "+49 202 510507"
+  }
+},
+{
+  "type": "node",
+  "id": 3815813627,
+  "lat": 51.2649735,
+  "lon": 7.1455952,
+  "tags": {
+    "alt_name": "Pöschkes Essen&Trinken",
+    "amenity": "restaurant",
+    "contact:phone": "+49 202 4087373",
+    "contact:website": "http://www.poeschkes-restaurant.de/",
+    "cuisine": "mediteran",
+    "name": "Pöschkes",
+    "opening_hours": "Th-Sa 18:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3817570477,
+  "lat": 51.2491640,
+  "lon": 7.1294180,
+  "tags": {
+    "alt_name": "Roberts Essen + Trinken",
+    "amenity": "restaurant",
+    "cuisine": "international",
+    "name": "Roberts",
+    "opening_hours": "Mo-Sa 18:00-24:00",
+    "phone": "+49 202 39346825"
+  }
+},
+{
+  "type": "node",
+  "id": 3869062381,
+  "lat": 51.2671900,
+  "lon": 7.1866635,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mensa"
+  }
+},
+{
+  "type": "node",
+  "id": 3874533458,
+  "lat": 51.2566242,
+  "lon": 7.1374494,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "100",
+    "addr:postcode": "42103",
+    "addr:street": "Luisenstraße",
+    "amenity": "cafe",
+    "name": "Café Luise",
+    "toilets:wheelchair": "no",
+    "website": "http://luise-wuppertal.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3927295377,
+  "lat": 51.2579448,
+  "lon": 7.1437914,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "29",
+    "addr:postcode": "42103",
+    "addr:street": "Neumarktstraße",
+    "amenity": "restaurant",
+    "contact:phone": "015772900779",
+    "cuisine": "kebab",
+    "name": "DiVan",
+    "opening_hours": "Su-Th 08:00-01:00; Fr-Sa 08:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3927298140,
+  "lat": 51.2547295,
+  "lon": 7.1357640,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Cup Frozen Yogurt",
+    "url": "http://www.cupfrozenyogurt.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3927306781,
+  "lat": 51.2294553,
+  "lon": 7.2018681,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Zum Wiener in der Morsbachquelle"
+  }
+},
+{
+  "type": "node",
+  "id": 3927313949,
+  "lat": 51.2638879,
+  "lon": 7.1795381,
+  "tags": {
+    "amenity": "bar",
+    "name": "Ariana Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4007968362,
+  "lat": 51.2563021,
+  "lon": 7.1480686,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "5",
+    "addr:postcode": "42103",
+    "addr:street": "Calvinstraße",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "Prig Thai Imbiss"
+  }
+},
+{
+  "type": "node",
+  "id": 4031513889,
+  "lat": 51.2706025,
+  "lon": 7.1482884,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "42109",
+    "addr:street": "Eschenbeeker Straße",
+    "amenity": "bar",
+    "name": "Green Apple",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 4034387089,
+  "lat": 51.2722542,
+  "lon": 7.2587357,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "75",
+    "addr:postcode": "42389",
+    "addr:street": "Ehrenberger Straße",
+    "amenity": "restaurant",
+    "name": "Hotelrestaurant Kramer",
+    "phone": "+49 2336 473131",
+    "toilets:wheelchair": "no",
+    "website": "http://www.restaurant-schloss-martfeld.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4072957068,
+  "lat": 51.2679202,
+  "lon": 7.1960977,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Markgräfler-Stuben",
+    "opening_hours": "Tu-Sa 11:00-14:00, 17:00-23:00; Su 17:00-22:00",
+    "phone": "+49 202 76958408",
+    "website": "http://www.markgräfler-stuben.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4072957069,
+  "lat": 51.2684284,
+  "lon": 7.1962377,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "19",
+    "addr:postcode": "42283",
+    "addr:street": "Winklerstraße",
+    "amenity": "restaurant",
+    "name": "Onkel Ludwig",
+    "opening_hours": "Mo-Sa 11:00-15:00, 17:00-22:00; PH Su off",
+    "phone": "+49 202 550109",
+    "website": "http://onkel-ludwig.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4084082871,
+  "lat": 51.2701470,
+  "lon": 7.1482835,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "93",
+    "addr:postcode": "42107",
+    "addr:street": "Uellendahler Straße",
+    "amenity": "cafe",
+    "cuisine": "ice_cream",
+    "name": "Eiscafe Tal"
+  }
+},
+{
+  "type": "node",
+  "id": 4092489278,
+  "lat": 51.2800765,
+  "lon": 7.1486720,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Haus Marianne Event Catering Service Christian Ochses",
+    "phone": "+49 202 750263",
+    "website": "http://ochse-catering.de"
+  }
+},
+{
+  "type": "node",
+  "id": 4114488311,
+  "lat": 51.2508593,
+  "lon": 7.1430447,
+  "tags": {
+    "amenity": "cafe",
+    "name": "LUNINI Familien Café",
+    "opening_hours": "Tu-Fr 09:00-18:00; Sa 14:00-18:00; Su 10:00-18:00",
+    "phone": "+49 202 2517961",
+    "url": "http://cafelumini.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4119515793,
+  "lat": 51.2614344,
+  "lon": 7.1402741,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Multi Kulti"
+  }
+},
+{
+  "type": "node",
+  "id": 4236437211,
+  "lat": 51.2590614,
+  "lon": 7.1851588,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Vereinsheim KGV Kothen e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 4236438524,
+  "lat": 51.2571619,
+  "lon": 7.1861997,
+  "tags": {
+    "amenity": "pub",
+    "name": "Vereinsheim KGV Kothener Wald e.V.",
+    "operator": "KGV Kothener Wald e.V."
+  }
+},
+{
+  "type": "node",
+  "id": 4273438083,
+  "lat": 51.2793299,
+  "lon": 7.2240939,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "65",
+    "addr:postcode": "42277",
+    "addr:street": "Langobardenstraße",
+    "amenity": "cafe",
+    "cuisine": "german",
+    "email": "cafe-nordbahntrasse@wichernhaus-wtal.de",
+    "name": "Cafe Nordbahntrasse",
+    "phone": "+49 202 9806553"
+  }
+},
+{
+  "type": "node",
+  "id": 4291300523,
+  "lat": 51.2714087,
+  "lon": 7.2212915,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "42289",
+    "addr:street": "Hunsrückstraße",
+    "amenity": "bar",
+    "internet_access": "terminal",
+    "internet_access:fee": "no",
+    "name": "Phönix Internet Cafe",
+    "payment:coins": "yes",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4293873945,
+  "lat": 51.2879459,
+  "lon": 7.2009894,
+  "tags": {
+    "addr:city": "Wuppertal",
+    "addr:housenumber": "30d",
+    "addr:postcode": "42281",
+    "addr:street": "Mallack",
+    "amenity": "restaurant",
+    "cuisine": "greek",
+    "name": "Troja",
+    "takeaway": "yes"
+  }
+}
+
+  ]
+}
