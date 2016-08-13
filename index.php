@@ -51,6 +51,11 @@ include $conf_file;
   var markers;
   var map;
 
+  function getWikipediaURL(tag) {
+    var split = tag.split(":");
+    return "https://" + split[0] + ".wikipedia.org/wiki/" + split[1];
+  }
+
   function getUrl(url) {
     if (!url.match(/^[a-zA-Z]+:\/\//))
     {
