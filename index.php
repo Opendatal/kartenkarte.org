@@ -26,6 +26,7 @@ include $conf_file;
   <link rel="stylesheet" href="css/L.Control.Locate.min.css" />
   <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" />
   <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/leaflet-search.css" />
 
   <script src="js/jquery-min.js"></script>
   <script src="js/leaflet.js"></script>
@@ -33,6 +34,7 @@ include $conf_file;
   <script src="js/leaflet.markercluster.js"></script>
   <script src="js/L.Control.Locate.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
+  <script src="js/leaflet-search.js"></script>
   <script src="js/project.js"></script>
   <style type="text/css">
     #map {
@@ -108,8 +110,19 @@ include $conf_file;
     ModalTimeout = window.setTimeout("$('#waitModal').modal('show');", 1000);
 
     // create a map in the "map" div, set the view to a given place and zoom
+    L.Icon.Default.imagePath = '/images';
     map = L.map('map').setView(<?php echo "[".$conf['lat'].", ".$conf['lon']."], ".$conf['zoom']; ?>);
     map.addControl(new HomeControl());
+    map.addControl( new L.Control.Search({
+      url: 'http://nominatim.openstreetmap.org/search?format=json&q={s}',
+      jsonpParam: 'json_callback',
+      propertyName: 'display_name',
+      propertyLoc: ['lat','lon'],
+      markerLocation: true,
+      autoCollapse: true,
+      autoType: false,
+      minLength: 2
+    }) );
 
    // add an OpenStreetMap tile layer
     L.tileLayer('<?php echo $conf['tile_url']; ?>', {
